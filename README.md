@@ -1,7 +1,14 @@
 <p align="center">
+    <img src="images/logo2.svg" alt="Logotype">
+</p>
+
+<p align="center">
     <img src="images/logo.svg" alt="Logotype">
 </p>
 
+<p align="center">
+    <img src="images/YARU.svg" alt="Logotype">
+</p>
 
 # Screenshot
 
