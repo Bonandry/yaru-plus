@@ -4,5 +4,5 @@
    .ColorScheme-Text { color:#808080; } .ColorScheme-NegativeText { color:#da4453; }
   </style>
  </defs>
- <path style="fill:#808080" d="m 4,9 v 3 H 0 v 1 h 4 v 3 h 7 V 9 Z m 7,0 v 7 h 7 v -3 h 4 V 12 H 18 V 9 Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m 4,9 v 3 H 0 v 1 h 4 v 3 h 7 V 9 Z m 7,0 v 7 h 7 v -3 h 4 V 12 H 18 V 9 Z"/>
 </svg>
