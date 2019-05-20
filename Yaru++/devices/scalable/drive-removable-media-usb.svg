@@ -1,4 +1,4 @@
-<svg width="256" height="256" version="1.1" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" viewBox="0 0 67.73 67.73">
  <defs>
   <linearGradient id="linearGradient1157" x1="192" x2="192" y1="68" y2="212" gradientTransform="matrix(.26458333 0 0 .26458333 -5.9167273 221.37572)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#808080" offset="0"/>
@@ -9,7 +9,7 @@
    <stop style="stop-color:#b7b7b7" offset=".613"/>
    <stop style="stop-color:#dbdbdb" offset="1"/>
   </linearGradient>
-  <filter id="filter1169" x="-.02" y="-.03" width="1.038" height="1.065" style="color-interpolation-filters:sRGB">
+  <filter id="filter1169" width="1.038" height="1.065" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
    <feGaussianBlur stdDeviation=".152"/>
   </filter>
   <linearGradient id="linearGradient4358" x1="88" x2="488" y1="88" y2="488" gradientUnits="userSpaceOnUse">
@@ -17,20 +17,20 @@
    <stop style="stop-color:#000000;stop-opacity:0" offset=".88"/>
    <stop style="stop-color:#000000" offset="1"/>
   </linearGradient>
-  <filter id="filter4346" x="-.01" y="-.01" width="1.026" height="1.022" style="color-interpolation-filters:sRGB">
+  <filter id="filter4346" width="1.026" height="1.022" x="-.01" y="-.01" style="color-interpolation-filters:sRGB">
    <feGaussianBlur stdDeviation="2.12"/>
   </filter>
  </defs>
  <g transform="translate(0,-229.26666)">
-  <path transform="matrix(.13229167 0 0 .13229167 -5.9167283 221.37572)" d="m237.84323 90c-70.59344 0-78.18921 7.250835-77.84323 77.98706v216.02588c-0.34598 70.73623 7.24979 77.98706 77.84323 77.98706h132.31354c70.59344 0 77.84323-7.24999 77.84323-77.98706v-216.02588c0-70.737067-7.24979-77.98706-77.84323-77.98706z" style="filter:url(#filter4346);opacity:.1"/>
-  <path transform="matrix(.13229167 0 0 .13229167 -5.9167283 221.37572)" d="m237.84323 90c-70.59344 0-78.18921 7.250835-77.84323 77.98706v216.02588c-0.34598 70.73623 7.24979 77.98706 77.84323 77.98706h132.31354c70.59344 0 77.84323-7.24999 77.84323-77.98706v-216.02588c0-70.737067-7.24979-77.98706-77.84323-77.98706z" style="fill:url(#linearGradient4358);filter:url(#filter4380);opacity:.3"/>
+  <path d="m237.84323 90c-70.59344 0-78.18921 7.250835-77.84323 77.98706v216.02588c-0.34598 70.73623 7.24979 77.98706 77.84323 77.98706h132.31354c70.59344 0 77.84323-7.24999 77.84323-77.98706v-216.02588c0-70.737067-7.24979-77.98706-77.84323-77.98706z" transform="matrix(.13229167 0 0 .13229167 -5.9167283 221.37572)" style="filter:url(#filter4346);opacity:.1"/>
+  <path d="m237.84323 90c-70.59344 0-78.18921 7.250835-77.84323 77.98706v216.02588c-0.34598 70.73623 7.24979 77.98706 77.84323 77.98706h132.31354c70.59344 0 77.84323-7.24999 77.84323-77.98706v-216.02588c0-70.737067-7.24979-77.98706-77.84323-77.98706z" transform="matrix(.13229167 0 0 .13229167 -5.9167283 221.37572)" style="fill:url(#linearGradient4358);filter:url(#filter4380);opacity:.3"/>
   <g transform="matrix(1.3229167,0,0,1.3229167,-119.95214,-100.6222)" style="enable-background:new">
    <g transform="translate(-228,192)" style="enable-background:new">
-    <rect x="335" y="94.2" width="19.2" height="11.2" style="filter:url(#filter1169);opacity:.2"/>
-    <rect x="335" y="97.4" width="19.2" height="8" style="fill:#c0bfbc"/>
-    <rect x="335" y="96.4" width="19.2" height="8.6" style="fill:#f6f5f4"/>
-    <rect transform="scale(-1,1)" x="-342.2" y="100.2" width="4.8" height="2.4" style="fill:#9a9996"/>
-    <rect x="347" y="100.2" width="4.8" height="2.4" style="fill:#9a9996"/>
+    <rect width="19.2" height="11.2" x="335" y="94.2" style="filter:url(#filter1169);opacity:.2"/>
+    <rect width="19.2" height="8" x="335" y="97.4" style="fill:#c0bfbc"/>
+    <rect width="19.2" height="8.6" x="335" y="96.4" style="fill:#f6f5f4"/>
+    <rect width="4.8" height="2.4" x="-342.2" y="100.2" transform="scale(-1,1)" style="fill:#9a9996"/>
+    <rect width="4.8" height="2.4" x="347" y="100.2" style="fill:#9a9996"/>
    </g>
   </g>
   <path d="m43.050498 233.01739c9.338927 0 10.343783 0.95922 10.298012 10.31703v28.57843c0.04577 9.35781-0.959085 10.31704-10.298012 10.31704h-17.503975c-9.338923 0-10.298012-0.95912-10.298012-10.31704v-28.57843c0-9.35792 0.959089-10.31703 10.298012-10.31703z" style="fill:url(#linearGradient4226)"/>
