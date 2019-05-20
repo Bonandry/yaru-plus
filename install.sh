@@ -5,25 +5,23 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=GNOME++ GNOME++-Colorful GNOME++-Dark}"
+: "${THEMES:=Yaru++}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"
-gh_repo="gnome-plus"
-gh_desc="GNOME++ icon theme"
+gh_repo="yaru-plus"
+gh_desc="Yaru++ icons theme"
 
 cat <<- EOF
 
-
-   ____ _   _  ___  __  __ _____            
-  / ___| \ | |/ _ \|  \/  | ____| _     _   
- | |  _|  \| | | | | |\/| |  _| _| |_ _| |_ 
- | |_| | |\  | |_| | |  | | |__|_   _|_   _|
-  \____|_| \_|\___/|_|  |_|_____||_|   |_|  
+ dBP dBP  dBBBBBb   dBBBBBb     dBP dBP                
+    dBP        BB       dBP                            
+   dBP     dBP BB   dBBBBK    dBP dBP      dBP     dBP 
+  dBP     dBP  BB  dBP  BB   dBP_dBP    dBBBBBP dBBBBBP
+ dBP     dBBBBBBB dBP  dB'  dBBBBBP      dBP     dBP   
                                             
   $gh_desc
   $gh_url/$gh_repo
-
 
 EOF
 
