@@ -1,13 +1,14 @@
 [Icon Theme]
-Name=Suru++ Ubuntu
+Name=Yaru++
 
-Comment=Third-party icons theme based on Sam Hewitt's Suru icons theme
+Comment=An elegant and modern third party icons theme based on Canonical’s Yaru
+Comment[it]=Un elegante e moderno tema di icone di terze parti, basato sul Yaru di Canonical
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Suru
+Inherits=Yaru,Suru++,Suru
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
