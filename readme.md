@@ -29,6 +29,7 @@
 
 # Screenshot
 
+![List of Icons](images/list-of-icons.svg)
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 
