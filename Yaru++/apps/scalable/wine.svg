@@ -13,7 +13,7 @@
    width="256"
    version="1.1"
    id="svg34"
-   sodipodi:docname="winetricks.svg"
+   sodipodi:docname="wine.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata40">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -266,17 +266,6 @@
        fx="-89.053513"
        fy="70.980476"
        r="31.019505" />
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter5415-36"
-       width="1.1289999"
-       height="1.076"
-       x="-0.07"
-       y="-0.039999999">
-      <feGaussianBlur
-         id="feGaussianBlur41-7"
-         stdDeviation="2.813" />
-    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -406,59 +395,5 @@
        id="path2471"
        d="m 113.17448,50.105111 c -6.8977,23.864906 -14.420948,47.868438 -29.85791,57.389639 -9.831101,6.06365 -22.920335,0.0965 -27.225585,-8.707024 -2.202786,-5.035207 -3.401914,-11.294452 -3.47168,-18.628417 -0.08963,7.984163 1.120112,14.753115 3.47168,20.128421 4.30525,8.80353 17.394484,14.77067 27.225585,8.70702 15.678021,-9.669881 23.19734,-34.276264 30.18457,-58.50585 -0.10141,-0.129089 -0.21849,-0.255652 -0.32666,-0.383789 z"
        style="opacity:0.2;fill:#020202;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94049478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <g
-       style="enable-background:new"
-       transform="matrix(0.69100719,0,0,0.69100719,172.76242,-95.234538)"
-       id="g111">
-      <g
-         style="enable-background:new"
-         transform="matrix(-1,0,0,1,299.39682,36.348543)"
-         id="g109">
-        <g
-           style="opacity:0.3;fill:#141414;filter:url(#filter5415-36)"
-           transform="rotate(28.009195,249.7494,559.394)"
-           id="g99">
-          <g
-             style="fill:#141414"
-             id="g97">
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#141414"
-               d="m 285,6 v 32 h 16 V 6 Z m 0,160 v 32 h 16 v -32 z"
-               transform="matrix(-0.9999508,0,0,0.9999508,508.23235,104.87827)"
-               id="path93" />
-            <rect
-               style="fill:#141414"
-               width="15.999"
-               height="127.994"
-               x="-223.25"
-               y="142.88"
-               transform="scale(-1,1)"
-               id="rect95" />
-          </g>
-        </g>
-        <g
-           transform="rotate(28.009195,252.75866,554.38484)"
-           id="g107">
-          <g
-             id="g105">
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:url(#linearGradient1674)"
-               d="m 285,6 v 32 h 16 V 6 Z m 0,160 v 32 h 16 v -32 z"
-               transform="matrix(-0.9999508,0,0,0.9999508,508.23235,104.87827)"
-               id="path101" />
-            <rect
-               style="fill:url(#linearGradient1665)"
-               width="15.999"
-               height="127.994"
-               x="-223.25"
-               y="142.88"
-               transform="scale(-1,1)"
-               id="rect103" />
-          </g>
-        </g>
-      </g>
-    </g>
   </g>
 </svg>
