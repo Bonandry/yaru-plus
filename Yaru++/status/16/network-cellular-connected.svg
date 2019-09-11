@@ -1,14 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
- </defs>
- <g id="layer9" label="status" transform="translate(-913.00018,267.00006)">
-  <path d="m 928.0002,-266.70703 -13.85352,13.85351 -0.85351,0.85352 h 14.70703 z m -1,2.41406 V -253 h -11.29297 z" style="fill:#4d4d4d"/>
-  <path class="success" d="M 926.0002,-261.87891 918.12129,-254 h 7.87891 z" style="fill:#46a926"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15 .293L1.146 14.147.293 15H15zm-1 2.414V14H2.707z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="gray"/>
+    <path class="success" d="M13 5.121l-7.879 7.88H13z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#46a926"/>
 </svg>

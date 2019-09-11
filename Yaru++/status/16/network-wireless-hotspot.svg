@@ -1,15 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
- </defs>
- <g id="layer9" label="status" transform="translate(-913.00018,327.00006)">
-  <path d="m 920.5,-326.01172 c -1.92126,0 -3.8417,0.73249 -5.30469,2.19531 -2.92598,2.92565 -2.92598,7.68373 0,10.60938 l 0.70703,-0.70703 c -2.54381,-2.54352 -2.54381,-6.6518 0,-9.19532 2.54382,-2.54351 6.6515,-2.54351 9.19532,0 2.54381,2.54352 2.54381,6.6518 0,9.19532 l 0.70898,0.70703 c 2.92598,-2.92565 2.92598,-7.68373 0,-10.60938 -1.46299,-1.46282 -3.38538,-2.19531 -5.30664,-2.19531 z" style="fill:#4d4d4d"/>
-  <path d="m 920.5,-323.00781 c -1.1526,0 -2.30586,0.43498 -3.18359,1.30469 -1.75547,1.7394 -1.75547,4.58091 0,6.32031 l 0.70507,-0.71094 c -1.37158,-1.35903 -1.37158,-3.53941 0,-4.89844 1.37159,-1.35903 3.58545,-1.35903 4.95704,0 1.37158,1.35903 1.37158,3.53941 0,4.89844 l 0.70507,0.71094 c 1.75547,-1.7394 1.75547,-4.58091 0,-6.32031 -0.87773,-0.86971 -2.03099,-1.30469 -3.18359,-1.30469 z" style="fill:#4d4d4d"/>
-  <path d="m 920.5002,-320 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1,1.41211 V -311 h 1 v -6.08789 a 1.5,1.5 0 0 0 1,-1.41211 1.5,1.5 0 0 0 -1.5,-1.5 z" style="fill:#4d4d4d"/>
- </g>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-1173 267)'>
+        
+        <path color='#000' d='M1180.5-266.012a7.48 7.48 0 0 0-5.305 2.196c-2.926 2.925-2.926 7.683 0 10.609l.707-.707a6.494 6.494 0 0 1 0-9.195 6.497 6.497 0 0 1 9.198 0 6.494 6.494 0 0 1 0 9.195l.707.707c2.926-2.926 2.926-7.684 0-10.61a7.484 7.484 0 0 0-5.307-2.195z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+        <path color='#000' d='M1180.5-263.008a4.51 4.51 0 0 0-3.184 1.305 4.45 4.45 0 0 0 0 6.32l.705-.71a3.43 3.43 0 0 1 0-4.9 3.523 3.523 0 0 1 4.957 0 3.43 3.43 0 0 1 0 4.9l.706.71a4.45 4.45 0 0 0 0-6.32 4.51 4.51 0 0 0-3.184-1.305z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+        <path d='M1180.5-260a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1 1.412V-251h1v-6.088a1.5 1.5 0 0 0 1-1.412 1.5 1.5 0 0 0-1.5-1.5z' fill='gray'/>
+    </g>
 </svg>
