@@ -1,15 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#808080; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <rect style="fill:currentColor;" class="ColorScheme-Text" width="10" height="2" x="1" y="1" rx=".5" ry=".5"/>
- <circle style="fill:currentColor;" class="ColorScheme-Text" cx="13.976" cy="1.981" r="1"/>
- <rect width="10" height="2" x="1" y="5" rx=".5" ry=".5" style="fill:currentColor;" class="ColorScheme-Text"/>
- <circle cx="13.976" cy="5.981" r="1" style="fill:currentColor;" class="ColorScheme-Text"/>
- <rect style="fill:currentColor;" class="ColorScheme-Text" width="10" height="2" x="1" y="9" rx=".5" ry=".5"/>
- <circle style="fill:currentColor;" class="ColorScheme-Text" cx="13.976" cy="9.981" r="1"/>
- <rect width="10" height="2" x="1" y="13" rx=".5" ry=".5" style="fill:currentColor;" class="ColorScheme-Text"/>
- <circle cx="13.976" cy="13.981" r="1" style="fill:currentColor;" class="ColorScheme-Text"/>
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#808080">
+    <rect height="2" rx=".5" width="10" x="1" y="1"/>
+    <circle cx="13.976" cy="1.981" r="1"/>
+    <rect height="2" rx=".5" width="10" x="1" y="5"/>
+    <circle cx="13.976" cy="5.981" r="1"/>
+    <rect height="2" rx=".5" width="10" x="1" y="9"/>
+    <circle cx="13.976" cy="9.981" r="1"/>
+    <rect height="2" rx=".5" width="10" x="1" y="13"/>
+    <circle cx="13.976" cy="13.981" r="1"/>
+  </g>
 </svg>

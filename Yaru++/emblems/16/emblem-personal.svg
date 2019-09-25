@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.2">
- <rect width="15" height="15" x="-15.5" y="-15.5" rx="7.5" ry="7.5" transform="matrix(0,-1,-1,0,0,0)" style="fill:#618bf5"/>
- <g style="enable-background:new" transform="matrix(0.53551597,0,0,0.53551597,-175.28033,-44.278761)">
-  <g style="stroke:#547fec;stroke-width:0.83333331;enable-background:new" transform="matrix(1.1803266,0,0,1.1803266,-413.25741,-172.72103)">
-   <ellipse id="ellipse1040-6-9-6-7" cx="639.95" cy="224.889" rx="3.283" ry="3.556" style="fill:none;stroke:#547fec;stroke-width:0.8888889;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1"/>
-   <path d="m 633.33333,235.55556 c 0,-3.5 1.66667,-4.44444 6.66667,-4.44444 5,0 6.66667,0.94444 6.66667,4.44444 z" style="fill:none;stroke:#547fec;stroke-width:0.88888896;stroke-linejoin:round;stroke-dashoffset:1"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#618bf5" height="15" rx="7.5" transform="matrix(0 -1 -1 0 0 0)" width="15" x="-15.5" y="-15.5"/>
+  <g enable-background="new" fill="none" stroke-dashoffset="1" stroke-linejoin="round" stroke-width=".888889">
+    <g enable-background="new" stroke="#547fec" transform="matrix(.63208374412 0 0 .63208374412 -396.58627277584 -136.77363091985)">
+      <ellipse cx="639.95" cy="224.889" rx="3.283" ry="3.556" stroke-linecap="round"/>
+      <path d="m633.33333 235.55556c0-3.5 1.66667-4.44444 6.66667-4.44444s6.66667.94444 6.66667 4.44444z"/>
+    </g>
+    <g enable-background="new" stroke="#fff" transform="matrix(.63208374412 0 0 .63208374412 -396.48092607422 -136.68583843173)">
+      <ellipse cx="639.95" cy="224.889" rx="3.283" ry="3.556" stroke-linecap="round"/>
+      <path d="m633.33333 235.55556c0-3.5 1.66667-4.44444 6.66667-4.44444s6.66667.94444 6.66667 4.44444z"/>
+    </g>
   </g>
-  <g transform="matrix(1.1803266,0,0,1.1803266,-413.06069,-172.55709)" style="enable-background:new">
-   <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.8888889;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1" cx="639.95" cy="224.889" rx="3.283" ry="3.556"/>
-   <path style="fill:none;stroke:#ffffff;stroke-width:0.88888896;stroke-linejoin:round;stroke-dashoffset:1" d="m 633.33333,235.55556 c 0,-3.5 1.66667,-4.44444 6.66667,-4.44444 5,0 6.66667,0.94444 6.66667,4.44444 z"/>
-  </g>
- </g>
 </svg>

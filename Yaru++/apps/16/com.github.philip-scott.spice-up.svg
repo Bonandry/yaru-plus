@@ -1,77 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="com.github.philip-scott.spice-up-symbolic.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="793"
-     inkscape:window-height="480"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.30508475"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer14" />
-  <title
-     id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
-  <g
-     id="layer14"
-     transform="translate(-521,-321.00012)">
-    <path
-       fill="#444"
-       d="m 523.0002,324 0,8 12,0 0,-8 z m 6,1 c 1.10457,0 2,0.89543 2,2 l -2,0 z m -1,1 0,2 2,0 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z"
-       id="path3"
-       style="fill:#808080;fill-opacity:1" />
-    <path
-       fill="#444"
-       d="m 523,323 a 1.001098,1.001098 0 1 0 0.0937,2 l 11.625,0 a 1.0001,1.0001 0 1 0 0,-2 l -11.625,0 A 1.0001,1.0001 0 0 0 523,323 z"
-       id="path5"
-       style="fill:#808080;fill-opacity:1" />
-    <path
-       fill="#444"
-       d="M 528.40625,331.5 A 0.50005,0.50005 0 0 0 528,332 l 0,1.75 -1.8125,1.375 a 0.51253811,0.51253811 0 1 0 0.625,0.8125 l 2,-1.53125 L 529,334.25 l 0,-0.25 0,-2 a 0.50005,0.50005 0 0 0 -0.59375,-0.5 z"
-       id="path7"
-       style="fill:#808080;fill-opacity:1" />
-    <path
-       fill="#444"
-       d="m 528.375,333.5 a 0.50005,0.50005 0 0 0 -0.1875,0.90625 l 2,1.5625 a 0.51253811,0.51253811 0 1 0 0.625,-0.8125 l -2,-1.5625 A 0.50005,0.50005 0 0 0 528.375,333.5 z"
-       id="path9"
-       style="fill:#808080;fill-opacity:1" />
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#808080" transform="translate(-521 -321.00012)">
+    <path d="m523.0002 324v8h12v-8zm6 1c1.10457 0 2 .89543 2 2h-2zm-1 1v2h2c0 1.10457-.89543 2-2 2s-2-.89543-2-2 .89543-2 2-2z"/>
+    <path d="m523 323a1.001098 1.001098 0 1 0 .0937 2h11.625a1.0001 1.0001 0 1 0 0-2h-11.625a1.0001 1.0001 0 0 0 -.0937 0z"/>
+    <path d="m528.40625 331.5a.50005.50005 0 0 0 -.40625.5v1.75l-1.8125 1.375a.51253811.51253811 0 1 0 .625.8125l2-1.53125.1875-.15625v-.25-2a.50005.50005 0 0 0 -.59375-.5z"/>
+    <path d="m528.375 333.5a.50005.50005 0 0 0 -.1875.90625l2 1.5625a.51253811.51253811 0 1 0 .625-.8125l-2-1.5625a.50005.50005 0 0 0 -.4375-.09375z"/>
   </g>
 </svg>
