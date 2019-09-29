@@ -13,7 +13,7 @@
    height="256"
    version="1.1"
    id="svg57"
-   sodipodi:docname="2.svg"
+   sodipodi:docname="glade.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata61">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview59"
      showgrid="false"
      inkscape:zoom="4.3100358"
-     inkscape:cx="167.49469"
+     inkscape:cx="123.41153"
      inkscape:cy="126.80283"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -1102,6 +1102,32 @@
          d="M 278.54547,124 401.45456,1.0909127 392.00002,-276 H 87.999979 v 400 z"
          style="fill:#e74747" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1236"
+       x="-0.0094640467"
+       width="1.0189281"
+       y="-0.016392469"
+       height="1.0327849">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.43697221"
+         id="feGaussianBlur1238" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1262"
+       x="-0.037856187"
+       width="1.0757124"
+       y="-0.065569878"
+       height="1.1311398">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7478889"
+         id="feGaussianBlur1264" />
+    </filter>
   </defs>
   <path
      style="opacity:0.1;filter:url(#filter4346)"
@@ -1818,6 +1844,21 @@
           <g
              id="g1601"
              transform="matrix(1.7506421,0,0,1.7506421,702.90127,-135.74339)">
+            <path
+               inkscape:connector-curvature="0"
+               d="M 105.40248,222.30835 -5.409876,286.28488 h 27.024252 83.788104 z m -14.481889,25.0827 v 24.41193 H 48.638628 Z"
+               style="fill:#1f1a00;fill-opacity:1;stroke-width:1.03442109;opacity:0.1;filter:url(#filter1262)"
+               id="path1240" />
+            <path
+               id="path1230"
+               style="fill:#1f1a00;fill-opacity:1;stroke-width:1.03442109;opacity:0.1;filter:url(#filter1236)"
+               d="M 105.40248,222.30835 -5.409876,286.28488 h 27.024252 83.788104 z m -14.481889,25.0827 v 24.41193 H 48.638628 Z"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               d="M 105.40248,222.30835 -5.409876,286.28488 h 27.024252 83.788104 z m -14.481889,25.0827 v 24.41193 H 48.638628 Z"
+               style="fill:#1f1a00;fill-opacity:1;stroke-width:1.03442109;opacity:0.1"
+               id="path1228" />
             <path
                id="path1523"
                d="M 104,223.15234 -0.3791408,283.4147 -3.125,284 v 1 H 23 104 Z M 90,247.40039 V 271 H 49.125 Z"

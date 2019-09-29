@@ -15,7 +15,7 @@
    viewBox="0 0 256 256"
    id="svg65"
    sodipodi:docname="preferences-autocompletion.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata69">
     <rdf:RDF>
@@ -40,16 +40,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1016"
      id="namedview67"
      showgrid="false"
      inkscape:zoom="3.4011667"
-     inkscape:cx="128.30399"
-     inkscape:cy="129.2"
+     inkscape:cx="16.577622"
+     inkscape:cy="140.96067"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg65" />
+     inkscape:current-layer="svg65">
+    <inkscape:grid
+       type="xygrid"
+       id="grid873" />
+  </sodipodi:namedview>
   <title
      id="title4162">
   Adwaita Icon Template
@@ -287,19 +291,6 @@
          id="stop168"
          style="stop-color:#2e358b" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter952"
-       x="-0.045782309"
-       width="1.0915646"
-       y="-0.050443478"
-       height="1.100887">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.1135548"
-         id="feGaussianBlur954" />
-    </filter>
   </defs>
   <circle
      style="opacity:0.1;filter:url(#filter11210)"
@@ -326,17 +317,17 @@
      r="112"
      id="circle47" />
   <path
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:10.66666698;opacity:0.3;filter:url(#filter952)"
-     d="M 113.52344 49.179688 L 55.166016 197.31641 L 77.275391 197.31641 L 98.349609 143.82227 L 159.15625 143.82227 L 180.22852 197.31641 L 202.33984 197.31641 L 181.26953 143.8418 L 201.92578 143.8418 L 197.81055 164.41602 L 218.38477 131.49609 L 197.81055 98.576172 L 201.92578 119.15039 L 171.54297 119.15039 L 168.29297 110.90039 L 143.97461 49.179688 L 113.52344 49.179688 z M 128.75195 66.628906 L 151.05469 123.24805 L 106.44922 123.24805 L 128.75195 66.628906 z "
-     id="path927" />
+     style="fill:#fcfcfc;fill-opacity:1;opacity:0.3"
+     d="M 16.865234 121 A 112 112 0 0 0 16.751953 123.24805 A 112 112 0 0 0 128.75195 235.24805 A 112 112 0 0 0 240.75195 123.24805 A 112 112 0 0 0 240.67188 121 L 16.865234 121 z "
+     id="circle871" />
   <path
-     style="fill:#3b3b3b;fill-opacity:1;fill-rule:evenodd;stroke-width:10.66666698"
-     d="M 113.5225,49.179643 55.165086,197.31636 h 22.109375 l 21.074223,-53.49414 h 60.806636 l 21.07226,53.49414 h 22.11133 L 178.0186,135.59371 h 0.002 l -9.72857,-24.69336 -24.31835,-61.720707 z m 15.22852,17.449219 22.30273,56.619138 h -44.60546 z"
-     id="path894"
+     style="fill:#f22c42;fill-opacity:1;fill-rule:evenodd;stroke-width:7.83672476"
+     d="m 182.38701,99.23652 3.29712,13.86104 h -24.3661 c -8.1e-4,-6.9e-4 -0.003,-0.002 -0.003,-0.003 l 7.79603,16.63746 h 16.57321 l -3.29711,13.86102 16.484,-22.17843 z"
+     id="path919"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#f22c42;fill-opacity:1;fill-rule:evenodd;stroke-width:10.66666698"
-     d="m 197.80995,98.576767 4.11524,20.574213 h -30.41211 c -0.001,-0.001 -0.003,-0.002 -0.004,-0.004 l 9.73047,24.69531 h 20.68555 l -4.11524,20.57422 20.57422,-32.91992 z"
-     id="path919"
+     style="fill:#5d5d5d;fill-opacity:1;fill-rule:evenodd;stroke-width:8.54610538"
+     d="M 116.55016,53.904627 69.794363,172.59138 h 17.713973 l 16.884614,-42.85936 h 48.71811 l 16.88303,42.85936 h 17.71554 l -19.48536,-49.45202 h 0.002 l -7.79451,-19.78425 -19.4838,-49.450483 z m 12.20105,13.980267 17.86889,45.363126 h -35.73778 z"
+     id="path894"
      inkscape:connector-curvature="0" />
 </svg>
