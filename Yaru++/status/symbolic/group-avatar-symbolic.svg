@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="system-switch-user-symbolic.svg"
+   sodipodi:docname="system-users.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,23 +36,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1083"
+     inkscape:window-height="820"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="-4.8813559"
+     inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-x="354"
+     inkscape:window-y="123"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <g
      font-weight="400"
      letter-spacing="0"
      word-spacing="0"
      id="g4"
-     transform="matrix(0.89545808,0,0,0.89545808,-1.8847038,1.0841109)"
+     transform="matrix(0.89545808,0,0,0.89545808,-1.7859845,-0.56878187)"
      style="color:#000000;font-weight:400;font-family:Ubuntu;letter-spacing:0;word-spacing:0;white-space:normal;fill:#808080">
     <path
        style="line-height:125%;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;stroke-width:0.8331883"
@@ -76,19 +76,10 @@
      transform="matrix(0.89545808,0,0,0.89545808,3.1323021,1.3621011)"
      style="color:#000000;font-weight:400;font-family:Ubuntu;letter-spacing:0;word-spacing:0;white-space:normal;fill:#808080">
     <path
-       d="m 7.8897556,3.8458628 a 2.84,2.84 0 0 0 -1.12,0.221 c -0.345,0.141 -0.651,0.348 -0.906,0.615 v 0.003 l -0.001,0.002 c -0.248,0.269 -0.44,0.592 -0.574,0.96 -0.137,0.367 -0.203,0.769 -0.203,1.2 0,0.435 0.065,0.841 0.203,1.209 0.135,0.361 0.327,0.68 0.574,0.95 l 0.001,0.002 c 0.254,0.267 0.558,0.477 0.901,0.624 v 0.003 c 0.346,0.141 0.723,0.21 1.12,0.21 0.395,0 0.77,-0.069 1.117,-0.21 v -0.002 c 0.343,-0.147 0.644,-0.357 0.892,-0.625 0.2550004,-0.268 0.4500004,-0.59 0.5860004,-0.952 0.138,-0.368 0.204,-0.774 0.204,-1.21 h 0.01 c 0,-0.43 -0.065,-0.831 -0.203,-1.198 a 2.771,2.771 0 0 0 -0.5850004,-0.963 2.5,2.5 0 0 0 -0.897,-0.618 2.835,2.835 0 0 0 -1.12,-0.221 z m 0.024,8.0020002 c -2.317,0 -3.561,0.213 -4.486,0.91 -0.462,0.35 -0.767,0.825 -0.939,1.378 -0.172,0.553 -0.226,0.975 -0.228,1.71 l 5.629,0.002 h 5.6290004 c -10e-4,-0.736 -0.052,-1.159 -0.225,-1.712 -0.172,-0.553 -0.477,-1.027 -0.94,-1.376 -0.923,-0.697 -2.124,-0.912 -4.4400004,-0.912 z"
+       d="M 8,2 A 2.84,2.84 0 0 0 6.88,2.221 C 6.535,2.362 6.229,2.569 5.974,2.836 V 2.839 L 5.973,2.841 C 5.725,3.11 5.533,3.433 5.399,3.801 5.262,4.168 5.196,4.57 5.196,5.001 c 0,0.435 0.065,0.841 0.203,1.209 0.135,0.361 0.327,0.68 0.574,0.95 l 0.001,0.002 c 0.254,0.267 0.558,0.477 0.901,0.624 v 0.003 c 0.346,0.141 0.723,0.21 1.12,0.21 0.395,0 0.77,-0.069 1.117,-0.21 V 7.787 C 9.455,7.64 9.756,7.43 10.004,7.162 10.259,6.894 10.454,6.572 10.59,6.21 10.728,5.842 10.794,5.436 10.794,5 h 0.01 c 0,-0.43 -0.065,-0.831 -0.203,-1.198 A 2.771,2.771 0 0 0 10.016,2.839 2.5,2.5 0 0 0 9.119,2.221 2.835,2.835 0 0 0 7.999,2 Z m 0.024,8.002 c -2.317,0 -3.561,0.213 -4.486,0.91 C 3.076,11.262 2.771,11.737 2.599,12.29 2.427,12.843 2.373,13.265 2.371,14 L 8,14.002 h 5.629 C 13.628,13.266 13.577,12.843 13.404,12.29 13.232,11.737 12.927,11.263 12.464,10.914 11.541,10.217 10.34,10.002 8.024,10.002 Z"
        style="line-height:125%;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal"
        overflow="visible"
        id="path826"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     transform="matrix(1,0,0,-1,-100.3685,504.92165)"
-     id="g6">
-    <path
-       style="fill:#808080"
-       d="m 108.6907,503.58188 1.34889,-1.474 -2.01721,-1.846 0.67643,-0.73916 2.01576,1.84468 1.35021,-1.47545 0.002,10e-4 c 0.32032,0.77696 0.6254,1.5912 0.91689,2.44081 0.28518,0.84491 0.54396,1.67608 0.77561,2.49685 -0.84424,-0.15137 -1.69939,-0.33085 -2.56622,-0.54015 -0.8716,-0.21502 -1.70612,-0.45202 -2.50181,-0.70888 z"
-       id="path2-3"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
