@@ -23,9 +23,11 @@
       <g stroke-dashoffset="1">
         <circle cx="108" cy="132" fill="none" r="6" stroke="#f34f17" stroke-linejoin="round"/>
         <circle cx="196" cy="180" fill="none" r="6" stroke="#f34f17" stroke-linejoin="round"/>
-        <path d="m178 94h12v12h-12z" fill="#fff" stroke="#8f76e4"/>
-        <path d="m146 150h12v12h-12z" fill="#fff" stroke="#8f76e4"/>
-        <path d="m114 206h12v12h-12z" fill="#fff" stroke="#8f76e4"/>
+        <g fill="#fff" stroke="#8f76e4">
+          <path d="m178 94h12v12h-12z"/>
+          <path d="m146 150h12v12h-12z"/>
+          <path d="m114 206h12v12h-12z"/>
+        </g>
       </g>
     </g>
     <g fill="#fff">

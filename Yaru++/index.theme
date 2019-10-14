@@ -2,13 +2,16 @@
 Name=Yaru++
 
 Comment=An elegant and modern third party icons theme based on Canonical’s Yaru
-Comment[it]=Un elegante e moderno tema di icone di terze parti, basato sul Yaru di Canonical
+Comment[it]=Un tema elegante e moderno di icone di terze parti, basato sul Yaru di Canonical
+Comment[pt]=Um tema elegante e moderno de ícones terceirzados, baseado no Yaru da Canonical
+Comment[pt_BR]=Um tema chique e moderno de ícones terceirzados, baseado no Yaru da Canonical
+Comment[pt_PT]=Um tema elegante e moderno de ícones terceirzados, baseado no Yaru da Canonical
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Yaru,Suru++,Suru
+Inherits=Yaru,Humanity,breeze,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
