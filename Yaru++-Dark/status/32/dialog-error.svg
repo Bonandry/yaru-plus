@@ -1,0 +1,20 @@
+<svg height="32" viewBox="0 0 8.4666665 8.4666669" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient8590-3" gradientTransform="matrix(.04026269 0 0 .04026267 .353531 288.70144)" gradientUnits="userSpaceOnUse" x1="96" x2="96" y1="4.000006" y2="188">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset=".125" stop-color="#fff" stop-opacity=".098039"/>
+    <stop offset=".92500001" stop-color="#fff" stop-opacity=".098039"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".498039"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8588-0" gradientTransform="matrix(.16111112 0 0 .16111118 .211784 248.72362)" gradientUnits="userSpaceOnUse" x1="13.735326" x2="38.099998" y1="249.69423" y2="292.76666">
+    <stop offset="0" stop-color="#da1636"/>
+    <stop offset="1" stop-color="#f22c42"/>
+  </linearGradient>
+  <g transform="translate(0 -288.53332)">
+    <circle cx="-4.21875" cy="-292.83124" opacity=".1" r="3.968749" transform="scale(-1)"/>
+    <circle cx="4.21875" cy="292.56665" fill="url(#linearGradient8588-0)" r="3.836458"/>
+    <path d="m.3572938 292.91944a3.8805556 3.8805541 0 0 0 3.8613529 3.52778 3.8805556 3.8805541 0 0 0 3.8629009-3.52778z" fill="#fff" opacity=".05"/>
+    <path d="m4.2187499 288.59791c-2.1918798 0-3.9687499 1.77687-3.9687499 3.96875s1.7768701 3.96875 3.9687499 3.96875 3.9687501-1.77687 3.9687501-3.96875-1.7768703-3.96875-3.9687501-3.96875zm0 .26458c2.0965821 0 3.7041668 1.60759 3.7041668 3.70417s-1.6075873 3.70416-3.7041668 3.70416-3.7041666-1.60758-3.7041666-3.70416 1.6075845-3.70417 3.7041666-3.70417z" opacity=".4"/>
+    <path d="m4.2187499 288.86249c-2.0457557 0-3.7041666 1.65841-3.7041666 3.70417 0 2.04575 1.6584109 3.70416 3.7041666 3.70416s3.7041668-1.65841 3.7041668-3.70416c0-2.04576-1.6584111-3.70417-3.7041668-3.70417zm0 .26458c1.9568107 0 3.4395833 1.48278 3.4395833 3.43959-.0000026 1.95681-1.4827752 3.43958-3.4395833 3.43958s-3.43958064-1.48277-3.43958334-3.43958c0-1.95681 1.48277264-3.43959 3.43958334-3.43959z" fill="url(#linearGradient8590-3)" opacity=".7"/>
+    <path d="m1.3083331 292.30208v.52916h5.8208336v-.52916z" fill="#fff"/>
+  </g>
+</svg>

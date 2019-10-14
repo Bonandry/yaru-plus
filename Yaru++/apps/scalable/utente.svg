@@ -1,0 +1,21 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="filter945" color-interpolation-filters="sRGB" height="1.048" width="1.048" x="-.024" y="-.024">
+    <feGaussianBlur stdDeviation="2.24"/>
+  </filter>
+  <filter id="filter951" color-interpolation-filters="sRGB" height="1.12" width="1.12" x="-.06" y="-.06">
+    <feGaussianBlur stdDeviation="5.6"/>
+  </filter>
+  <rect filter="url(#filter951)" height="224" opacity=".1" rx="112" transform="matrix(0 -1 -1 0 -21.559999 -32.44)" width="224" x="-270" y="-264"/>
+  <rect filter="url(#filter945)" height="224" opacity=".5" rx="112" transform="matrix(0 -1 -1 0 -21.559999 -32.44)" width="224" x="-270" y="-264"/>
+  <rect fill="#618bf5" height="224" rx="112" transform="matrix(0 -1 -1 0 0 0)" width="224" x="-235.56" y="-242.44"/>
+  <g enable-background="new" fill="none" stroke-dashoffset="1" stroke-linejoin="round">
+    <g enable-background="new" stroke="#547fec" stroke-width=".888889" transform="matrix(8.95363236 0 0 8.95363236 -5600.63084538 -1930.51897105)">
+      <ellipse cx="639.94952" cy="224.88889" rx="3.282828" ry="3.555556" stroke-linecap="round"/>
+      <path d="m633.33333 235.55556c0-3.5 1.66667-4.44444 6.66667-4.44444s6.66667.94444 6.66667 4.44444z"/>
+    </g>
+    <g enable-background="new" stroke="#fff" stroke-width=".982841" transform="matrix(8.95363236 0 0 8.95363236 -5599.13857332 -1929.275411)">
+      <ellipse cx="639.94952" cy="224.88889" rx="3.282828" ry="3.555556" stroke-linecap="round"/>
+      <path d="m633.33333 235.55556c0-3.5 1.66667-4.44444 6.66667-4.44444s6.66667.94444 6.66667 4.44444z"/>
+    </g>
+  </g>
+</svg>

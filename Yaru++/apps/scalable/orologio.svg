@@ -1,0 +1,38 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="filter4278" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01">
+    <feGaussianBlur stdDeviation="1.384"/>
+  </filter>
+  <linearGradient id="linearGradient4290" gradientUnits="userSpaceOnUse" x1="226.84" x2="406.448" y1="429.516" y2="146.703">
+    <stop offset="0" stop-opacity="0"/>
+    <stop offset=".496"/>
+    <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="filter4300" color-interpolation-filters="sRGB" height="1.196" width="1.188" x="-.09" y="-.1">
+    <feGaussianBlur stdDeviation="11.069"/>
+  </filter>
+  <linearGradient id="linearGradient11065" gradientUnits="userSpaceOnUse" x1="80.752004" x2="176.752004" y1="11.248014" y2="235.248014">
+    <stop offset="0" stop-color="#666"/>
+    <stop offset="1" stop-color="#666"/>
+  </linearGradient>
+  <filter id="filter11191" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01">
+    <feGaussianBlur stdDeviation="1.12"/>
+  </filter>
+  <filter id="filter11210" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05">
+    <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <circle cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="123.248" opacity=".1" r="114"/>
+  <circle cx="128.752" cy="123.248" fill="url(#linearGradient11065)" r="112"/>
+  <g enable-background="new" transform="translate(-23.247996 -32.751975)">
+    <path d="m418.56445 154.90625-150.71093 87.01367a20 20 0 0 0 -5.85352-2.99414v-20.92578h-12v20.94531a20 20 0 0 0 -5.85352 2.97461l-91.92382-53.07422-8 13.85742 91.91211 53.06641a20 20 0 0 0 -.13477 2.23047 20 20 0 0 0 14 19.07422v148.92578h12v-148.94531a20 20 0 0 0 14-19.05469 20 20 0 0 0 -.14844-2.22266l150.71289-87.01562z" filter="url(#filter4278)" opacity=".1" transform="matrix(.5 0 0 .5 24 28)"/>
+    <path d="m418.56445 154.90625-150.71093 87.01367a20 20 0 0 0 -5.85352-2.99414v-20.92578h-12v20.94531a20 20 0 0 0 -5.85352 2.97461l-91.92382-53.07422-8 13.85742 91.91211 53.06641a20 20 0 0 0 -.13477 2.23047 20 20 0 0 0 14 19.07422v148.92578h12v-148.94531a20 20 0 0 0 14-19.05469 20 20 0 0 0 -.14844-2.22266l150.71289-87.01562z" fill="url(#linearGradient4290)" filter="url(#filter4300)" opacity=".4" transform="matrix(.5 0 0 .5 24 28)"/>
+    <circle cx="152" cy="156.318" fill="#ccc" r="3.146"/>
+    <path d="m98.111225 124.8873 53.888775 31.1127 83.28265-48.08326" fill="none" stroke="#f1f0e9" stroke-width="8"/>
+    <circle cx="152" cy="156" fill="#f22c42" r="10"/>
+    <path d="m152 136v104" fill="none" stroke="#f22c42" stroke-width="6"/>
+  </g>
+  <path d="m32.337942 66.494114a112 112 0 0 0 -15.585938 56.753906 112 112 0 0 0 111.999996 112 112 112 0 0 0 94.63086-52.33594z" fill="#fff" opacity=".05"/>
+  <path d="m128.752 11.248014a112 112 0 0 0 -111.999996 111.999996 112 112 0 0 0 .04102 1.16992 112 112 0 0 1 111.958976-111.169916 112 112 0 0 1 111.95898 110.830076 112 112 0 0 0 .041-.83008 112 112 0 0 0 -112-111.999996z" fill="#fff" opacity=".3"/>
+  <path d="m128.752 235.24801a112 112 0 0 1 -111.999996-112 112 112 0 0 1 .04102-1.16992 112 112 0 0 0 111.958976 111.16992 112 112 0 0 0 111.95898-110.83008 112 112 0 0 1 .041.83008 112 112 0 0 1 -112 112z" opacity=".2"/>
+</svg>

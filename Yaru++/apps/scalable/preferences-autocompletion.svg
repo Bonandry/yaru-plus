@@ -1,0 +1,24 @@
+<svg enable-background="new" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient11065" gradientUnits="userSpaceOnUse" x1="80.752003" x2="176.752003" y1="11.248008" y2="235.248008">
+    <stop offset="0" stop-color="#e1e1e1"/>
+    <stop offset="1" stop-color="#f7f7f7"/>
+  </linearGradient>
+  <filter id="filter11191" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01">
+    <feGaussianBlur stdDeviation="1.12"/>
+  </filter>
+  <filter id="filter11210" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05">
+    <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="filter952" color-interpolation-filters="sRGB" height="1.100887" width="1.091565" x="-.045782" y="-.050443">
+    <feGaussianBlur stdDeviation="3.1135548"/>
+  </filter>
+  <circle cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="123.248" opacity=".1" r="114"/>
+  <circle cx="128.752" cy="123.248" fill="url(#linearGradient11065)" r="112"/>
+  <g fill-rule="evenodd" stroke-width="10.666667">
+    <path d="m113.52344 49.179688-58.357424 148.136722h22.109375l21.074218-53.49414h60.806641l21.07227 53.49414h22.11132l-21.07031-53.47461h20.65625l-4.11523 20.57422 20.57422-32.91993-20.57422-32.919918 4.11523 20.574218h-30.38281l-3.25-8.25-24.31836-61.720702zm15.22851 17.449218 22.30274 56.619144h-44.60547z" filter="url(#filter952)" opacity=".3"/>
+    <path d="m113.5225 49.179643-58.357414 148.136717h22.109375l21.074223-53.49414h60.806636l21.07226 53.49414h22.11133l-24.32031-61.72265h.002l-9.72857-24.69336-24.31835-61.720707zm15.22852 17.449219 22.30273 56.619138h-44.60546z" fill="#3b3b3b"/>
+    <path d="m197.80995 98.576767 4.11524 20.574213h-30.41211c-.001-.001-.003-.002-.004-.004l9.73047 24.69531h20.68555l-4.11524 20.57422 20.57422-32.91992z" fill="#f22c42"/>
+  </g>
+</svg>

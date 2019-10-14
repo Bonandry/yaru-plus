@@ -1,0 +1,26 @@
+<svg enable-background="new" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1205" gradientTransform="matrix(0 -1 -1 0 308.00017 307.99985)" gradientUnits="userSpaceOnUse" x1="77" x2="227" y1="156" y2="156">
+    <stop offset="0" stop-color="#e6e6e6"/>
+    <stop offset="1" stop-color="#f2f2f2"/>
+  </linearGradient>
+  <filter id="filter11191" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01">
+    <feGaussianBlur stdDeviation="1.12"/>
+  </filter>
+  <filter id="filter11210" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05">
+    <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <circle cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
+  <circle cx="128.752" cy="123.248" opacity=".1" r="114"/>
+  <g enable-background="new" transform="matrix(1.4933316 0 0 1.4933317 -98.234527 -109.71162)">
+    <g enable-background="new">
+      <path d="m153.36072 230.98766a75 75 0 0 1 -74.784425-59.69192 75 75 0 0 1 44.727635-84.588855 75 75 0 0 1 91.43635 28.199835l-62.74028 41.09328z" fill="#f76363"/>
+      <path d="m209.45333 107.79093a75 75 0 0 1 5.56361 88.8768l-63.01694-40.66773z" fill="#5884f4"/>
+      <path d="m195.03903 217.42184a75 75 0 0 1 -62.45046 11.0226l19.41143-72.44444z" fill="#76c22b"/>
+      <path d="m219.97308 187.69637a75 75 0 0 1 -30.47308 33.25554l-37.5-64.95191z" fill="#fdc92b"/>
+    </g>
+    <path d="m152.00017 80.999836c-41.42135 0-75.000002 33.578644-75.000002 75.000004s33.578652 75 75.000002 75 75-33.57864 75-75-33.57865-75.000004-75-75.000004z" fill="url(#linearGradient1205)" opacity=".2"/>
+  </g>
+  <path d="m128.75201 11.248003a112 112 0 0 0 -112.000007 111.999997 112 112 0 0 0 .04102 1.16992 112 112 0 0 1 111.958987-111.169917 112 112 0 0 1 111.95898 110.830077 112 112 0 0 0 .041-.83008 112 112 0 0 0 -112-111.999997z" fill="#fff" opacity=".3"/>
+  <path d="m128.75201 235.248a112 112 0 0 1 -112.000007-112 112 112 0 0 1 .04102-1.16992 112 112 0 0 0 111.958987 111.16992 112 112 0 0 0 111.95898-110.83008 112 112 0 0 1 .041.83008 112 112 0 0 1 -112 112z" opacity=".2"/>
+</svg>
