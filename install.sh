@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=Yaru++}"
+: "${THEMES:=Yaru++ Yaru++-Dark}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"

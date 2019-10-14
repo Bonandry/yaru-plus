@@ -1,0 +1,20 @@
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#f2f2f7">
+    <path d="m4.5 4c-.277 0-.5.223-.5.5v7c0 .277.223.5.5.5h7c.277 0 .5-.223.5-.5v-7c0-.277-.223-.5-.5-.5zm.5 1h6v6h-6z"/>
+    <rect height="3" rx=".5" width="2" x="4"/>
+    <rect height="3" rx=".5" width="2" x="7"/>
+    <rect height="3" rx=".5" width="2" x="10"/>
+    <rect height="3" rx=".5" width="2" x="4" y="13"/>
+    <rect height="3" rx=".5" width="2" x="7" y="13"/>
+    <rect height="3" rx=".5" width="2" x="10" y="13"/>
+    <g transform="rotate(-90)">
+      <rect height="3" rx=".5" width="2" x="-6" y="13"/>
+      <rect height="3" rx=".5" width="2" x="-9" y="13"/>
+      <rect height="3" rx=".5" width="2" x="-12" y="13"/>
+      <rect height="3" rx=".5" width="2" x="-6"/>
+      <rect height="3" rx=".5" width="2" x="-9"/>
+      <rect height="3" rx=".5" width="2" x="-12"/>
+    </g>
+    <path d="m4 2c-1.108 0-2 .892-2 2v8c0 1.108.892 2 2 2h8c1.108 0 2-.892 2-2v-8c0-1.108-.892-2-2-2zm.5 1h7c.831 0 1.5.669 1.5 1.5v7c0 .831-.669 1.5-1.5 1.5h-7c-.831 0-1.5-.669-1.5-1.5v-7c0-.831.669-1.5 1.5-1.5z"/>
+  </g>
+</svg>
