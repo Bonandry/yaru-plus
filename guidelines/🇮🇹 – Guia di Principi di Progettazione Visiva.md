@@ -1,16 +1,22 @@
-Replace dark colour (for light environments) for light colour (forr dark environments):
+## Principi di Progettazione Visiva
 
-```
-sed -E --in-place --follow-symlinks 's/(#808080|#666|#353945)/#f2f2f7/g' *.svg
-```
+## Icone monocromatiche di 16, 24 e 36 pixel
 
-Following the standard colours recommended by Apple with the finality to respect the accessibility
+Seguendo i colori raccomandati da Apple, per rispettare l'accessibilità:
 
-```
-sed -E --in-place --follow-symlinks 's/(#0072f9|#1a7fd4|#1d99f3|#5294e2)/#0084ff/g' *.svg
-sed -E --in-place --follow-symlinks 's/(#76c22b|#70c932|#53992c)/#30d158/g' *.svg
-sed -E --in-place --follow-symlinks 's/(#da1636|#f22c42|#ed4737|#da4453)/#ff453a/g' *.svg
-sed -E --in-place --follow-symlinks 's/(#ffda64)/#ffd60a/g' *.svg
-sed -E --in-place --follow-symlinks 's/(#fb7c38|#dd4814)/#ff9f0a/g' *.svg
-sed -E --in-place --follow-symlinks 's/(#c43ac4)/#bf5af2/g' *.svg
-```
+| Modo chiaro       | Modo scuro         | Colore    |
+| ----------------- | ------------------ | --------- |
+| rgb(0, 122, 255)  | rgb(10, 132, 255)  | azzuro    |
+| rgb(52, 199, 89)  | rgb(48, 209, 88)   | verde     |
+| rgb(88, 86, 214)  | rgb(94, 92, 230)   | indigo    |
+| rgb(255, 149, 0)  | rgb(255, 159, 10)  | arancione |
+| rgb(255, 45, 85)  | rgb(255, 55, 95)   | rosa      |
+| rgb(175, 82, 222) | rgb(191, 90, 242)  | porpora   |
+| rgb(255, 59, 48)  | rgb(255, 69, 58)   | rosso     |
+| rgb(90, 200, 250) | rgb(100, 210, 255) | ciano     |
+| rgb(255, 204, 0)  | rgb(255, 214, 10)  | giallo    |
+
+La maggior delle icone le cui colore standard è:
+
+* Modo chiaro: #808080
+* Modo scuro: #f2f2f7
