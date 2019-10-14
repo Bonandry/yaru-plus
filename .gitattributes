@@ -1,0 +1,6 @@
+# exclude the following dirs/files from archives:
+.*                    export-ignore
+guidelines            export-ignore
+icone-generiche       export-ignore
+images                export-ignore
+tools                 export-ignore

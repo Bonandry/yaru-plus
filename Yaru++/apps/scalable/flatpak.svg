@@ -1,0 +1,51 @@
+<svg height="256" viewBox="0 0 67.74 67.74" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient837" gradientUnits="userSpaceOnUse" x1="132.7834478929" x2="168.3503324257" y1="47.3902496475" y2="20.2082621979">
+    <stop offset="0" stop-color="#b7a788"/>
+    <stop offset="1" stop-color="#cebe9d"/>
+  </linearGradient>
+  <linearGradient id="linearGradient845" gradientUnits="userSpaceOnUse" x1="169.6467883456" x2="203.3911335946" y1="23.3576668446" y2="46.8935620785">
+    <stop offset="0" stop-color="#dfcba2"/>
+    <stop offset="1" stop-color="#e1cfae"/>
+  </linearGradient>
+  <linearGradient id="linearGradient859" gradientUnits="userSpaceOnUse" x1="119.992222519" x2="168.0573881248" y1="53.821846842" y2="108.0205971009">
+    <stop offset="0" stop-color="#e3d1b0"/>
+    <stop offset="1" stop-color="#e5d2ab"/>
+  </linearGradient>
+  <linearGradient id="linearGradient873" gradientUnits="userSpaceOnUse" x1="217.9744888093" x2="170.7405146455" y1="45.8657229051" y2="118.1307232503">
+    <stop offset="0" stop-color="#c8b897"/>
+    <stop offset="1" stop-color="#bfaf95"/>
+  </linearGradient>
+  <filter id="filter1269" color-interpolation-filters="sRGB" height="1.049" width="1.047" x="-.02" y="-.03">
+    <feGaussianBlur stdDeviation=".024"/>
+  </filter>
+  <filter id="filter1185" color-interpolation-filters="sRGB" height="1.054" width="1.043" x="-.02" y="-.03">
+    <feGaussianBlur stdDeviation=".024"/>
+  </filter>
+  <linearGradient id="linearGradient1281" gradientUnits="userSpaceOnUse" x1="169.2636293638" x2="169.103472964" y1="78.3480762696" y2="122.3353355691">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="filter935" color-interpolation-filters="sRGB" height="1.021" width="1.028" x="-.01" y="-.01">
+    <feGaussianBlur stdDeviation=".575"/>
+  </filter>
+  <filter id="filter953" color-interpolation-filters="sRGB" height="1.085" width="1.11" x="-.06" y="-.04">
+    <feGaussianBlur stdDeviation="2.3"/>
+  </filter>
+  <g transform="matrix(.46502935776 0 0 .46502935776 -43.81886853588 4.22318107104)">
+    <path d="m169.1688-.5607317-50.33622 39.9359717-.085 50.410705 49.96471 39.389085 50.25368-39.329387.0238-50.282407zm-.117 51.7041957 14.94675 11.253357-14.92955 11.700545-14.95937-11.705208z" filter="url(#filter953)" opacity=".1"/>
+    <path d="m169.1688-.5607317-50.33622 39.9359717-.085 50.410705 49.96471 39.389085 50.25368-39.329387.0238-50.282407zm-.117 51.7041957 14.94675 11.253357-14.92955 11.700545-14.95937-11.705208z" filter="url(#filter935)" opacity=".1"/>
+    <path d="m169.1688-.5607317-50.33622 39.9359717-.085 50.410705 49.96471 39.389085 50.25368-39.329387.0238-50.282407zm-.117 51.7041957 14.94675 11.253357-14.92955 11.700545-14.95937-11.705208z" opacity=".1"/>
+    <path d="m154.49601 62.396821 14.75127-11.104888.0979-46.255235-46.00922 34.653112 29.3368 23.535734z" fill="url(#linearGradient837)"/>
+    <path d="m183.99855 62.396821-14.75127-11.104888.09792-46.255235 45.81332 34.653112-29.3368 23.535734z" fill="url(#linearGradient845)"/>
+    <path d="m119.9101 39.730388-.0831 49.525389 49.08712 38.697213.30305-51.516423-45.8811-36.746757z" fill="url(#linearGradient859)"/>
+    <path d="m218.3092 39.914508-.0242 49.399869-49.37091 38.638613.30305-51.516423 45.88109-36.746757z" fill="url(#linearGradient873)"/>
+    <path d="m169.36306.49507903-49.45296 39.23530897 1.77388 1.387827 47.5801 37.229792 49.04512-38.433499zm-.0178 4.54161877 43.26021 34.8401952-43.34137 33.965131-43.62053-34.131433z" fill="#f2e9d9"/>
+    <g fill="none">
+      <path d="m125.56521 40.898742-2.7001-2.222966" filter="url(#filter1269)" stroke="#b5b5b5" stroke-width=".2" transform="matrix(1.0136481 0 0 1.0136481 -1.635413 -1.746342)"/>
+      <path d="m168.59842 74.570617 2.69629 2.184692" filter="url(#filter1185)" stroke="#c8c8c8" stroke-width=".2" transform="matrix(1.0136481 0 0 1.0136481 -1.635413 -1.746342)"/>
+      <path d="m212.60543 39.876893 2.9725 2.12415" stroke="#f4f4f4" stroke-width=".20273"/>
+      <path d="m169.14931 5.0366978-2.65104-2.1321369" stroke="#f4f4f4" stroke-width=".20273"/>
+      <path d="m169.26408 78.348007-.34998 49.604983" stroke="url(#linearGradient1281)" stroke-width=".506824"/>
+    </g>
+  </g>
+</svg>
