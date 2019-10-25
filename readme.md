@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center">A third-party Yaru++ icons for more than 20 distributions </h4>
-<h4 align="center">An elegant, flat and modern based on <a href="https://github.com/ubuntu/yaru">Yaru</a> icons by Ubuntu developers</h4>
+<h4 align="center">An elegant, flat and modern based on <a href="https://github.com/ubuntu/yaru">Yaru</a> icons by Canonical developers</h4>
 
 - [Screenshot](#screenshot)
 - [Installation](#installation)
