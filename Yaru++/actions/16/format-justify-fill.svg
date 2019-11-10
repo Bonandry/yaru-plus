@@ -1,9 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#808080">
-    <path d="m1 1h14v1h-14z"/>
-    <path d="m1 4h14v1h-14z"/>
-    <path d="m1 10h14v1h-14z"/>
-    <path d="m1 13h14v1h-14z"/>
-    <path d="m1 7h14v1h-14z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+ <g fill="#666" color="#bebebe" transform="translate(-192 -400)">
+  <rect width="14" height="1" x="193" y="401" overflow="visible"/>
+  <rect width="14" height="1" x="193" y="404" overflow="visible"/>
+  <rect width="14" height="1" x="193" y="410" overflow="visible"/>
+  <rect width="14" height="1" x="193" y="413" overflow="visible"/>
+  <rect width="14" height="1" x="193" y="407" overflow="visible"/>
+ </g>
 </svg>
