@@ -41,7 +41,7 @@
      id="namedview42"
      showgrid="false"
      inkscape:zoom="17.479167"
-     inkscape:cx="11.384982"
+     inkscape:cx="-1.2300356"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -228,6 +228,16 @@
          d="m 365.9998,93.00023 c 0,5 -1.95653,4.94169 -7,5 H 329 c -5.04347,-0.0583 -7,0 -7,-5 V 75.000018 c 0,-5.000001 1.95653,-4.941694 7,-5.000001 h 29.9998 c 5.04347,0.05831 7,0 7,5.000001 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath892-36">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path894-7"
+         d="m 365.9998,93.00023 c 0,5 -1.95653,4.94169 -7,5 H 329 c -5.04347,-0.0583 -7,0 -7,-5 V 75.000018 c 0,-5.000001 1.95653,-4.941694 7,-5.000001 h 29.9998 c 5.04347,0.05831 7,0 7,5.000001 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient927"
@@ -259,16 +269,16 @@
     </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath892-36">
+       id="clipPath892-367">
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         id="path894-7"
+         id="path894-5"
          d="m 365.9998,93.00023 c 0,5 -1.95653,4.94169 -7,5 H 329 c -5.04347,-0.0583 -7,0 -7,-5 V 75.000018 c 0,-5.000001 1.95653,-4.941694 7,-5.000001 h 29.9998 c 5.04347,0.05831 7,0 7,5.000001 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
-       gradientTransform="matrix(0.26457031,0,0,0.26457031,-84.662499,268.29078)"
+       gradientTransform="matrix(0.26457031,0,0,0.26457031,-84.6625,268.29078)"
        inkscape:collect="always"
        xlink:href="#linearGradient1048"
        id="linearGradient1050"
@@ -295,7 +305,7 @@
      id="g38">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52914065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 12.170182,293.16045 c 0,1.32285 -0.51764,1.30743 -1.851993,1.32285 H 2.3811329 c -1.3343525,-0.0154 -1.85199226,0 -1.85199226,-1.32285 v -4.76232 c 0,-1.32285 0.51763976,-1.30743 1.85199226,-1.32285 h 7.9370561 c 1.334353,0.0154 1.851993,0 1.851993,1.32285 z"
+       d="m 12.170181,293.16045 c 0,1.32285 -0.51764,1.30743 -1.851992,1.32285 H 2.3811328 c -1.3343524,-0.0154 -1.85199216,0 -1.85199216,-1.32285 v -4.76232 c 0,-1.32285 0.51763976,-1.30743 1.85199216,-1.32285 h 7.9370562 c 1.334352,0.0154 1.851992,0 1.851992,1.32285 z"
        id="path922"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -304,7 +314,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient1050);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52914065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 2.3795825,294.35096 c -0.6664686,-0.008 -1.1414675,0.004 -1.48872397,-0.18758 -0.17362956,-0.0958 -0.3056819,-0.24988 -0.3839365,-0.45835 -0.0782546,-0.20847 -0.11006654,-0.46987 -0.11006654,-0.80921 v -4.76227 c 0,-0.33934 0.0318119,-0.60074 0.11006654,-0.80921 0.0782546,-0.20847 0.21030694,-0.36255 0.3839365,-0.45835 0.34725647,-0.19159 0.82225537,-0.17987 1.48872397,-0.18757 h 0.00106 7.9381415 0.0011 c 0.666469,0.008 1.141468,-0.004 1.488725,0.18757 0.173629,0.0958 0.305682,0.24988 0.383936,0.45835 0.07816,0.20847 0.110019,0.46987 0.110019,0.80921 v 4.76227 c 0,0.33934 -0.03181,0.60074 -0.110066,0.80921 -0.07826,0.20847 -0.210307,0.36255 -0.383937,0.45835 -0.347256,0.1916 -0.822255,0.17987 -1.488725,0.18758 h -0.0011 -7.9381411 z"
+       d="m 2.3795824,294.35096 c -0.6664685,-0.008 -1.1414674,0.004 -1.48872388,-0.18758 -0.17362955,-0.0958 -0.30568189,-0.24988 -0.38393649,-0.45835 -0.0782546,-0.20847 -0.11006654,-0.46987 -0.11006654,-0.80921 v -4.76227 c 0,-0.33934 0.0318119,-0.60074 0.11006654,-0.80921 0.0782546,-0.20847 0.21030694,-0.36255 0.38393649,-0.45835 0.34725648,-0.19159 0.82225538,-0.17987 1.48872388,-0.18757 h 0.00106 7.9381416 0.0011 c 0.666468,0.008 1.141467,-0.004 1.488724,0.18757 0.173629,0.0958 0.305682,0.24988 0.383936,0.45835 0.07816,0.20847 0.110019,0.46987 0.110019,0.80921 v 4.76227 c 0,0.33934 -0.03181,0.60074 -0.110066,0.80921 -0.07826,0.20847 -0.210307,0.36255 -0.383937,0.45835 -0.347256,0.1916 -0.822255,0.17987 -1.488724,0.18758 h -0.0011 -7.9381412 z"
        id="path865"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssscccccscsssccccc"
@@ -317,24 +327,24 @@
        width="11.905664"
        height="0.26457033"
        x="0.3968555"
-       y="290.77927"
+       y="290.77924"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       transform="matrix(0.26457031,0,0,0.26457031,-84.662499,268.29078)"
+       transform="matrix(0.26457031,0,0,0.26457031,-84.6625,268.29078)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient920);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 365.9998,93.00023 c 0,5 -1.95653,4.94169 -7,5 H 329 c -5.04347,-0.0583 -7,0 -7,-5 V 75.000018 c 0,-5.000001 1.95653,-4.941694 7,-5.000001 h 29.9998 c 5.04347,0.05831 7,0 7,5.000001 z"
        id="path888"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
-       clip-path="url(#clipPath892-36)"
+       clip-path="url(#clipPath892-367)"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path1057"
-       d="m 2.3795825,286.67842 c -0.6664686,0.008 -1.1414675,-0.004 -1.48872397,0.18757 -0.17362956,0.0958 -0.3056819,0.24988 -0.3839365,0.45835 -0.0782546,0.20847 -0.11006654,0.46987 -0.11006654,0.80921 v 4.76227 c 0,0.33934 0.0318119,0.60074 0.11006654,0.80921 0.0782546,0.20847 0.21030694,0.36255 0.3839365,0.45835 0.34725647,0.1916 0.82225537,0.17987 1.48872397,0.18758 h 0.00106 7.9381415 0.0011 c 0.666469,-0.008 1.141468,0.004 1.488725,-0.18758 0.173629,-0.0958 0.305682,-0.24988 0.383936,-0.45835 0.07816,-0.20847 0.110019,-0.46987 0.110019,-0.80921 v -4.76227 c 0,-0.33934 -0.03181,-0.60074 -0.110066,-0.80921 -0.07826,-0.20847 -0.210307,-0.36255 -0.383937,-0.45835 -0.347256,-0.19159 -0.822255,-0.17987 -1.488725,-0.18757 h -0.0011 -7.9381411 z"
+       d="m 2.3795824,286.67842 c -0.6664685,0.008 -1.1414674,-0.004 -1.48872388,0.18757 -0.17362955,0.0958 -0.30568189,0.24988 -0.38393649,0.45835 -0.0782546,0.20847 -0.11006654,0.46987 -0.11006654,0.80921 v 4.76227 c 0,0.33934 0.0318119,0.60074 0.11006654,0.80921 0.0782546,0.20847 0.21030694,0.36255 0.38393649,0.45835 0.34725648,0.1916 0.82225538,0.17987 1.48872388,0.18758 h 0.00106 7.9381416 0.0011 c 0.666468,-0.008 1.141467,0.004 1.488724,-0.18758 0.173629,-0.0958 0.305682,-0.24988 0.383936,-0.45835 0.07816,-0.20847 0.110019,-0.46987 0.110019,-0.80921 v -4.76227 c 0,-0.33934 -0.03181,-0.60074 -0.110066,-0.80921 -0.07826,-0.20847 -0.210307,-0.36255 -0.383937,-0.45835 -0.347256,-0.19159 -0.822255,-0.17987 -1.488724,-0.18757 h -0.0011 -7.9381412 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26457033;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssscccccscsssccccc"
@@ -343,7 +353,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52914065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 0.39685549,291.04383 v 1.45513 0.52914 c 0,0.33935 0.0318119,0.60075 0.11006654,0.80922 0.0782546,0.20847 0.21030694,0.36255 0.3839365,0.45835 0.34725647,0.19159 0.82225537,0.17987 1.48872397,0.18757 h 0.00106 7.9381415 0.0011 c 0.666469,-0.008 1.141468,0.004 1.488725,-0.18757 0.173629,-0.0958 0.305682,-0.24988 0.383936,-0.45835 0.07821,-0.20847 0.110019,-0.46987 0.110019,-0.80922 v -0.52914 -1.45513 H 10.319792 2.3795825 Z"
+       d="m 0.39685549,291.04383 v 1.45513 0.52914 c 0,0.33935 0.0318119,0.60075 0.11006654,0.80922 0.0782546,0.20847 0.21030694,0.36255 0.38393649,0.45835 0.34725648,0.19159 0.82225538,0.17987 1.48872388,0.18757 h 0.00106 7.9381416 0.0011 c 0.666468,-0.008 1.141467,0.004 1.488724,-0.18757 0.173629,-0.0958 0.305682,-0.24988 0.383936,-0.45835 0.07821,-0.20847 0.110019,-0.46987 0.110019,-0.80922 v -0.52914 -1.45513 H 10.319792 2.3795824 Z"
        id="path865-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssscccccssccccc"
@@ -352,7 +362,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41414404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 2.6457032,287.33984 h 7.4079688 c 0.146572,0 0.26457,0.118 0.26457,0.26457 v 0.26457 H 2.3811329 v -0.26457 c 0,-0.14657 0.1179984,-0.26457 0.2645703,-0.26457 z"
+       d="m 2.6457031,287.33984 h 7.4079689 c 0.146572,0 0.26457,0.118 0.26457,0.26457 v 0.26457 H 2.3811328 v -0.26457 c 0,-0.14657 0.1179984,-0.26457 0.2645703,-0.26457 z"
        id="rect972"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccss"
@@ -362,14 +372,14 @@
     <path
        inkscape:connector-curvature="0"
        style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.99990165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 2.1165626,292.36668 v 0.52914 0.26457 c 0,0.29314 0.2359967,0.52914 0.5291406,0.52914 h 3.7039844 3.7039844 c 0.293143,0 0.52914,-0.236 0.52914,-0.52914 v -0.26457 -0.52914 H 6.3496876 Z"
+       d="m 2.1165625,292.36668 v 0.52914 0.26457 c 0,0.29314 0.2359967,0.52914 0.5291406,0.52914 h 3.7039844 3.7039845 c 0.293143,0 0.52914,-0.236 0.52914,-0.52914 v -0.26457 -0.52914 H 6.3496875 Z"
        id="rect974-78"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;opacity:1;fill:#939393;fill-opacity:1;stroke:none;stroke-width:1.99990165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 3.4394142,296.33523 c -0.293144,0 -0.5291407,-0.23599 -0.5291407,-0.52914 v -3.43941 h 6.8788282 v 3.43941 c 0,0.29315 -0.2359968,0.52914 -0.5291407,0.52914 z m -0.5291407,-8.46625 v -2.6457 c 0,-0.29314 0.2359967,-0.52914 0.5291407,-0.52914 H 9.259961 c 0.2931439,0 0.5291407,0.236 0.5291407,0.52914 v 2.6457 z"
+       d="m 3.4394141,296.33523 c -0.293144,0 -0.5291407,-0.23599 -0.5291407,-0.52914 v -3.43941 H 9.789102 v 3.43941 c 0,0.29315 -0.2359972,0.52914 -0.5291411,0.52914 z m -0.5291407,-8.46625 v -2.6457 c 0,-0.29314 0.2359967,-0.52914 0.5291407,-0.52914 h 5.8205468 c 0.2931439,0 0.5291411,0.236 0.5291411,0.52914 v 2.6457 z"
        id="rect978"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -378,7 +388,7 @@
        sodipodi:nodetypes="ssccssscsssscc" />
     <path
        style="display:inline;opacity:1;fill:#faf8f6;fill-opacity:1;stroke:none;stroke-width:1.99990165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 3.5716993,296.07066 c -0.2198579,0 -0.3968555,-0.17699 -0.3968555,-0.39685 v -3.30713 h 6.3496875 v 3.30713 c 0,0.21986 -0.1769975,0.39685 -0.3968554,0.39685 z m -0.3968555,-8.20168 v -2.51341 c 0,-0.21986 0.1769976,-0.39686 0.3968555,-0.39686 h 5.5559766 c 0.2198579,0 0.3968554,0.177 0.3968554,0.39686 v 2.51341 z"
+       d="m 3.5716992,296.07066 c -0.2198579,0 -0.3968555,-0.17699 -0.3968555,-0.39685 v -3.30713 h 6.3496875 v 3.30713 c 0,0.21986 -0.1769975,0.39685 -0.3968554,0.39685 z m -0.3968555,-8.20168 v -2.51341 c 0,-0.21986 0.1769976,-0.39686 0.3968555,-0.39686 h 5.5559766 c 0.2198579,0 0.3968554,0.177 0.3968554,0.39686 v 2.51341 z"
        id="rect980"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -390,8 +400,8 @@
        id="rect1052"
        width="4.7622657"
        height="0.26457033"
-       x="3.9685547"
-       y="294.48328"
+       x="3.9685545"
+       y="294.48325"
        rx="0.1488208"
        ry="0.13228516"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -402,8 +412,8 @@
        id="rect1052-6"
        width="4.7622657"
        height="0.26457033"
-       x="3.9685547"
-       y="293.42499"
+       x="3.9685545"
+       y="293.42496"
        rx="0.1488208"
        ry="0.13228516"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -414,8 +424,8 @@
        id="rect2739"
        width="0.52914065"
        height="0.52914065"
-       x="10.053672"
-       y="289.98557"
+       x="10.053673"
+       y="289.98553"
        rx="0.26457033"
        ry="0.26457033"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -426,8 +436,8 @@
        id="rect2739-0"
        width="0.52914065"
        height="0.52914065"
-       x="8.9953909"
-       y="289.98557"
+       x="8.9953918"
+       y="289.98553"
        rx="0.26457033"
        ry="0.26457033"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -439,7 +449,7 @@
        width="0.52914065"
        height="0.52914065"
        x="7.9371095"
-       y="289.98557"
+       y="289.98553"
        rx="0.26457033"
        ry="0.26457033"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
@@ -451,7 +461,7 @@
        width="8.4662504"
        height="0.52914065"
        x="2.1165624"
-       y="292.3667"
+       y="292.36667"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -461,7 +471,7 @@
        width="8.4662504"
        height="0.26457033"
        x="2.1165624"
-       y="292.3667"
+       y="292.36667"
        inkscape:export-filename="/home/stuart/yaru/icons/Suru/48x48/legacy/document-print.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
