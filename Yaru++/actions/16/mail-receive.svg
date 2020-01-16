@@ -11,7 +11,7 @@
    height="16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="mail-receive.svg"
+   sodipodi:docname="mail-outbox.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,17 +71,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-7.0169492"
-     inkscape:cy="5.2881356"
+     inkscape:zoom="27.286982"
+     inkscape:cx="7.8844776"
+     inkscape:cy="3.0866814"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g826" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
   <g
      transform="matrix(1.2307456,0,0,1.2307456,-1494.8559,386.45441)"
      style="fill:#808080"
@@ -95,38 +96,21 @@
   </g>
   <g
      id="g826"
-     transform="rotate(90,289.25805,210.11483)"
-     style="fill:#3eb34f;fill-opacity:1">
-    <path
-       style="fill:#3eb34f;fill-opacity:1"
-       d="M 7.3710938,0.27148438 V 4.1582031 h -2 c 0.34766,0.76042 0.7382187,1.5360388 1.1679687,2.3242188 0.43079,0.78078 0.8737512,1.5328125 1.3320313,2.2578125 0.44911,-0.725 0.8895325,-1.4770325 1.3203124,-2.2578125 0.4299901,-0.78862 0.8227578,-1.5633788 1.1796878,-2.3242188 V 4.15625 H 8.3710938 V 0.27148438 Z"
-       transform="rotate(-90,289.10793,210.26495)"
-       id="path822"
-       inkscape:connector-curvature="0" />
+     transform="rotate(-90,-197.50811,286.12258)"
+     style="fill:#f22c42;fill-opacity:1" />
+  <g
+     id="g828"
+     transform="rotate(-180,7.9681385,6.9844877)"
+     style="fill:#0f8420;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       id="path850"
-       transform="rotate(-90,289.10793,210.26495)"
-       d="M 7.3710938,0.27148438 V 4.1582031 h -2 c 0.34766,0.76042 0.7382187,1.5360388 1.1679687,2.3242188 0.43079,0.78078 0.8737512,1.5328125 1.3320313,2.2578125 0.44911,-0.725 0.8895325,-1.4770325 1.3203124,-2.2578125 0.4299901,-0.78862 0.8227578,-1.5633788 1.1796878,-2.3242188 V 4.15625 H 8.3710938 V 0.27148438 Z"
-       style="fill:#3eb34f;fill-opacity:1" />
-    <path
-       style="fill:#000d02;fill-opacity:1;opacity:0.2"
-       d="M 10.119141 3.8554688 C 9.826534 4.4580645 9.529318 5.061896 9.1914062 5.6816406 C 8.7606263 6.4624206 8.3202038 7.2144531 7.8710938 7.9394531 C 7.4128137 7.2144531 6.9698525 6.4624206 6.5390625 5.6816406 C 6.2018143 5.0631129 5.9102326 4.4592033 5.6230469 3.8574219 L 5.3710938 3.8574219 C 5.7187538 4.6178419 6.1093125 5.3934606 6.5390625 6.1816406 C 6.9698525 6.9624206 7.4128137 7.7144531 7.8710938 8.4394531 C 8.3202038 7.7144531 8.7606263 6.9624206 9.1914062 6.1816406 C 9.6213963 5.3930206 10.014164 4.6182619 10.371094 3.8574219 L 10.371094 3.8554688 L 10.119141 3.8554688 z "
-       transform="rotate(-90,289.25805,210.11483)"
-       id="path852" />
+       id="path822"
+       d="m 77.721857,492.48248 h 3.671564 v 3.2 c 0.718326,-0.55626 1.45101,-1.18116 2.195558,-1.86876 0.73756,-0.68926 1.447961,-1.398 2.132828,-2.13124 -0.684867,-0.71858 -1.395268,-1.42325 -2.132828,-2.1125 -0.744964,-0.68798 -1.476836,-1.3164 -2.195558,-1.88749 h -0.0019 v 3.2 h -3.669708 z"
+       style="fill:#0f8420;fill-opacity:1;stroke-width:1.22940099"
+       transform="rotate(-90,-197.50811,286.12258)" />
   </g>
   <g
-     style="fill:#3eb34f;fill-opacity:1"
-     transform="rotate(90,289.25805,210.11483)"
-     id="g843">
-    <path
-       style="fill:#f8fff9;fill-opacity:1;opacity:0.3"
-       d="M 7.3710938 -0.029296875 L 7.3710938 0.47070312 L 8.3710938 0.47070312 L 8.3710938 -0.029296875 L 7.3710938 -0.029296875 z M 8.3710938 3.8554688 L 8.3710938 4.3554688 L 10.119141 4.3554688 C 10.198874 4.1912662 10.294661 4.0203484 10.371094 3.8574219 L 10.371094 3.8554688 L 8.3710938 3.8554688 z M 5.3710938 3.8574219 C 5.445926 4.0210989 5.5442765 4.1923628 5.6230469 4.3574219 L 7.3710938 4.3574219 L 7.3710938 3.8574219 L 5.3710938 3.8574219 z "
-       transform="rotate(-90,289.25805,210.11483)"
-       id="path841" />
-  </g>
-  <g
-     id="g847"
-     transform="rotate(90,289.00805,210.36483)"
-     style="fill:#3eb34f;fill-opacity:1" />
+     id="g837"
+     transform="rotate(-90,-197.25811,286.37258)"
+     style="fill:#f22c42;fill-opacity:1" />
 </svg>
