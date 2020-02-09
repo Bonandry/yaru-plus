@@ -36,9 +36,11 @@
   <circle cx="-258" cy="-256" fill-opacity=".996078" filter="url(#filter4323)" opacity=".1" r="176" transform="matrix(0 -.45358545 -.45430702 0 11.582731 11.134288)"/>
   <circle cx="-258" cy="-256" fill="url(#linearGradient4301)" filter="url(#filter4291)" opacity=".4" r="176" transform="matrix(0 -.45358545 -.45430702 0 11.582731 11.134288)"/>
   <g enable-background="new" transform="matrix(.90861416 0 0 .90717088 353.22162 -14.266485)">
-    <circle cx="-156" cy="248" fill="#f2f2f2" r="88" transform="matrix(0 -1 -1 0 0 0)"/>
-    <circle cx="-157" cy="248" fill="#fff" r="80" transform="matrix(0 -1 -1 0 0 0)"/>
-    <circle cx="-156" cy="248" fill="#46444a" r="80" transform="matrix(0 -1 -1 0 0 0)"/>
+    <g transform="matrix(0 -1 -1 0 0 0)">
+      <circle cx="-156" cy="248" fill="#f2f2f2" r="88"/>
+      <circle cx="-157" cy="248" fill="#fff" r="80"/>
+      <circle cx="-156" cy="248" fill="#46444a" r="80"/>
+    </g>
     <path d="m-248.0007 75.999297a80.000135 80.000135 0 0 0 -79.9993 80.000693 80.000135 80.000135 0 0 0 79.9993 80.00069 80.000135 80.000135 0 0 0 80.0007-80.00069 80.000135 80.000135 0 0 0 -80.0007-80.000693zm0 28.622583a51.37813 51.37813 0 0 1 51.37811 51.37811 51.37813 51.37813 0 0 1 -51.37811 51.37811 51.37813 51.37813 0 0 1 -51.37811-51.37811 51.37813 51.37813 0 0 1 51.37811-51.37811z" fill="url(#radialGradient4404)" opacity=".1"/>
     <circle cx="-156" cy="248" fill="#a7a7f1" r="64" transform="matrix(0 -1 -1 0 0 0)"/>
     <circle cx="-156" cy="248" fill="#8f76e4" r="60" transform="matrix(0 -1 -1 0 0 0)"/>

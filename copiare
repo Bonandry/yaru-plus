@@ -1,0 +1,2670 @@
+ FOLDER DARK/actions/48/document-open.svg                        |  206 ++++
+ FOLDER DARK/actions/scalable/document-open.svg                  |  541 +++++++++
+ FOLDER DARK/places/32/folder-documents.svg                      |    1 +
+ FOLDER DARK/places/32/folder-download.svg                       |    1 +
+ FOLDER DARK/places/32/folder-dropbox.svg                        |    1 +
+ FOLDER DARK/places/32/folder-music.svg                          |    1 +
+ FOLDER DARK/places/32/folder-pictures.svg                       |    1 +
+ FOLDER DARK/places/32/folder-publicshare.svg                    |    1 +
+ FOLDER DARK/places/32/folder-remote.svg                         |    1 +
+ FOLDER DARK/places/32/folder-templates.svg                      |    1 +
+ FOLDER DARK/places/32/folder-videos.svg                         |    1 +
+ FOLDER DARK/places/32/folder.svg                                |    1 +
+ FOLDER DARK/places/32/inode-directory.svg                       |    1 +
+ FOLDER DARK/places/32/insync-folder.svg                         |    1 +
+ FOLDER DARK/places/32/user-home.svg                             |  200 ++++
+ FOLDER DARK/places/48/folder-documents.svg                      |  627 +++++++++++
+ FOLDER DARK/places/48/folder-download.svg                       |  543 +++++++++
+ FOLDER DARK/places/48/folder-dropbox.svg                        |  543 +++++++++
+ FOLDER DARK/places/48/folder-music.svg                          |  543 +++++++++
+ FOLDER DARK/places/48/folder-pictures.svg                       |  559 ++++++++++
+ FOLDER DARK/places/48/folder-publicshare.svg                    |  542 +++++++++
+ FOLDER DARK/places/48/folder-remote.svg                         |  635 +++++++++++
+ FOLDER DARK/places/48/folder-templates.svg                      |  563 ++++++++++
+ FOLDER DARK/places/48/folder-videos.svg                         |  543 +++++++++
+ FOLDER DARK/places/48/folder.svg                                |  621 +++++++++++
+ FOLDER DARK/places/48/inode-directory.svg                       |    1 +
+ FOLDER DARK/places/48/insync-folder.svg                         |  570 ++++++++++
+ FOLDER DARK/places/48/user-bookmarks.svg                        |  628 +++++++++++
+ FOLDER DARK/places/48/user-home.svg                             |  576 ++++++++++
+ .../places/scalable/folder-documents.svg                        |  583 +++++++---
+ FOLDER DARK/places/scalable/folder-download.svg                 |  931 ++++++++++++++++
+ .../places/scalable/folder-dropbox.svg                          |  594 ++++++----
+ FOLDER DARK/places/scalable/folder-music.svg                    |  926 ++++++++++++++++
+ FOLDER DARK/places/scalable/folder-pictures.svg                 |  931 ++++++++++++++++
+ FOLDER DARK/places/scalable/folder-publicshare.svg              |  925 ++++++++++++++++
+ FOLDER DARK/places/scalable/folder-remote.svg                   | 1159 +++++++++++++++++++
+ FOLDER DARK/places/scalable/folder-templates.svg                |  937 ++++++++++++++++
+ FOLDER DARK/places/scalable/folder-videos.svg                   |  926 ++++++++++++++++
+ .../places/scalable/folder.svg                                  |  583 +++++-----
+ FOLDER DARK/places/scalable/inode-directory.svg                 |    1 +
+ FOLDER DARK/places/scalable/insync-folder.svg                   |  492 +++++++++
+ .../places/scalable/user-bookmarks.svg                          | 1546 ++++++++++++++------------
+ FOLDER DARK/places/scalable/user-home.svg                       |  951 ++++++++++++++++
+ FOLDER DARK/status/48/folder-drag-accept.svg                    |    1 +
+ FOLDER DARK/status/48/folder-open.svg                           |  206 ++++
+ FOLDER DARK/status/scalable/folder-drag-accept.svg              |    1 +
+ FOLDER DARK/status/scalable/folder-open.svg                     |  541 +++++++++
+ Yaru++/actions/16/address-book-new.svg                          |    7 +-
+ Yaru++/actions/16/amazon-mp3-store-source.svg                   |    6 +
+ Yaru++/actions/16/archive-insert-directory.svg                  |    1 +
+ Yaru++/actions/16/button_cancel.svg                             |    2 +-
+ Yaru++/actions/16/calendar-go-today.svg                         |   68 +-
+ Yaru++/actions/16/cancel.svg                                    |    2 +-
+ Yaru++/actions/16/color-select.svg                              |   18 +-
+ Yaru++/actions/16/dialog-apply.svg                              |  108 +-
+ Yaru++/actions/16/dialog-ok.svg                                 |    2 +-
+ Yaru++/actions/16/dialog-yes.svg                                |    2 +-
+ Yaru++/actions/16/document-export.svg                           |   12 +-
+ Yaru++/actions/16/entry-delete.svg                              |    6 +-
+ Yaru++/actions/16/file-catalog.svg                              |    9 +-
+ Yaru++/actions/16/file-library.svg                              |   72 +-
+ Yaru++/actions/16/go-jump.svg                                   |   10 +-
+ Yaru++/actions/16/group-new.svg                                 |    1 +
+ Yaru++/actions/16/gtk-apply.svg                                 |    2 +-
+ Yaru++/actions/16/gtk-connect.svg                               |   65 +-
+ Yaru++/actions/16/gtk-disconnect.svg                            |   71 +-
+ Yaru++/actions/16/gtk-ok.svg                                    |    9 +-
+ Yaru++/actions/16/gtk-yes.svg                                   |    2 +-
+ Yaru++/actions/16/{multisystem-blue.svg => help-about.svg}      |   34 +-
+ Yaru++/actions/16/image-flip-horizontal.svg                     |   14 +-
+ Yaru++/actions/16/image.svg                                     |   96 ++
+ Yaru++/actions/16/installed.svg                                 |   78 +-
+ Yaru++/actions/16/mail-mark-important.svg                       |   78 +-
+ Yaru++/actions/16/mail-mark-junk.svg                            |   77 +-
+ Yaru++/actions/16/mail-mark-notjunk.svg                         |   76 +-
+ Yaru++/actions/16/mail-mark-read.svg                            |   71 +-
+ Yaru++/actions/16/mail-mark-unread.svg                          |   69 +-
+ Yaru++/actions/16/mail-message-new.svg                          |  141 ++-
+ Yaru++/actions/16/mail-outbox.svg                               |   95 +-
+ Yaru++/actions/16/mail-read.svg                                 |    1 +
+ Yaru++/actions/16/mail-receive.svg                              |  135 ++-
+ Yaru++/actions/16/multisystem-display-properties.svg            |   38 -
+ Yaru++/actions/16/multisystem-download.svg                      |   56 -
+ Yaru++/actions/16/multisystem-flip-horizontal.svg               |   11 -
+ Yaru++/actions/16/multisystem-flip-vertical.svg                 |   11 -
+ Yaru++/actions/16/multisystem-gparted.svg                       |   36 -
+ Yaru++/actions/16/multisystem-gparted64.svg                     |   36 -
+ Yaru++/actions/16/multisystem-grub48.svg                        |   58 -
+ Yaru++/actions/16/multisystem-hidden.svg                        |    3 -
+ Yaru++/actions/16/multisystem-home.svg                          |    8 -
+ Yaru++/actions/16/multisystem-language.svg                      |  134 ---
+ Yaru++/actions/16/multisystem-qemu.svg                          |   55 -
+ Yaru++/actions/16/multisystem-save.svg                          |    5 -
+ Yaru++/actions/16/multisystem-update.svg                        |   56 -
+ Yaru++/actions/16/multisystem-vbox.svg                          |    5 -
+ Yaru++/actions/16/object-group.svg                              |    4 +-
+ Yaru++/actions/16/offline.svg                                   |   10 +-
+ Yaru++/actions/16/online.svg                                    |    9 +-
+ Yaru++/actions/16/package-available-locked.svg                  |   78 +-
+ Yaru++/actions/16/package-available.svg                         |   71 +-
+ Yaru++/actions/16/package-broken.svg                            |   78 +-
+ Yaru++/actions/16/package-downgrade.svg                         |   78 +-
+ Yaru++/actions/16/package-install.svg                           |  126 ++-
+ Yaru++/actions/16/package-installed-locked.svg                  |   35 +-
+ Yaru++/actions/16/package-installed-outdated.svg                |   21 +-
+ Yaru++/actions/16/package-installed-updated.svg                 |    6 +-
+ Yaru++/actions/16/package-new.svg                               |   78 +-
+ Yaru++/actions/16/package-purge.svg                             |   78 +-
+ Yaru++/actions/16/package-remove.svg                            |   78 +-
+ Yaru++/actions/16/package-supported.svg                         |   79 +-
+ Yaru++/actions/16/package-upgrade.svg                           |   78 +-
+ Yaru++/actions/16/password-copy.svg                             |   27 +-
+ Yaru++/actions/16/password-generator.svg                        |   70 +-
+ Yaru++/actions/16/playlist_display-sync.svg                     |    7 +-
+ Yaru++/actions/16/selection-checked.svg                         |    6 +-
+ Yaru++/actions/16/sound.svg                                     |    5 +
+ Yaru++/actions/16/stock_calc-accept.svg                         |    2 +-
+ Yaru++/actions/16/stock_calc-cancel.svg                         |    2 +-
+ Yaru++/actions/16/stock_mail-filters-apply.svg                  |    2 +-
+ Yaru++/actions/16/stock_mark.svg                                |    2 +-
+ Yaru++/actions/16/stock_task-assigned-to.svg                    |   98 --
+ Yaru++/actions/16/stock_task-assigned.svg                       |   11 -
+ Yaru++/actions/16/stock_task.svg                                |    1 +
+ Yaru++/actions/16/stock_xfburn-audio-cd.svg                     |    6 +-
+ Yaru++/actions/16/stock_yes.svg                                 |    2 +-
+ Yaru++/actions/16/system-switch-user.svg                        |   94 --
+ Yaru++/actions/16/text-x-generic-template.svg                   |   99 ++
+ Yaru++/actions/16/url-copy.svg                                  |   76 +-
+ Yaru++/actions/16/username-copy.svg                             |   90 +-
+ Yaru++/actions/16/view-history.svg                              |    4 +-
+ Yaru++/actions/16/window-close.svg                              |   86 +-
+ Yaru++/actions/16/zoom-1-to-2.svg                               |   10 +-
+ Yaru++/actions/16/zoom-2-to-1.svg                               |   10 +-
+ Yaru++/actions/16/zoom-fit-drawing.svg                          |    9 +-
+ Yaru++/actions/16/zoom-fit-page.svg                             |   10 +-
+ Yaru++/actions/16/zoom-fit-selection.svg                        |   10 +-
+ Yaru++/actions/16/zoom-fit-width.svg                            |   14 +-
+ Yaru++/actions/16/zoom-next.svg                                 |   10 +-
+ Yaru++/actions/16/zoom-previous.svg                             |   10 +-
+ Yaru++/actions/22                                               |    1 +
+ Yaru++/actions/48/document-export.svg                           |  211 ++++
+ Yaru++/actions/48/document-import.svg                           |  210 ++++
+ Yaru++/actions/48/document-new.svg                              |  229 ++++
+ Yaru++/actions/48/document-open.svg                             |  142 +++
+ Yaru++/actions/48/document-print-preview.svg                    |  210 ++++
+ Yaru++/actions/48/document-print.svg                            |  479 ++++++++
+ Yaru++/actions/48/document-revert.svg                           |  227 ++++
+ Yaru++/actions/48/document-save.svg                             |  217 ++++
+ Yaru++/actions/48/gtk-properties.svg                            |  384 +++++++
+ Yaru++/actions/48/help-about.svg                                |  131 +++
+ Yaru++/actions/48/iso-image-burn.svg                            |  778 +++++++++++++
+ Yaru++/actions/48/media-optical-audio-new.svg                   |  911 +++++++++++++++
+ Yaru++/actions/48/media-optical-copy.svg                        |  406 +++++++
+ Yaru++/actions/48/media-optical-data-new.svg                    |  916 +++++++++++++++
+ Yaru++/actions/48/media-optical-video-new.svg                   |  932 ++++++++++++++++
+ Yaru++/actions/48/meld-version-control.svg                      |  214 ++++
+ Yaru++/actions/scalable/document-export.svg                     |  326 ++++++
+ Yaru++/actions/scalable/document-import.svg                     |  336 ++++++
+ Yaru++/actions/scalable/document-open.svg                       |  545 +++++++--
+ Yaru++/actions/scalable/document-print.svg                      |  734 ++++++------
+ Yaru++/actions/scalable/document-revert.svg                     |  340 ++++++
+ Yaru++/actions/scalable/document-save.svg                       |  233 ++--
+ Yaru++/actions/scalable/gtk-properties.svg                      |  289 +++++
+ Yaru++/actions/scalable/help-about.svg                          |  171 +++
+ Yaru++/actions/scalable/iso-image-burn.svg                      |  790 +++++++------
+ Yaru++/actions/scalable/media-optical-audio-new.svg             |  911 +++++++++------
+ Yaru++/actions/scalable/media-optical-copy.svg                  | 1259 +++++++++++++++------
+ Yaru++/actions/scalable/media-optical-data-new.svg              | 1052 ++++++++++++------
+ Yaru++/actions/scalable/media-optical-video-new.svg             | 1210 ++++++++++++++------
+ Yaru++/actions/scalable/meld-version-control.svg                |  291 +++--
+ Yaru++/actions/scalable/multisystem-drop-green.svg              |  374 -------
+ Yaru++/actions/scalable/multisystem-drop.svg                    |  374 -------
+ Yaru++/actions/scalable/multisystem-exit.svg                    |  235 ----
+ Yaru++/actions/scalable/multisystem-hide.svg                    |  162 ---
+ Yaru++/actions/scalable/multisystem-save2.svg                   |  310 ------
+ Yaru++/actions/scalable/multisystem-show.svg                    |  143 ---
+ Yaru++/actions/symbolic/address-book-new-symbolic.svg           |    7 +-
+ Yaru++/actions/symbolic/call-stop-symbolic.svg                  |    4 +-
+ Yaru++/actions/symbolic/color-select-symbolic.svg               |   36 +-
+ Yaru++/actions/symbolic/document-export-symbolic.svg            |   12 +-
+ Yaru++/actions/symbolic/edit-find-symbolic.svg                  |    0
+ Yaru++/actions/symbolic/favorite-new-symbolic.svg               |   35 +
+ Yaru++/actions/symbolic/file-catalog-symbolic.svg               |    9 +-
+ Yaru++/actions/symbolic/file-library-symbolic.svg               |   72 +-
+ Yaru++/actions/symbolic/file-search-symbolic.svg                |    5 -
+ Yaru++/actions/symbolic/find-symbolic.svg                       |    1 +
+ Yaru++/actions/symbolic/format-indent-less-rtl-symbolic.svg     |   11 +-
+ Yaru++/actions/symbolic/format-indent-less-symbolic-rtl.svg     |   11 +-
+ Yaru++/actions/symbolic/gnome-searchtool-symbolic.svg           |    1 +
+ Yaru++/actions/symbolic/go-jump-symbolic-rtl.svg                |    7 +-
+ Yaru++/actions/symbolic/gtk-find-symbolic.svg                   |    1 +
+ .../multisystem-theme.svg => symbolic/help-about-symbolic.svg}  |   38 +-
+ Yaru++/actions/symbolic/help-faq-symbolic.svg                   |    6 +
+ Yaru++/actions/symbolic/kfind-symbolic.svg                      |    1 +
+ Yaru++/actions/symbolic/multisystem-hidden-symbolic.svg         |    1 +
+ Yaru++/actions/symbolic/search-symbolic.svg                     |    4 +-
+ Yaru++/actions/symbolic/sidebar-hide-symbolic.svg               |    1 +
+ Yaru++/actions/symbolic/sidebar-show-symbolic.svg               |    1 +
+ Yaru++/actions/symbolic/stock_search-symbolic.svg               |    1 +
+ Yaru++/actions/symbolic/system-run-symbolic.svg                 |  108 +-
+ Yaru++/actions/symbolic/system-search-symbolic.svg              |    0
+ Yaru++/actions/symbolic/user-info-symbolic.svg                  |   74 ++
+ Yaru++/actions/symbolic/view-conceal-symbolic.svg               |    1 +
+ Yaru++/actions/symbolic/view-reveal-symbolic.svg                |   61 +
+ Yaru++/actions/symbolic/view-zoom-in-symbolic.svg               |    8 +-
+ Yaru++/actions/symbolic/view-zoom-original-symbolic.svg         |    7 +-
+ Yaru++/actions/symbolic/view-zoom-out-symbolic.svg              |    7 +-
+ Yaru++/apps/16/Charmap.svg                                      |    2 +-
+ Yaru++/apps/16/PCSX2.svg                                        |    2 +-
+ Yaru++/apps/16/Thunar.svg                                       |    1 +
+ Yaru++/apps/16/accessories-calculator.svg                       |    2 +-
+ Yaru++/apps/16/accessories-camera.svg                           |    2 +-
+ Yaru++/apps/16/accessories-character-map.svg                    |   38 +-
+ Yaru++/apps/16/accessories-dictionary.svg                       |    2 +-
+ Yaru++/apps/16/accessories-text-editor.svg                      |   37 +-
+ Yaru++/apps/16/address-book-app.svg                             |   39 +-
+ Yaru++/apps/16/alacarte.svg                                     |   22 +-
+ Yaru++/apps/16/amazon-store.svg                                 |   36 +-
+ Yaru++/apps/16/amule.svg                                        |   10 +-
+ Yaru++/apps/16/applets-screenshooter.svg                        |    2 +-
+ Yaru++/apps/16/apport.svg                                       |    2 +-
+ Yaru++/apps/16/aptdaemon-download.svg                           |   37 +-
+ Yaru++/apps/16/asunder.svg                                      |    6 +-
+ Yaru++/apps/16/audacious.svg                                    |    6 +-
+ Yaru++/apps/16/backups-app.svg                                  |   36 +-
+ Yaru++/apps/16/baobab.svg                                       |    2 +-
+ Yaru++/apps/16/bash.svg                                         |    2 +-
+ Yaru++/apps/16/bijiben.svg                                      |    2 +-
+ Yaru++/apps/16/bleachbit.svg                                    |    4 +-
+ Yaru++/apps/16/blender.svg                                      |    8 +-
+ Yaru++/apps/16/brasero.svg                                      |    2 +-
+ Yaru++/apps/16/ca.desrt.dconf-editor.svg                        |    2 +-
+ Yaru++/apps/16/calculator-app.svg                               |   39 +-
+ Yaru++/apps/16/calendar-app.svg                                 |   37 +-
+ Yaru++/apps/16/camera-app.svg                                   |  115 +-
+ Yaru++/apps/16/ccsm.svg                                         |   69 ++
+ Yaru++/apps/16/charmap.svg                                      |    2 +-
+ .../apps/16/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.svg |    2 +-
+ .../apps/16/chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.svg |    2 +-
+ Yaru++/apps/16/clock-app.svg                                    |   36 +-
+ Yaru++/apps/16/com.github.PintaProject.Pinta.svg                |    2 +-
+ Yaru++/apps/16/com.github.fabiocolacio.marker.svg               |    1 +
+ Yaru++/apps/16/com.github.maoschanz.drawing.svg                 |   66 ++
+ Yaru++/apps/16/compton.svg                                      |    9 +
+ Yaru++/apps/16/configurator-app.svg                             |   39 +-
+ Yaru++/apps/16/configurator.svg                                 |    2 +-
+ Yaru++/apps/16/darktable.svg                                    |    4 +-
+ Yaru++/apps/16/dconf-editor.svg                                 |    2 +-
+ Yaru++/apps/16/deja-dup.svg                                     |    2 +-
+ Yaru++/apps/16/disk-usage-app.svg                               |   39 +-
+ Yaru++/apps/16/disk-utility-app.svg                             |   39 +-
+ Yaru++/apps/16/display-im6.Q16.svg                              |    2 +-
+ Yaru++/apps/16/display-im6.q16.svg                              |    2 +-
+ Yaru++/apps/16/display.im6.svg                                  |    9 +-
+ Yaru++/apps/16/documents-app.svg                                |   37 +-
+ Yaru++/apps/16/docviewer-app.svg                                |   39 +-
+ Yaru++/apps/16/dropbox.svg                                      |    6 +-
+ Yaru++/apps/16/ebook-reader-app.svg                             |   41 +-
+ Yaru++/apps/16/electron6.svg                                    |    1 +
+ Yaru++/apps/16/empathy.svg                                      |    2 +-
+ Yaru++/apps/16/eog.svg                                          |    2 +-
+ Yaru++/apps/16/error-app.svg                                    |   38 +-
+ Yaru++/apps/16/evolution-memos.svg                              |    2 +-
+ Yaru++/apps/16/evolution-tasks.svg                              |    2 +-
+ Yaru++/apps/16/fcitx.svg                                        |   65 +-
+ Yaru++/apps/16/figma-linux.svg                                  |  426 +++++++
+ Yaru++/apps/16/file-roller.svg                                  |   38 +-
+ Yaru++/apps/16/filemanager-app.svg                              |  118 +-
+ Yaru++/apps/16/flacon.svg                                       |   57 +-
+ Yaru++/apps/16/flash-player-properties.svg                      |    2 +-
+ Yaru++/apps/16/flashplayer.svg                                  |    4 +-
+ Yaru++/apps/16/gallery-app.svg                                  |   36 +-
+ Yaru++/apps/16/games-app.svg                                    |   41 +-
+ Yaru++/apps/16/geary.svg                                        |    2 +-
+ Yaru++/apps/16/gedit.svg                                        |    2 +-
+ Yaru++/apps/16/gimagereader.svg                                 |   96 +-
+ Yaru++/apps/16/gimp.svg                                         |    6 +-
+ Yaru++/apps/16/github.svg                                       |    4 +-
+ Yaru++/apps/16/gksu-root-terminal.svg                           |    2 +-
+ Yaru++/apps/16/gnome-aisleriot.svg                              |   36 +-
+ Yaru++/apps/16/gnome-books.svg                                  |    2 +-
+ Yaru++/apps/16/gnome-calculator.svg                             |    2 +-
+ Yaru++/apps/16/gnome-calendar.svg                               |    2 +-
+ Yaru++/apps/16/gnome-character-map.svg                          |    2 +-
+ Yaru++/apps/16/gnome-characters.svg                             |    2 +-
+ Yaru++/apps/16/gnome-characters_gnome-characters.svg            |    2 +-
+ Yaru++/apps/16/gnome-chess.svg                                  |    1 +
+ Yaru++/apps/16/gnome-clocks.svg                                 |    2 +-
+ Yaru++/apps/16/gnome-contacts.svg                               |    2 +-
+ Yaru++/apps/16/gnome-control-center.svg                         |    2 +-
+ Yaru++/apps/16/gnome-disks.svg                                  |    2 +-
+ Yaru++/apps/16/gnome-documents.svg                              |    2 +-
+ Yaru++/apps/16/gnome-hearts.svg                                 |    6 +-
+ Yaru++/apps/16/gnome-help.svg                                   |    2 +-
+ Yaru++/apps/16/gnome-logs.svg                                   |    2 +-
+ Yaru++/apps/16/gnome-mahjongg.svg                               |   36 +-
+ Yaru++/apps/16/gnome-maps.svg                                   |    2 +-
+ Yaru++/apps/16/gnome-mime-application-x-deb.svg                 |  118 +-
+ Yaru++/apps/16/gnome-mines.svg                                  |   36 +-
+ Yaru++/apps/16/gnome-music.svg                                  |    2 +-
+ Yaru++/apps/16/gnome-photos.svg                                 |    2 +-
+ Yaru++/apps/16/gnome-recipes.svg                                |    1 +
+ Yaru++/apps/16/gnome-screenshot.svg                             |    2 +-
+ Yaru++/apps/16/gnome-software.svg                               |    2 +-
+ Yaru++/apps/16/gnome-sound-recorder.svg                         |   18 +-
+ Yaru++/apps/16/gnome-sudoku.svg                                 |    2 +-
+ Yaru++/apps/16/gnome-system-monitor.svg                         |    2 +-
+ Yaru++/apps/16/gnome-terminal.svg                               |    2 +-
+ Yaru++/apps/16/gnome-tweak-tool.svg                             |    2 +-
+ Yaru++/apps/16/gnome-usage.svg                                  |    2 +-
+ Yaru++/apps/16/gnome-weather.svg                                |    2 +-
+ Yaru++/apps/16/gnome.svg                                        |  224 +++-
+ Yaru++/apps/16/google-chrome.svg                                |  216 +++-
+ Yaru++/apps/16/gparted.svg                                      |    2 +-
+ Yaru++/apps/16/gpick.svg                                        |    6 +-
+ Yaru++/apps/16/gsconnect.svg                                    |   10 +-
+ Yaru++/apps/16/gthumb.svg                                       |   10 +-
+ Yaru++/apps/16/gtkpod.svg                                       |   12 +-
+ Yaru++/apps/16/help-about.svg                                   |    1 -
+ Yaru++/apps/16/help-app.svg                                     |   38 +-
+ Yaru++/apps/16/help-browser.svg                                 |    2 +-
+ Yaru++/apps/16/help.svg                                         |    2 +-
+ Yaru++/apps/16/ibus-setup-chewing.svg                           |    2 +-
+ Yaru++/apps/16/ibus-setup.svg                                   |  125 ++-
+ Yaru++/apps/16/image-viewer-app.svg                             |   38 +-
+ Yaru++/apps/16/image-viewer.svg                                 |    2 +-
+ Yaru++/apps/16/imagination.svg                                  |    2 +-
+ Yaru++/apps/16/inkscape.svg                                     |    6 +-
+ Yaru++/apps/16/internet-chat.svg                                |    2 +-
+ Yaru++/apps/16/internet-mail.svg                                |    2 +-
+ Yaru++/apps/16/internet-web-browser.svg                         |    2 +-
+ Yaru++/apps/16/java10-openjdk.svg                               |    2 +-
+ Yaru++/apps/16/java13-openjdk.svg                               |    1 +
+ Yaru++/apps/16/javaws.svg                                       |    8 +-
+ Yaru++/apps/16/jockey.svg                                       |  238 +++-
+ Yaru++/apps/16/krename.svg                                      |    9 +-
+ Yaru++/apps/16/libreoffice-base.svg                             |  368 ++++++-
+ Yaru++/apps/16/libreoffice-calc.svg                             |   22 +-
+ Yaru++/apps/16/libreoffice-draw.svg                             |  501 ++++++++-
+ Yaru++/apps/16/libreoffice-impress.svg                          |   18 +-
+ Yaru++/apps/16/libreoffice-main.svg                             |   10 +-
+ Yaru++/apps/16/libreoffice-math.svg                             |   70 +-
+ Yaru++/apps/16/libreoffice-writer.svg                           |   22 +-
+ Yaru++/apps/16/lightdm-settings.svg                             |    5 +
+ Yaru++/apps/16/livepatch.svg                                    |   59 +-
+ Yaru++/apps/16/log-viewer-app.svg                               |   39 +-
+ Yaru++/apps/16/logviewer.svg                                    |    2 +-
+ Yaru++/apps/16/mail-app.svg                                     |   38 +-
+ Yaru++/apps/16/mame.svg                                         |  121 +-
+ Yaru++/apps/16/maps-app.svg                                     |   36 +-
+ Yaru++/apps/16/marker.svg                                       |   94 ++
+ Yaru++/apps/16/mediaplayer-app.svg                              |   36 +-
+ Yaru++/apps/16/meld.svg                                         |    4 +-
+ Yaru++/apps/16/messaging-app.svg                                |   38 +-
+ Yaru++/apps/16/mintbackup.svg                                   |    1 +
+ Yaru++/apps/16/mintwelcome.svg                                  |   61 +
+ Yaru++/apps/16/mono-runtime-common.svg                          |    2 +-
+ Yaru++/apps/16/mono-runtime.svg                                 |    4 +-
+ Yaru++/apps/16/ms.svg                                           |    1 +
+ Yaru++/apps/16/multimedia-audio-player.svg                      |    2 +-
+ Yaru++/apps/16/multimedia-photo-manager.svg                     |    2 +-
+ Yaru++/apps/16/multimedia-photo-viewer.svg                      |    2 +-
+ Yaru++/apps/16/multimedia-video-player.svg                      |    2 +-
+ Yaru++/apps/16/multimedia-volume-control.svg                    |    2 +-
+ Yaru++/apps/16/multisystem-icon.svg                             |    2 +-
+ Yaru++/apps/16/multisystem-liveusb.svg                          |    2 +-
+ Yaru++/apps/16/music-app.svg                                    |   36 +-
+ Yaru++/apps/16/nautilus.svg                                     |    2 +-
+ Yaru++/apps/16/net.pcsx2.PCSX2.svg                              |    2 +-
+ Yaru++/apps/16/nm-device-wireless.svg                           |    8 +-
+ Yaru++/apps/16/notes-app.svg                                    |   41 +-
+ Yaru++/apps/16/ntfs-config.svg                                  |    2 +-
+ Yaru++/apps/16/nvidia.svg                                       |    9 +-
+ Yaru++/apps/16/office-address-book.svg                          |    2 +-
+ Yaru++/apps/16/office-addressbook.svg                           |    2 +-
+ Yaru++/apps/16/office-calendar.svg                              |    2 +-
+ Yaru++/apps/16/openjdk-11.svg                                   |    2 +-
+ Yaru++/apps/16/openjdk-8.svg                                    |    2 +-
+ Yaru++/apps/16/openshot.svg                                     |    6 +-
+ Yaru++/apps/16/org.gnome.ArchiveManager.svg                     |    2 +-
+ Yaru++/apps/16/org.gnome.Bijiben.svg                            |    2 +-
+ Yaru++/apps/16/org.gnome.Books.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Calculator.svg                         |    2 +-
+ Yaru++/apps/16/org.gnome.Calendar.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Characters.svg                         |    2 +-
+ Yaru++/apps/16/org.gnome.Cheese.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.Chess.svg                              |    1 +
+ Yaru++/apps/16/org.gnome.ChromeGnomeShell.svg                   |   16 +-
+ Yaru++/apps/16/org.gnome.Clocks.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.Contacts.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.DejaDup.svg                            |    2 +-
+ Yaru++/apps/16/org.gnome.DiskUtility.svg                        |    2 +-
+ Yaru++/apps/16/org.gnome.Disks.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Documents.svg                          |    2 +-
+ Yaru++/apps/16/org.gnome.Empathy.svg                            |    2 +-
+ Yaru++/apps/16/org.gnome.Epiphany.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Evolution.svg                          |    2 +-
+ Yaru++/apps/16/org.gnome.Games.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Gedit.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Logs.svg                               |    2 +-
+ Yaru++/apps/16/org.gnome.Mahjongg.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Maps.svg                               |    2 +-
+ Yaru++/apps/16/org.gnome.Mines.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Music.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Nautilus.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Notes.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Photos.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.Podcasts.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.PowerStats.svg                         |    2 +-
+ Yaru++/apps/16/org.gnome.Recipes.svg                            |    1 +
+ Yaru++/apps/16/org.gnome.Screenshot.svg                         |    2 +-
+ Yaru++/apps/16/org.gnome.Settings.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Software.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.SoundRecorder.svg                      |    2 +-
+ Yaru++/apps/16/org.gnome.Sudoku.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.SystemMonitor.svg                      |    2 +-
+ Yaru++/apps/16/org.gnome.Terminal.svg                           |    2 +-
+ Yaru++/apps/16/org.gnome.Todo.svg                               |    2 +-
+ Yaru++/apps/16/org.gnome.Totem.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Tweaks.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.Usage.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.Weather.Application.svg                |    2 +-
+ Yaru++/apps/16/org.gnome.Weather.svg                            |    2 +-
+ Yaru++/apps/16/org.gnome.Yelp.svg                               |    2 +-
+ Yaru++/apps/16/org.gnome.baobab.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.bijiben.svg                            |    2 +-
+ Yaru++/apps/16/org.gnome.chess.svg                              |    1 +
+ Yaru++/apps/16/org.gnome.clocks.svg                             |    2 +-
+ Yaru++/apps/16/org.gnome.eog.svg                                |    2 +-
+ Yaru++/apps/16/org.gnome.gedit.svg                              |    2 +-
+ Yaru++/apps/16/org.gnome.recipes.svg                            |    1 +
+ Yaru++/apps/16/org.gnome.seahorse.Application.svg               |    2 +-
+ Yaru++/apps/16/org.gnome.tweaks.svg                             |    2 +-
+ Yaru++/apps/16/org.keepassxc.KeePassXC.svg                      |  124 ++-
+ Yaru++/apps/16/org.mozilla.Thunderbird.svg                      |    2 +-
+ Yaru++/apps/16/org.musicbrainz.Picard.svg                       |   56 +-
+ Yaru++/apps/16/packages-app.svg                                 |    2 +-
+ Yaru++/apps/16/passwords-app.svg                                |   38 +-
+ Yaru++/apps/16/pcsx-icon.svg                                    |    6 +-
+ Yaru++/apps/16/pcsxr-icon.svg                                   |    2 +-
+ Yaru++/apps/16/pdfarranger.svg                                  |    2 +-
+ Yaru++/apps/16/pdfshuffler.svg                                  |   23 +-
+ Yaru++/apps/16/phonelink.svg                                    |    1 +
+ Yaru++/apps/16/pinta.svg                                        |   56 +-
+ Yaru++/apps/16/pix.svg                                          |    1 +
+ Yaru++/apps/16/podcasts-app.svg                                 |   38 +-
+ Yaru++/apps/16/power-statistics.svg                             |   38 +-
+ Yaru++/apps/16/preferences-desktop-remote-desktop.svg           |  113 +-
+ Yaru++/apps/16/puddletag.svg                                    |    2 +-
+ Yaru++/apps/16/python.svg                                       |    6 +
+ Yaru++/apps/16/python2.7.svg                                    |    1 +
+ Yaru++/apps/16/python3.6.svg                                    |    1 +
+ Yaru++/apps/16/quadrapassel.svg                                 |   14 +-
+ Yaru++/apps/16/redshift.svg                                     |   10 +
+ Yaru++/apps/16/remmina.svg                                      |  137 ++-
+ Yaru++/apps/16/rhythmbox.svg                                    |   36 +-
+ Yaru++/apps/16/ricette.svg                                      |   76 ++
+ Yaru++/apps/16/root-terminal-app.svg                            |  129 ++-
+ .../{actions/16/multisystem-resize.svg => apps/16/scacchi.svg}  |   22 +-
+ Yaru++/apps/16/scanner.svg                                      |   50 +-
+ Yaru++/apps/16/screenshot-app.svg                               |  125 ++-
+ Yaru++/apps/16/seahorse.svg                                     |    2 +-
+ Yaru++/apps/16/session-properties.svg                           |   37 +-
+ Yaru++/apps/16/simplescreenrecorder.svg                         |   18 +-
+ Yaru++/apps/16/snap-store.svg                                   |    4 +-
+ Yaru++/apps/16/software-center.svg                              |    2 +-
+ Yaru++/apps/16/software-properties-gtk.svg                      |    2 +-
+ Yaru++/apps/16/software-properties.svg                          |   36 +-
+ Yaru++/apps/16/software-store.svg                               |   36 +-
+ Yaru++/apps/16/software-updater.svg                             |   37 +-
+ Yaru++/apps/16/softwarecenter.svg                               |   82 +-
+ Yaru++/apps/16/sound-juicer.svg                                 |  139 ++-
+ Yaru++/apps/16/soundconverter.svg                               |  101 +-
+ Yaru++/apps/16/stacer.svg                                       |    4 +-
+ Yaru++/apps/16/stock_xfburn.svg                                 |   12 +-
+ Yaru++/apps/16/sudoku-app.svg                                   |   36 +-
+ Yaru++/apps/16/synaptic.svg                                     |    2 +-
+ Yaru++/apps/16/system-file-manager.svg                          |    2 +-
+ Yaru++/apps/16/system-help.svg                                  |    2 +-
+ Yaru++/apps/16/system-monitor-app.svg                           |   36 +-
+ Yaru++/apps/16/system-settings.svg                              |   38 +-
+ Yaru++/apps/16/system-software-install.svg                      |    2 +-
+ Yaru++/apps/16/system-software-update.svg                       |    2 +-
+ Yaru++/apps/16/system-users.svg                                 |   37 +-
+ Yaru++/apps/16/teamviewer.svg                                   |  129 ++-
+ Yaru++/apps/16/terminal-app.svg                                 |   36 +-
+ Yaru++/apps/16/terminal.svg                                     |    4 +-
+ Yaru++/apps/16/text-editor.svg                                  |    2 +-
+ Yaru++/apps/16/thunderbird.svg                                  |    6 +-
+ Yaru++/apps/16/timeshift.svg                                    |    5 +
+ Yaru++/apps/16/to-do-app.svg                                    |   36 +-
+ Yaru++/apps/16/totem.svg                                        |    2 +-
+ Yaru++/apps/16/transmission.svg                                 |  151 ++-
+ Yaru++/apps/16/tweaks-app.svg                                   |   37 +-
+ Yaru++/apps/16/ubiquity.svg                                     |   38 +-
+ Yaru++/apps/16/ubuntusoftware.svg                               |    2 +-
+ Yaru++/apps/16/update-manager.svg                               |    2 +-
+ Yaru++/apps/16/update-notifier.svg                              |   32 +-
+ Yaru++/apps/16/usage-app.svg                                    |   38 +-
+ Yaru++/apps/16/usb-creator-gtk.svg                              |   37 +-
+ Yaru++/apps/16/utilities-system-monitor.svg                     |    2 +-
+ Yaru++/apps/16/utilities-terminal.svg                           |    2 +-
+ Yaru++/apps/16/vim.svg                                          |    4 +-
+ Yaru++/apps/16/virtualbox.svg                                   |    4 +-
+ Yaru++/apps/16/vlc.svg                                          |   12 +-
+ Yaru++/apps/16/weather-app.svg                                  |   37 +-
+ Yaru++/apps/16/web-browser.svg                                  |    2 +-
+ Yaru++/apps/16/webbrowser-app.svg                               |   37 +-
+ Yaru++/apps/16/wine.svg                                         |    4 +-
+ Yaru++/apps/16/winetricks.svg                                   |   55 +-
+ Yaru++/apps/16/winff.svg                                        |   12 +-
+ Yaru++/apps/16/x-office-address-book.svg                        |    2 +-
+ Yaru++/apps/16/x-office-calendar.svg                            |    2 +-
+ Yaru++/apps/16/xfburn.svg                                       |    2 +-
+ Yaru++/apps/16/xine.svg                                         |   63 +-
+ Yaru++/apps/16/youtube.svg                                      |   66 +-
+ Yaru++/apps/scalable/Charmap.svg                                |    2 +-
+ Yaru++/apps/scalable/PCSX2.svg                                  |   74 +-
+ Yaru++/apps/scalable/Thunar.svg                                 |    1 +
+ Yaru++/apps/scalable/accessories-calculator.svg                 |    2 +-
+ Yaru++/apps/scalable/accessories-camera.svg                     |    2 +-
+ Yaru++/apps/scalable/accessories-character-map.svg              |  261 ++++-
+ Yaru++/apps/scalable/accessories-dictionary.svg                 |    2 +-
+ Yaru++/apps/scalable/accessories-text-editor.svg                |   77 +-
+ Yaru++/apps/scalable/address-book-app.svg                       |   56 +-
+ Yaru++/apps/scalable/alacarte.svg                               |  130 ++-
+ Yaru++/apps/scalable/amazon-store.svg                           |   81 +-
+ Yaru++/apps/scalable/amule.svg                                  |  206 +++-
+ Yaru++/apps/scalable/applets-screenshooter.svg                  |    2 +-
+ Yaru++/apps/scalable/applications-system-symbolic.svg           |  289 +++++
+ Yaru++/apps/scalable/apport.svg                                 |    2 +-
+ Yaru++/apps/scalable/aptdaemon-download.svg                     |   72 +-
+ Yaru++/apps/scalable/asunder.svg                                |  340 +++++-
+ Yaru++/apps/scalable/audacious.svg                              |   55 +-
+ Yaru++/apps/scalable/backups-app.svg                            |   92 +-
+ Yaru++/apps/scalable/baobab.svg                                 |    2 +-
+ Yaru++/apps/scalable/bash.svg                                   |    2 +-
+ Yaru++/apps/scalable/bijiben.svg                                |    2 +-
+ Yaru++/apps/scalable/bleachbit.svg                              |  621 ++++++++++-
+ Yaru++/apps/scalable/blender.svg                                |  104 +-
+ Yaru++/apps/scalable/calculator-app.svg                         |  327 +++++-
+ Yaru++/apps/scalable/calendar-app.svg                           |   59 +-
+ Yaru++/apps/scalable/calendar.svg                               |    2 +-
+ Yaru++/apps/scalable/camera-app.svg                             |   70 +-
+ Yaru++/apps/scalable/ccsm.svg                                   |  487 ++++++++
+ Yaru++/apps/scalable/charmap.svg                                |    2 +-
+ .../chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.svg         |  299 ++++-
+ Yaru++/apps/scalable/clock-app.svg                              |   53 +-
+ Yaru++/apps/scalable/com.github.PintaProject.Pinta.svg          |    2 +-
+ Yaru++/apps/scalable/com.github.fabiocolacio.marker.svg         |    1 +
+ Yaru++/apps/scalable/com.github.maoschanz.drawing.svg           |  441 ++++++++
+ Yaru++/apps/scalable/compton.svg                                |  380 +++++++
+ Yaru++/apps/scalable/configurator-app.svg                       |  103 +-
+ Yaru++/apps/scalable/configurator.svg                           |    2 +-
+ Yaru++/apps/scalable/darktable.svg                              |  239 +++-
+ Yaru++/apps/scalable/deja-dup.svg                               |    2 +-
+ Yaru++/apps/scalable/disk-usage-app.svg                         |  209 +++-
+ Yaru++/apps/scalable/disk-utility-app.svg                       |  143 ++-
+ Yaru++/apps/scalable/display.im6.svg                            |  160 +--
+ Yaru++/apps/scalable/documents-app.svg                          |   82 +-
+ Yaru++/apps/scalable/docviewer-app.svg                          |   54 +-
+ Yaru++/apps/scalable/dropbox.svg                                |  278 ++++-
+ Yaru++/apps/scalable/ebook-reader-app.svg                       |   59 +-
+ Yaru++/apps/scalable/electron6.svg                              |  146 +++
+ Yaru++/apps/scalable/empathy.svg                                |    2 +-
+ Yaru++/apps/scalable/eog.svg                                    |    2 +-
+ Yaru++/apps/scalable/error-app.svg                              |   60 +-
+ Yaru++/apps/scalable/evolution-mail.svg                         |    2 +-
+ Yaru++/apps/scalable/evolution-memos.svg                        |    2 +-
+ Yaru++/apps/scalable/evolution-tasks.svg                        |    2 +-
+ Yaru++/apps/scalable/fcitx.svg                                  |  771 ++++++++++++-
+ Yaru++/apps/scalable/figma-linux.svg                            |  195 ++--
+ Yaru++/apps/scalable/file-roller.svg                            |  214 +++-
+ Yaru++/apps/scalable/filemanager-app.svg                        |  592 +++++++++-
+ Yaru++/apps/scalable/firefox.svg                                |  677 +++++++++++-
+ Yaru++/apps/scalable/flash-player-properties.svg                |    2 +-
+ Yaru++/apps/scalable/flashplayer.svg                            |   52 +-
+ Yaru++/apps/scalable/gallery-app.svg                            |   64 +-
+ Yaru++/apps/scalable/games-app.svg                              |   46 +-
+ Yaru++/apps/scalable/geary.svg                                  |    2 +-
+ Yaru++/apps/scalable/gedit.svg                                  |    2 +-
+ Yaru++/apps/scalable/gimp.svg                                   |  773 +++++++++++--
+ Yaru++/apps/scalable/github.svg                                 |  101 +-
+ Yaru++/apps/scalable/gksu-root-terminal.svg                     |    2 +-
+ Yaru++/apps/scalable/gnome-aisleriot.svg                        |   52 +-
+ Yaru++/apps/scalable/gnome-books.svg                            |    2 +-
+ Yaru++/apps/scalable/gnome-calculator.svg                       |    2 +-
+ Yaru++/apps/scalable/gnome-calendar.svg                         |    2 +-
+ Yaru++/apps/scalable/gnome-character-map.svg                    |    2 +-
+ Yaru++/apps/scalable/gnome-characters.svg                       |    2 +-
+ Yaru++/apps/scalable/gnome-characters_gnome-characters.svg      |    2 +-
+ Yaru++/apps/scalable/gnome-chess.svg                            |    1 +
+ Yaru++/apps/scalable/gnome-clocks.svg                           |    2 +-
+ Yaru++/apps/scalable/gnome-color-manager.svg                    |    2 +-
+ Yaru++/apps/scalable/gnome-contacts.svg                         |    2 +-
+ Yaru++/apps/scalable/gnome-control-center.svg                   |    2 +-
+ Yaru++/apps/scalable/gnome-disks.svg                            |    2 +-
+ Yaru++/apps/scalable/gnome-documents.svg                        |    2 +-
+ Yaru++/apps/scalable/gnome-help.svg                             |    2 +-
+ Yaru++/apps/scalable/gnome-logs.svg                             |    2 +-
+ Yaru++/apps/scalable/gnome-mahjongg.svg                         |   66 +-
+ Yaru++/apps/scalable/gnome-maps.svg                             |    2 +-
+ Yaru++/apps/scalable/gnome-mime-application-x-deb.svg           |   47 +-
+ Yaru++/apps/scalable/gnome-mines.svg                            |   77 +-
+ Yaru++/apps/scalable/gnome-music.svg                            |    2 +-
+ Yaru++/apps/scalable/gnome-photos.svg                           |    2 +-
+ Yaru++/apps/scalable/gnome-power-manager.svg                    |    2 +-
+ Yaru++/apps/scalable/gnome-recipes.svg                          |    1 +
+ Yaru++/apps/scalable/gnome-screenshot.svg                       |    2 +-
+ Yaru++/apps/scalable/gnome-software.svg                         |    2 +-
+ Yaru++/apps/scalable/gnome-sound-recorder.svg                   |   33 +-
+ Yaru++/apps/scalable/gnome-sudoku.svg                           |    2 +-
+ Yaru++/apps/scalable/gnome-system-monitor.svg                   |    2 +-
+ Yaru++/apps/scalable/gnome-terminal.svg                         |    2 +-
+ Yaru++/apps/scalable/gnome-usage.svg                            |    2 +-
+ Yaru++/apps/scalable/gnome-weather.svg                          |    2 +-
+ Yaru++/apps/scalable/gnome.svg                                  |   63 +-
+ Yaru++/apps/scalable/goa-account-facebook.svg                   |  279 ++++-
+ Yaru++/apps/scalable/goa-account-flickr.svg                     |  238 +++-
+ Yaru++/apps/scalable/goa-account-foursquare.svg                 |  252 ++++-
+ Yaru++/apps/scalable/goa-account-google.svg                     |   63 +-
+ Yaru++/apps/scalable/goa-account-msn.svg                        |  258 ++++-
+ Yaru++/apps/scalable/goa-account-owncloud.svg                   |   59 +-
+ Yaru++/apps/scalable/goa-account-pocket.svg                     |  259 ++++-
+ Yaru++/apps/scalable/goa-account-todoist.svg                    |   50 +-
+ Yaru++/apps/scalable/goa-account-ubuntusso.svg                  |   51 +-
+ Yaru++/apps/scalable/goa-panel.svg                              |  269 ++++-
+ Yaru++/apps/scalable/google-chrome.svg                          |  120 +-
+ Yaru++/apps/scalable/gparted.svg                                |  225 ++--
+ Yaru++/apps/scalable/gpick.svg                                  |   53 +-
+ Yaru++/apps/scalable/gsconnect.svg                              |  601 +++++++++-
+ Yaru++/apps/scalable/gthumb.svg                                 |  218 ++--
+ Yaru++/apps/scalable/help-about.svg                             |    1 -
+ Yaru++/apps/scalable/help-app.svg                               |   44 +-
+ Yaru++/apps/scalable/help-browser.svg                           |    2 +-
+ Yaru++/apps/scalable/help.svg                                   |    2 +-
+ Yaru++/apps/scalable/ibus-setup-chewing.svg                     |    2 +-
+ Yaru++/apps/scalable/ibus-setup.svg                             |  623 ++++++++++-
+ Yaru++/apps/scalable/ibus.svg                                   |   23 +-
+ Yaru++/apps/scalable/image-viewer-app.svg                       |  102 +-
+ Yaru++/apps/scalable/image-viewer.svg                           |    2 +-
+ Yaru++/apps/scalable/inkscape.svg                               |   89 +-
+ Yaru++/apps/scalable/internet-chat.svg                          |    2 +-
+ Yaru++/apps/scalable/internet-mail.svg                          |    2 +-
+ Yaru++/apps/scalable/internet-web-browser.svg                   |    2 +-
+ Yaru++/apps/scalable/java10-openjdk.svg                         |    2 +-
+ Yaru++/apps/scalable/java13-openjdk.svg                         |    1 +
+ Yaru++/apps/scalable/javaws.svg                                 |  443 +++++++-
+ Yaru++/apps/scalable/jockey.svg                                 |  582 +++++++++-
+ Yaru++/apps/scalable/krename.svg                                |   48 +-
+ Yaru++/apps/scalable/libreoffice-main.svg                       | 1513 +------------------------
+ Yaru++/apps/scalable/libreoffice-startcenter.svg                | 1513 ++++++++++++++++++++++++-
+ Yaru++/apps/scalable/lightdm-settings.svg                       |  302 +++++
+ Yaru++/apps/scalable/livepatch.svg                              |   72 +-
+ Yaru++/apps/scalable/log-viewer-app.svg                         |   99 +-
+ Yaru++/apps/scalable/logviewer.svg                              |    2 +-
+ Yaru++/apps/scalable/mail-app.svg                               |   61 +-
+ Yaru++/apps/scalable/maps-app.svg                               |   56 +-
+ Yaru++/apps/scalable/marker.svg                                 |  282 +++++
+ Yaru++/apps/scalable/mediaplayer-app.svg                        |   95 +-
+ Yaru++/apps/scalable/meld.svg                                   |   77 +-
+ Yaru++/apps/scalable/messaging-app.svg                          |   65 +-
+ Yaru++/apps/scalable/mintbackup.svg                             |    1 +
+ Yaru++/apps/scalable/mintwelcome.svg                            |  246 +++++
+ Yaru++/apps/scalable/ms.svg                                     |    1 +
+ Yaru++/apps/scalable/multimedia-photo-manager.svg               |   58 +-
+ Yaru++/apps/scalable/multimedia-photo-viewer.svg                |    2 +-
+ Yaru++/apps/scalable/multimedia-video-player.svg                |    2 +-
+ Yaru++/apps/scalable/multisystem-icon.svg                       |  189 +---
+ Yaru++/apps/scalable/music-app.svg                              |  126 ++-
+ Yaru++/apps/scalable/nautilus.svg                               |    2 +-
+ Yaru++/apps/scalable/nm-device-wireless.svg                     |  223 +++-
+ Yaru++/apps/scalable/notes-app.svg                              |   45 +-
+ Yaru++/apps/scalable/ntfs-config.svg                            |    2 +-
+ Yaru++/apps/scalable/nvidia.svg                                 |   66 +-
+ Yaru++/apps/scalable/office-address-book.svg                    |    2 +-
+ Yaru++/apps/scalable/office-addressbook.svg                     |    2 +-
+ Yaru++/apps/scalable/office-calendar.svg                        |    2 +-
+ Yaru++/apps/scalable/openjdk-11.svg                             |    2 +-
+ Yaru++/apps/scalable/openjdk-8.svg                              |    2 +-
+ Yaru++/apps/scalable/openshot.svg                               |   73 +-
+ Yaru++/apps/scalable/org.gnome.ArchiveManager.svg               |    2 +-
+ Yaru++/apps/scalable/org.gnome.Bijiben.svg                      |    2 +-
+ Yaru++/apps/scalable/org.gnome.Books.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Calculator.svg                   |    2 +-
+ Yaru++/apps/scalable/org.gnome.Calendar.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Characters.svg                   |    2 +-
+ Yaru++/apps/scalable/org.gnome.Chess.svg                        |    1 +
+ Yaru++/apps/scalable/org.gnome.ChromeGnomeShell.svg             |    2 +-
+ Yaru++/apps/scalable/org.gnome.Clocks.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.Contacts.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.DejaDup.svg                      |    2 +-
+ Yaru++/apps/scalable/org.gnome.DiskUtility.svg                  |    2 +-
+ Yaru++/apps/scalable/org.gnome.Disks.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Documents.svg                    |    2 +-
+ Yaru++/apps/scalable/org.gnome.Empathy.svg                      |    2 +-
+ Yaru++/apps/scalable/org.gnome.Epiphany.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Evolution.svg                    |    2 +-
+ Yaru++/apps/scalable/org.gnome.Games.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Geary.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Gedit.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Logs.svg                         |    2 +-
+ Yaru++/apps/scalable/org.gnome.Mahjongg.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Maps.svg                         |    2 +-
+ Yaru++/apps/scalable/org.gnome.Music.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Nautilus.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Notes.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Photos.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.Podcasts.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.PowerStats.svg                   |    2 +-
+ Yaru++/apps/scalable/org.gnome.Recipes.svg                      |    1 +
+ Yaru++/apps/scalable/org.gnome.Screenshot.svg                   |    2 +-
+ Yaru++/apps/scalable/org.gnome.Settings.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Software.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.SoundRecorder.svg                |   62 +-
+ Yaru++/apps/scalable/org.gnome.Sudoku.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.SystemMonitor.svg                |    2 +-
+ Yaru++/apps/scalable/org.gnome.Terminal.svg                     |    2 +-
+ Yaru++/apps/scalable/org.gnome.Todo.svg                         |    2 +-
+ Yaru++/apps/scalable/org.gnome.Tweaks.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.Usage.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.Weather.Application.svg          |    2 +-
+ Yaru++/apps/scalable/org.gnome.Weather.svg                      |    2 +-
+ Yaru++/apps/scalable/org.gnome.Yelp.svg                         |    2 +-
+ Yaru++/apps/scalable/org.gnome.baobab.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.bijiben.svg                      |    2 +-
+ Yaru++/apps/scalable/org.gnome.chess.svg                        |    1 +
+ Yaru++/apps/scalable/org.gnome.clocks.svg                       |    2 +-
+ Yaru++/apps/scalable/org.gnome.eog.svg                          |    2 +-
+ Yaru++/apps/scalable/org.gnome.gedit.svg                        |    2 +-
+ Yaru++/apps/scalable/org.gnome.recipes.svg                      |    1 +
+ Yaru++/apps/scalable/org.gnome.seahorse.Application.svg         |    2 +-
+ Yaru++/apps/scalable/org.gnome.tweaks.svg                       |    2 +-
+ Yaru++/apps/scalable/org.musicbrainz.Picard.svg                 |  238 +++-
+ Yaru++/apps/scalable/packages-app.svg                           |  318 +-----
+ Yaru++/apps/scalable/passwords-app.svg                          |  101 +-
+ Yaru++/apps/scalable/pcsxr-icon.svg                             |    2 +-
+ Yaru++/apps/scalable/pdfshuffler.svg                            |  334 +++++-
+ Yaru++/apps/scalable/phonelink.svg                              |    1 +
+ Yaru++/apps/scalable/pinta.svg                                  |  257 ++++-
+ Yaru++/apps/scalable/pix.svg                                    |    1 +
+ Yaru++/apps/scalable/podcasts-app.svg                           |   50 +-
+ Yaru++/apps/scalable/power-statistics.svg                       |   81 +-
+ .../apps/scalable/preferences-desktop-default-applications.svg  |   86 ++
+ Yaru++/apps/scalable/preferences-desktop-display.svg            |  819 +++++++++++++-
+ Yaru++/apps/scalable/preferences-desktop-keyboard.svg           |  130 ++-
+ Yaru++/apps/scalable/preferences-desktop-online-accounts.svg    |    2 +-
+ Yaru++/apps/scalable/preferences-desktop-remote-desktop.svg     | 1593 ++++++++++++++++++++++++++-
+ Yaru++/apps/scalable/preferences-system-notifications.svg       |  271 ++++-
+ Yaru++/apps/scalable/preferences-system-sharing.svg             |  746 ++++++++++++-
+ Yaru++/apps/scalable/preferences-system.svg                     |  290 ++++-
+ Yaru++/apps/scalable/preferences-ubuntu-panel.svg               |  616 ++++++++++-
+ Yaru++/apps/scalable/puddletag.svg                              |   73 +-
+ Yaru++/apps/scalable/python.svg                                 |  128 +++
+ Yaru++/apps/scalable/python2.7.svg                              |    1 +
+ Yaru++/apps/scalable/python3.6.svg                              |    1 +
+ Yaru++/apps/scalable/quadrapassel.svg                           |   97 +-
+ Yaru++/apps/scalable/redshift.svg                               |  465 ++++++++
+ Yaru++/apps/scalable/remmina.svg                                |   80 +-
+ Yaru++/apps/scalable/rhythmbox.svg                              |  369 ++++++-
+ Yaru++/apps/scalable/ricette.svg                                |  740 +++++++++++++
+ Yaru++/apps/scalable/root-terminal-app.svg                      |   54 +-
+ Yaru++/apps/scalable/scacchi.svg                                |  164 +++
+ Yaru++/apps/scalable/scanner.svg                                |   94 +-
+ Yaru++/apps/scalable/screenshot-app.svg                         |   57 +-
+ Yaru++/apps/scalable/seahorse.svg                               |    2 +-
+ Yaru++/apps/scalable/session-properties.svg                     |   87 +-
+ Yaru++/apps/scalable/shotwell.svg                               |   88 +-
+ Yaru++/apps/scalable/simplescreenrecorder.svg                   |  337 +++++-
+ Yaru++/apps/scalable/snap-store.svg                             |  448 +++++++-
+ Yaru++/apps/scalable/software-center.svg                        |    2 +-
+ Yaru++/apps/scalable/software-properties.svg                    |   89 +-
+ Yaru++/apps/scalable/software-store.svg                         |  377 ++++++-
+ Yaru++/apps/scalable/software-updater.svg                       |   79 +-
+ Yaru++/apps/scalable/softwarecenter.svg                         |    2 +-
+ Yaru++/apps/scalable/sound-juicer.svg                           |  269 ++++-
+ Yaru++/apps/scalable/soundconverter.svg                         |  215 +++-
+ Yaru++/apps/scalable/stacer.svg                                 |  107 +-
+ Yaru++/apps/scalable/stock_xfburn.svg                           |    2 +-
+ Yaru++/apps/scalable/sudoku-app.svg                             |  347 +++++-
+ Yaru++/apps/scalable/synaptic.svg                               |    2 +-
+ Yaru++/apps/scalable/system-help.svg                            |    2 +-
+ Yaru++/apps/scalable/system-log-out.svg                         |  212 ++++
+ Yaru++/apps/scalable/system-monitor-app.svg                     |   40 +-
+ Yaru++/apps/scalable/system-settings.svg                        |  289 ++++-
+ Yaru++/apps/scalable/system-software-install.svg                |    2 +-
+ Yaru++/apps/scalable/system-software-update.svg                 |    2 +-
+ Yaru++/apps/scalable/system-users.svg                           |  303 ++++-
+ Yaru++/apps/scalable/teamviewer.svg                             |   86 +-
+ Yaru++/apps/scalable/terminal-app.svg                           |   54 +-
+ Yaru++/apps/scalable/terminal.svg                               |   31 +-
+ Yaru++/apps/scalable/text-editor.svg                            |    2 +-
+ Yaru++/apps/scalable/thunderbird.svg                            |  693 +++++++++++-
+ Yaru++/apps/scalable/timeshift.svg                              |  200 ++++
+ Yaru++/apps/scalable/to-do-app.svg                              |   53 +-
+ Yaru++/apps/scalable/totem.svg                                  |    2 +-
+ Yaru++/apps/scalable/transmission.svg                           |  657 ++++++++++-
+ Yaru++/apps/scalable/tweaks-app.svg                             |   58 +-
+ Yaru++/apps/scalable/ubiquity.svg                               |  621 ++++++++++-
+ Yaru++/apps/scalable/ubuntusoftware.svg                         |    2 +-
+ Yaru++/apps/scalable/update-manager.svg                         |    2 +-
+ Yaru++/apps/scalable/update-notifier.svg                        |    2 +-
+ Yaru++/apps/scalable/usage-app.svg                              |   76 +-
+ Yaru++/apps/scalable/usb-creator-gtk.svg                        |  645 ++++++++++-
+ Yaru++/apps/scalable/utilities-system-monitor.svg               |    2 +-
+ Yaru++/apps/scalable/utilities-terminal.svg                     |    2 +-
+ Yaru++/apps/scalable/virtualbox.svg                             |   22 +-
+ Yaru++/apps/scalable/vlc.svg                                    |  112 +-
+ Yaru++/apps/scalable/weather-app.svg                            |   88 +-
+ Yaru++/apps/scalable/web-browser.svg                            |    2 +-
+ Yaru++/apps/scalable/webbrowser-app.svg                         |  109 +-
+ Yaru++/apps/scalable/winff.svg                                  |   62 +-
+ Yaru++/apps/scalable/x-office-address-book.svg                  |    2 +-
+ Yaru++/apps/scalable/x-office-calendar.svg                      |    2 +-
+ Yaru++/apps/scalable/xine.svg                                   |  640 +++++++++--
+ Yaru++/apps/symbolic/Thunar-symbolic.svg                        |    1 +
+ Yaru++/apps/symbolic/application-x-executable-symbolic.svg      |   39 +-
+ Yaru++/apps/symbolic/ccsm-symbolic.svg                          |   69 ++
+ .../apps/symbolic/com.github.fabiocolacio.marker-symbolic.svg   |    1 +
+ Yaru++/apps/symbolic/com.github.maoschanz.drawing-symbolic.svg  |   66 ++
+ Yaru++/apps/symbolic/compton-symbolic.svg                       |    9 +
+ Yaru++/apps/symbolic/electron6-symbolic.svg                     |    1 +
+ Yaru++/apps/symbolic/emoji-activities-symbolic.svg              |    3 +
+ Yaru++/apps/symbolic/emoji-body-symbolic.svg                    |    3 +
+ Yaru++/apps/symbolic/emoji-flags-symbolic.svg                   |    5 +
+ Yaru++/apps/symbolic/emoji-food-symbolic.svg                    |    4 +
+ Yaru++/apps/symbolic/emoji-nature-symbolic.svg                  |    4 +
+ Yaru++/apps/symbolic/emoji-objects-symbolic.svg                 |    3 +
+ Yaru++/apps/symbolic/emoji-people-symbolic.svg                  |    8 +
+ Yaru++/apps/symbolic/emoji-recent-symbolic.svg                  |    6 +
+ Yaru++/apps/symbolic/emoji-symbols-symbolic.svg                 |   74 ++
+ Yaru++/apps/symbolic/emoji-travel-symbolic.svg                  |    3 +
+ Yaru++/apps/symbolic/gnome-chess-symbolic.svg                   |    1 +
+ Yaru++/apps/symbolic/gnome-recipes-symbolic.svg                 |    1 +
+ Yaru++/apps/symbolic/help-about-symbolic.svg                    |    1 -
+ Yaru++/apps/symbolic/java13-openjdk-symbolic.svg                |    1 +
+ Yaru++/apps/symbolic/lightdm-settings-symbolic.svg              |    5 +
+ Yaru++/apps/symbolic/marker-symbolic.svg                        |   94 ++
+ Yaru++/apps/symbolic/mintbackup-symbolic.svg                    |    1 +
+ Yaru++/apps/symbolic/mintwelcome-symbolic.svg                   |   61 +
+ Yaru++/apps/symbolic/org.gnome.Chess-symbolic.svg               |    1 +
+ Yaru++/apps/symbolic/org.gnome.Recipes-symbolic.svg             |    1 +
+ Yaru++/apps/symbolic/org.gnome.chess-symbolic.svg               |    1 +
+ Yaru++/apps/symbolic/org.gnome.recipes-symbolic.svg             |    1 +
+ Yaru++/apps/symbolic/org.musicbrainz.Picard-symbolic.svg        |   56 +-
+ Yaru++/apps/symbolic/pix-symbolic.svg                           |    1 +
+ Yaru++/apps/symbolic/preferences-desktop-apps-symbolic.svg      |    1 +
+ Yaru++/apps/symbolic/preferences-desktop-display-symbolic.svg   |   39 +-
+ .../symbolic/preferences-desktop-remote-desktop-symbolic.svg    |  113 +-
+ Yaru++/apps/symbolic/python-symbolic.svg                        |    6 +
+ Yaru++/apps/symbolic/python2.7-symbolic.svg                     |    1 +
+ Yaru++/apps/symbolic/python3.6-symbolic.svg                     |    1 +
+ Yaru++/apps/symbolic/redshift-symbolic.svg                      |   10 +
+ Yaru++/apps/symbolic/ricette-symbolic.svg                       |   76 ++
+ Yaru++/apps/symbolic/scacchi-symbolic.svg                       |   55 +
+ Yaru++/apps/symbolic/system-settings-symbolic.svg               |   38 +-
+ Yaru++/apps/symbolic/timeshift-symbolic.svg                     |    5 +
+ Yaru++/devices/16/drive-cdrom.svg                               |    1 +
+ Yaru++/devices/16/drive-harddisk-usb.svg                        |    7 +-
+ Yaru++/devices/16/drive-removable-media.svg                     |    7 +-
+ Yaru++/devices/16/gnome-cd.svg                                  |    1 +
+ Yaru++/devices/16/gnome-dev-cdrom.svg                           |    1 +
+ Yaru++/devices/16/gnome-dev-disc-cdrom.svg                      |    1 +
+ Yaru++/devices/16/gtk-cdrom.svg                                 |    1 +
+ Yaru++/devices/16/media-cdrom.svg                               |    1 +
+ Yaru++/devices/16/media-optical-cd.svg                          |    1 +
+ Yaru++/devices/16/media-removable.svg                           |   71 +-
+ Yaru++/devices/16/phone-old.svg                                 |    3 +
+ Yaru++/devices/16/phone.svg                                     |    2 +-
+ Yaru++/devices/16/smartphone.svg                                |   61 +-
+ Yaru++/devices/32/bluetooth.svg                                 |  236 ----
+ Yaru++/devices/32/drive-cdrom.svg                               |    1 +
+ Yaru++/devices/32/gnome-cd.svg                                  |    1 +
+ Yaru++/devices/32/gnome-dev-cdrom.svg                           |    1 +
+ Yaru++/devices/32/gnome-dev-disc-cdrom.svg                      |    1 +
+ Yaru++/devices/32/gtk-cdrom.svg                                 |    1 +
+ Yaru++/devices/32/input-keyboard.svg                            |   62 +-
+ Yaru++/devices/32/media-cdrom.svg                               |    1 +
+ Yaru++/devices/32/media-optical-cd.svg                          |    1 +
+ Yaru++/devices/32/phone.svg                                     |  189 ++++
+ Yaru++/devices/32/printer.svg                                   |  306 ++---
+ Yaru++/devices/48/drive-cdrom.svg                               |    1 +
+ Yaru++/devices/48/gnome-cd.svg                                  |    1 +
+ Yaru++/devices/48/gnome-dev-cdrom.svg                           |    1 +
+ Yaru++/devices/48/gnome-dev-disc-cdrom.svg                      |    1 +
+ Yaru++/devices/48/gtk-cdrom.svg                                 |    1 +
+ Yaru++/devices/48/input-keyboard.svg                            |   67 +-
+ Yaru++/devices/48/media-cdrom.svg                               |    1 +
+ Yaru++/devices/48/media-optical-cd.svg                          |    1 +
+ Yaru++/devices/48/phone.svg                                     |  246 +++--
+ Yaru++/devices/48/printer.svg                                   |  182 +--
+ Yaru++/devices/scalable/bluetooth.svg                           |   59 -
+ Yaru++/devices/scalable/drive-cdrom.svg                         |    1 +
+ Yaru++/devices/scalable/gnome-cd.svg                            |    1 +
+ Yaru++/devices/scalable/gnome-dev-cdrom.svg                     |    1 +
+ Yaru++/devices/scalable/gnome-dev-disc-cdrom.svg                |    1 +
+ Yaru++/devices/scalable/gtk-cdrom.svg                           |    1 +
+ Yaru++/devices/scalable/input-keyboard.svg                      |  910 +++++++++++++--
+ Yaru++/devices/scalable/media-cdrom.svg                         |    1 +
+ Yaru++/devices/scalable/media-optical-cd.svg                    |    1 +
+ Yaru++/devices/scalable/phone.svg                               |  319 ++++--
+ Yaru++/devices/scalable/printer.svg                             | 1004 +++++++++++------
+ Yaru++/devices/symbolic/ac-adapter-symbolic.svg                 |  136 +++
+ Yaru++/devices/symbolic/auth-fingerprint-symbolic.svg           |   11 +
+ Yaru++/devices/symbolic/auth-sim-symbolic.svg                   |    4 +
+ Yaru++/devices/symbolic/auth-smartcard-symbolic.svg             |    4 +
+ Yaru++/devices/symbolic/camera-web-symbolic.svg                 |    1 +
+ Yaru++/devices/symbolic/colorimeter-colorhug-symbolic.svg       |    7 +
+ Yaru++/devices/symbolic/display-projector-symbolic.svg          |    4 +
+ Yaru++/devices/symbolic/drive-cdrom-symbolic.svg                |    1 +
+ Yaru++/devices/symbolic/drive-removable-media-usb-symbolic.svg  |    1 +
+ Yaru++/devices/symbolic/gnome-cd-symbolic.svg                   |    1 +
+ Yaru++/devices/symbolic/gnome-dev-cdrom-symbolic.svg            |    1 +
+ Yaru++/devices/symbolic/gnome-dev-disc-cdrom-symbolic.svg       |    1 +
+ Yaru++/devices/symbolic/gtk-cdrom-symbolic.svg                  |    1 +
+ Yaru++/devices/symbolic/input-tablet-symbolic.svg               |    7 +-
+ Yaru++/devices/symbolic/media-cdrom-symbolic.svg                |    1 +
+ Yaru++/devices/symbolic/media-optical-cd-symbolic.svg           |    1 +
+ Yaru++/devices/symbolic/media-removable-symbolic.svg            |   71 +-
+ Yaru++/devices/symbolic/modem-symbolic.svg                      |    7 +
+ Yaru++/devices/symbolic/network-cellular-symbolic.svg           |   37 +
+ Yaru++/devices/symbolic/pda-symbolic.svg                        |   69 ++
+ Yaru++/devices/symbolic/phone-old-symbolic.svg                  |    3 +
+ Yaru++/devices/symbolic/phone-symbolic.svg                      |    4 +-
+ Yaru++/devices/symbolic/smartphone-symbolic.svg                 |   61 +-
+ .../devices/symbolic/uninterruptible-power-supply-symbolic.svg  |  140 +++
+ Yaru++/devices/symbolic/video-joined-displays-symbolic.svg      |   79 ++
+ Yaru++/devices/symbolic/video-single-display-symbolic.svg       |   79 ++
+ Yaru++/emotes/16/drink-beer.svg                                 |  113 ++
+ .../32/network-wireless.svg => emotes/16/drink-martini.svg}     |  471 +++-----
+ Yaru++/emotes/16/emote-love.svg                                 |   64 ++
+ Yaru++/emotes/16/face-angel.svg                                 |   79 ++
+ Yaru++/emotes/16/face-angry.svg                                 |   64 ++
+ Yaru++/emotes/16/face-clown.svg                                 |  116 ++
+ Yaru++/emotes/16/face-confused.svg                              |   64 ++
+ Yaru++/emotes/16/face-cool.svg                                  |   69 ++
+ Yaru++/emotes/16/face-crying.svg                                |   72 ++
+ Yaru++/emotes/16/face-devilish.svg                              |   64 ++
+ Yaru++/emotes/16/face-embarrassed.svg                           |   88 ++
+ Yaru++/emotes/16/face-glasses.svg                               |  104 ++
+ Yaru++/emotes/16/face-hat.svg                                   |   78 ++
+ Yaru++/emotes/16/face-heart-broken.svg                          |   64 ++
+ Yaru++/emotes/16/face-heart.svg                                 |   64 ++
+ Yaru++/emotes/16/face-in-love.svg                               |  107 ++
+ Yaru++/emotes/16/face-kiss.svg                                  |   94 ++
+ Yaru++/emotes/16/face-laugh.svg                                 |   64 ++
+ Yaru++/emotes/16/face-laughing.svg                              |   64 ++
+ Yaru++/emotes/16/face-monkey.svg                                |   79 ++
+ Yaru++/emotes/16/face-ninja.svg                                 |   82 ++
+ Yaru++/emotes/16/face-pirate.svg                                |   71 ++
+ Yaru++/emotes/16/face-plain.svg                                 |   65 ++
+ Yaru++/emotes/16/face-quiet.svg                                 |   72 ++
+ Yaru++/emotes/16/face-raspberry-squint.svg                      |   74 ++
+ Yaru++/emotes/16/face-raspberry-wink.svg                        |   74 ++
+ Yaru++/emotes/16/face-raspberry.svg                             |   74 ++
+ Yaru++/emotes/16/face-sad.svg                                   |   64 ++
+ Yaru++/emotes/16/face-shutmouth.svg                             |   64 ++
+ Yaru++/emotes/16/face-sick.svg                                  |   74 ++
+ Yaru++/emotes/16/face-sleeping.svg                              |   80 ++
+ Yaru++/emotes/16/face-smile-big-squint.svg                      |   64 ++
+ Yaru++/emotes/16/face-smile-big.svg                             |   64 ++
+ Yaru++/emotes/16/face-smile-grin.svg                            |   64 ++
+ Yaru++/emotes/16/face-smile.svg                                 |   64 ++
+ Yaru++/emotes/16/face-smirk.svg                                 |   64 ++
+ Yaru++/emotes/16/face-surprise.svg                              |   64 ++
+ Yaru++/emotes/16/face-tired.svg                                 |   64 ++
+ Yaru++/emotes/16/face-uncertain.svg                             |   64 ++
+ Yaru++/emotes/16/face-wink.svg                                  |   64 ++
+ Yaru++/emotes/16/face-worried.svg                               |   64 ++
+ Yaru++/emotes/16/face-yawn.svg                                  |   64 ++
+ Yaru++/emotes/16/food-cake.svg                                  |  122 ++
+ Yaru++/emotes/22                                                |    1 +
+ Yaru++/emotes/symbolic/emote-love-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-angel-symbolic.svg                  |    6 +
+ Yaru++/emotes/symbolic/face-angry-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-confused-symbolic.svg               |    3 +
+ Yaru++/emotes/symbolic/face-cool-symbolic.svg                   |    3 +
+ Yaru++/emotes/symbolic/face-crying-symbolic.svg                 |    3 +
+ Yaru++/emotes/symbolic/face-devilish-symbolic.svg               |    3 +
+ Yaru++/emotes/symbolic/face-embarrassed-symbolic.svg            |    3 +
+ Yaru++/emotes/symbolic/face-glasses-symbolic.svg                |    3 +
+ Yaru++/emotes/symbolic/face-hat-symbolic.svg                    |    6 +
+ Yaru++/emotes/symbolic/face-heart-broken-symbolic.svg           |    3 +
+ Yaru++/emotes/symbolic/face-heart-symbolic.svg                  |    1 +
+ Yaru++/emotes/symbolic/face-kiss-symbolic.svg                   |    6 +
+ Yaru++/emotes/symbolic/face-laugh-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-monkey-symbolic.svg                 |    6 +
+ Yaru++/emotes/symbolic/face-plain-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-raspberry-squint-symbolic.svg       |    3 +
+ Yaru++/emotes/symbolic/face-raspberry-symbolic.svg              |    3 +
+ Yaru++/emotes/symbolic/face-raspberry-wink-symbolic.svg         |    3 +
+ Yaru++/emotes/symbolic/face-sad-symbolic.svg                    |    3 +
+ Yaru++/emotes/symbolic/face-shutmouth-symbolic.svg              |    3 +
+ Yaru++/emotes/symbolic/face-sick-symbolic.svg                   |    3 +
+ Yaru++/emotes/symbolic/face-smile-big-squint-symbolic.svg       |    3 +
+ Yaru++/emotes/symbolic/face-smile-big-symbolic.svg              |    3 +
+ Yaru++/emotes/symbolic/face-smile-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-smirk-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-surprise-symbolic.svg               |    3 +
+ Yaru++/emotes/symbolic/face-tired-symbolic.svg                  |    3 +
+ Yaru++/emotes/symbolic/face-uncertain-symbolic.svg              |    3 +
+ Yaru++/emotes/symbolic/face-wink-symbolic.svg                   |    3 +
+ Yaru++/emotes/symbolic/face-worried-symbolic.svg                |    3 +
+ Yaru++/emotes/symbolic/face-yawn-symbolic.svg                   |    3 +
+ Yaru++/index.theme                                              |   43 +-
+ Yaru++/mimetypes/16/1CD8_rundll32.0.svg                         |    1 +
+ Yaru++/mimetypes/16/1E64_notepad.0.svg                          |   94 ++
+ Yaru++/mimetypes/16/2402_msiexec.0.svg                          |   77 ++
+ Yaru++/mimetypes/16/2EF4_wordpad.0.svg                          |    1 +
+ Yaru++/mimetypes/16/4137_winhlp32.0.svg                         |   63 ++
+ Yaru++/mimetypes/16/7596_iexplore.0.svg                         |    1 +
+ Yaru++/mimetypes/16/7765_winebrowser.0.svg                      |    1 +
+ Yaru++/mimetypes/16/97C1_wordpad.0.svg                          |    1 +
+ Yaru++/mimetypes/16/A35F_hh.0.svg                               |    1 +
+ Yaru++/mimetypes/16/amazon-mp3-store-source.svg                 |    6 +
+ Yaru++/mimetypes/16/application-apk.svg                         |    4 +-
+ Yaru++/mimetypes/16/application-archive-zip.svg                 |    2 +-
+ Yaru++/mimetypes/16/application-certificate.svg                 |  125 +++
+ Yaru++/mimetypes/16/application-eps.svg                         |    4 +-
+ Yaru++/mimetypes/16/application-epub+zip.svg                    |    4 +-
+ Yaru++/mimetypes/16/application-illustrator.svg                 |    4 +-
+ Yaru++/mimetypes/16/application-json.svg                        |   55 +-
+ Yaru++/mimetypes/16/application-msaccess.svg                    |    4 +-
+ Yaru++/mimetypes/16/application-msexcel.svg                     |    8 +-
+ Yaru++/mimetypes/16/application-mspowerpoint.svg                |    8 +-
+ Yaru++/mimetypes/16/application-msword.svg                      |    8 +-
+ Yaru++/mimetypes/16/application-octet-stream.svg                |   34 +-
+ Yaru++/mimetypes/16/application-pdf.svg                         |   30 +-
+ Yaru++/mimetypes/16/application-pgp-keys.svg                    |    4 +-
+ Yaru++/mimetypes/16/application-pgp.svg                         |    4 +-
+ Yaru++/mimetypes/16/application-photoshop.svg                   |    6 +-
+ Yaru++/mimetypes/16/application-rar.svg                         |   38 +-
+ Yaru++/mimetypes/16/application-rtf.svg                         |    2 +-
+ Yaru++/mimetypes/16/application-sql.svg                         |   20 +-
+ Yaru++/mimetypes/16/application-vnd.debian.binary-package.svg   |    2 +-
+ Yaru++/mimetypes/16/application-vnd.flatpak.svg                 |    4 +-
+ Yaru++/mimetypes/16/application-vnd.rar.svg                     |    2 +-
+ Yaru++/mimetypes/16/application-vnd.snap.svg                    |    4 +-
+ Yaru++/mimetypes/16/application-vnd.sun.xml.writer.svg          |    2 +-
+ Yaru++/mimetypes/16/application-vnd.wordperfect.svg             |    2 +-
+ Yaru++/mimetypes/16/application-x-7z-compressed.svg             |  129 ++-
+ Yaru++/mimetypes/16/application-x-archive.svg                   |   40 +-
+ Yaru++/mimetypes/16/application-x-bittorrent.svg                |    8 +-
+ Yaru++/mimetypes/16/application-x-desktop.svg                   |    4 +-
+ Yaru++/mimetypes/16/application-x-executable.svg                |    7 +
+ Yaru++/mimetypes/16/application-x-firmware.svg                  |    1 +
+ Yaru++/mimetypes/16/application-x-flash-video.svg               |    4 +-
+ Yaru++/mimetypes/16/application-x-gcstar.svg                    |    4 +-
+ Yaru++/mimetypes/16/application-x-glabels.svg                   |  149 ++-
+ Yaru++/mimetypes/16/application-x-gzip.svg                      |  134 ++-
+ Yaru++/mimetypes/16/application-x-img.svg                       |   10 +-
+ Yaru++/mimetypes/16/application-x-java-archive.svg              |   38 +-
+ Yaru++/mimetypes/16/application-x-java.svg                      |    6 +-
+ Yaru++/mimetypes/16/application-x-keepassxc.svg                 |  124 ++-
+ Yaru++/mimetypes/16/application-x-mobipocket-ebook.svg          |    6 +-
+ Yaru++/mimetypes/16/application-x-msi.svg                       |    4 +-
+ Yaru++/mimetypes/16/application-x-partial-download.svg          |  219 +++-
+ Yaru++/mimetypes/16/application-x-perl.svg                      |    4 +-
+ Yaru++/mimetypes/16/application-x-php.svg                       |  116 +-
+ Yaru++/mimetypes/16/application-x-rar.svg                       |    2 +-
+ Yaru++/mimetypes/16/application-x-rss_xml.svg                   |    3 +
+ Yaru++/mimetypes/16/application-x-ruby.svg                      |    4 +-
+ Yaru++/mimetypes/16/application-x-theme.svg                     |    4 +-
+ Yaru++/mimetypes/16/application-x-trash.svg                     |   55 +-
+ Yaru++/mimetypes/16/application-x-yaml.svg                      |  157 ++-
+ Yaru++/mimetypes/16/application-x-zip.svg                       |   38 +-
+ Yaru++/mimetypes/16/application-xmind.svg                       |  127 +++
+ Yaru++/mimetypes/16/application-zip.svg                         |    2 +-
+ Yaru++/mimetypes/16/audio-x-generic.svg                         |    6 +-
+ Yaru++/mimetypes/16/audio-x-midi.svg                            |    1 +
+ Yaru++/mimetypes/16/audio-x-scpls.svg                           |   91 +-
+ Yaru++/mimetypes/16/document.svg                                |    4 +-
+ Yaru++/mimetypes/16/empty.svg                                   |   92 +-
+ Yaru++/mimetypes/16/exec.svg                                    |    6 +-
+ Yaru++/mimetypes/16/extension.svg                               |    9 +-
+ Yaru++/mimetypes/16/font-x-generic.svg                          |    6 +-
+ .../mimetypes/16/gnome-mime-application-x-audacity-project.svg  |  135 +++
+ Yaru++/mimetypes/16/gnome-mime-application-x-bittorrent.svg     |    4 +-
+ Yaru++/mimetypes/16/gnome-mime-application-x-gzip.svg           |    2 +-
+ Yaru++/mimetypes/16/gnome-mime-application-x-rar.svg            |    2 +-
+ Yaru++/mimetypes/16/image-svg+xml.svg                           |  144 ++-
+ Yaru++/mimetypes/16/image-x-generic.svg                         |   24 +-
+ Yaru++/mimetypes/16/image-x-xcf.svg                             |    6 +-
+ Yaru++/mimetypes/16/inode-symlink.svg                           |  116 +-
+ Yaru++/mimetypes/16/libreoffice-database.svg                    |  367 +++++-
+ Yaru++/mimetypes/16/libreoffice-drawing.svg                     |  501 ++++++++-
+ Yaru++/mimetypes/16/libreoffice-formula.svg                     |   70 +-
+ Yaru++/mimetypes/16/libreoffice-oasis-database.svg              |   13 +-
+ Yaru++/mimetypes/16/libreoffice-oasis-master-document.svg       |  238 +++-
+ Yaru++/mimetypes/16/libreoffice-oasis-spreadsheet-template.svg  |   22 +-
+ Yaru++/mimetypes/16/libreoffice-oasis-web.svg                   |    4 +-
+ Yaru++/mimetypes/16/libreoffice-presentation.svg                |   18 +-
+ Yaru++/mimetypes/16/libreoffice-text.svg                        |   22 +-
+ Yaru++/mimetypes/16/libreoffice-web.svg                         |  485 +++++++-
+ Yaru++/mimetypes/16/model-x.stl-binary.svg                      |    4 +-
+ Yaru++/mimetypes/16/model.svg                                   |   12 +-
+ Yaru++/mimetypes/16/office-document.svg                         |    2 +-
+ Yaru++/mimetypes/16/office-presentation.svg                     |    4 +-
+ Yaru++/mimetypes/16/office-spreadsheet.svg                      |    6 +-
+ Yaru++/mimetypes/16/package-gdebi.svg                           |  124 ++-
+ Yaru++/mimetypes/16/package.svg                                 |   28 +-
+ Yaru++/mimetypes/16/rar.svg                                     |    2 +-
+ Yaru++/mimetypes/16/shellscript.svg                             |  136 ++-
+ Yaru++/mimetypes/16/source-smart-playlist.svg                   |    3 -
+ Yaru++/mimetypes/16/text-css.svg                                |    8 +-
+ Yaru++/mimetypes/16/text-dockerfile.svg                         |  133 +++
+ Yaru++/mimetypes/16/text-document.svg                           |    2 +-
+ Yaru++/mimetypes/16/text-enriched.svg                           |    2 +-
+ Yaru++/mimetypes/16/text-html.svg                               |   12 +-
+ Yaru++/mimetypes/16/text-less.svg                               |    4 +-
+ Yaru++/mimetypes/16/text-markdown.svg                           |    6 +-
+ Yaru++/mimetypes/16/text-plain.svg                              |    2 +-
+ Yaru++/mimetypes/16/text-richtext.svg                           |  244 +++-
+ Yaru++/mimetypes/16/text-rust.svg                               |   20 +-
+ Yaru++/mimetypes/16/text-x-bibtex.svg                           |  283 ++++-
+ Yaru++/mimetypes/16/text-x-c++.svg                              |    4 +-
+ Yaru++/mimetypes/16/text-x-c.svg                                |    6 +-
+ Yaru++/mimetypes/16/text-x-changelog.svg                        |  265 ++++-
+ Yaru++/mimetypes/16/text-x-chdr.svg                             |    6 +-
+ Yaru++/mimetypes/16/text-x-cmake.svg                            |    4 +-
+ Yaru++/mimetypes/16/text-x-cobol.svg                            |  228 +++-
+ Yaru++/mimetypes/16/text-x-copying.svg                          |    4 +-
+ Yaru++/mimetypes/16/text-x-credits.svg                          |    6 +-
+ Yaru++/mimetypes/16/text-x-csharp.svg                           |   67 +-
+ Yaru++/mimetypes/16/text-x-css.svg                              |    2 +-
+ Yaru++/mimetypes/16/text-x-fortran.svg                          |    4 +-
+ Yaru++/mimetypes/16/text-x-generic-template.svg                 |    6 -
+ Yaru++/mimetypes/16/text-x-generic.svg                          |    2 +-
+ Yaru++/mimetypes/16/text-x-gettext-translation.svg              |  127 +++
+ Yaru++/mimetypes/16/text-x-go.svg                               |   10 +-
+ Yaru++/mimetypes/16/text-x-haskell.svg                          |   16 +-
+ Yaru++/mimetypes/16/text-x-install.svg                          |    6 +-
+ Yaru++/mimetypes/16/text-x-java-source.svg                      |  270 ++++-
+ Yaru++/mimetypes/16/text-x-javascript.svg                       |    4 +-
+ Yaru++/mimetypes/16/text-x-kotlin.svg                           |  127 +++
+ Yaru++/mimetypes/16/text-x-lua.svg                              |   14 +-
+ Yaru++/mimetypes/16/text-x-plain.svg                            |    2 +-
+ Yaru++/mimetypes/16/text-x-python.svg                           |   10 +-
+ Yaru++/mimetypes/16/text-x-r.svg                                |    4 +-
+ Yaru++/mimetypes/16/text-x-readme.svg                           |  232 +++-
+ Yaru++/mimetypes/16/text-x-script.svg                           |  308 +++++-
+ Yaru++/mimetypes/16/text-x-scss.svg                             |    4 +-
+ Yaru++/mimetypes/16/text-x-ssa.svg                              |   10 +-
+ Yaru++/mimetypes/16/text-x-tex.svg                              |    4 +-
+ Yaru++/mimetypes/16/text-x-typescript.svg                       |    4 +-
+ Yaru++/mimetypes/16/text-x-vala.svg                             |    6 +-
+ Yaru++/mimetypes/16/text-xml.svg                                |   58 +-
+ Yaru++/mimetypes/16/text.svg                                    |   90 +-
+ Yaru++/mimetypes/16/unknown.svg                                 |    4 +-
+ Yaru++/mimetypes/16/video-x-generic.svg                         |  303 ++++-
+ Yaru++/mimetypes/16/vnd.ms-publisher.svg                        |    4 +-
+ Yaru++/mimetypes/16/x-office-document.svg                       |  329 +++++-
+ Yaru++/mimetypes/16/x-package-repository.svg                    |  158 ++-
+ Yaru++/mimetypes/16/zip.svg                                     |    2 +-
+ Yaru++/mimetypes/scalable/application-apk.svg                   |   54 +-
+ Yaru++/mimetypes/scalable/application-certificate.svg           |  243 ++++
+ Yaru++/mimetypes/scalable/application-eps.svg                   |   46 +-
+ Yaru++/mimetypes/scalable/application-epub+zip.svg              |   46 +-
+ Yaru++/mimetypes/scalable/application-illustrator.svg           |   54 +-
+ Yaru++/mimetypes/scalable/application-json.svg                  |   58 +-
+ Yaru++/mimetypes/scalable/application-msaccess.svg              |   46 +-
+ Yaru++/mimetypes/scalable/application-msexcel.svg               |   48 +-
+ Yaru++/mimetypes/scalable/application-mspowerpoint.svg          |   48 +-
+ Yaru++/mimetypes/scalable/application-msword.svg                |   48 +-
+ Yaru++/mimetypes/scalable/application-octet-stream.svg          |   92 +-
+ Yaru++/mimetypes/scalable/application-pdf.svg                   |   46 +-
+ Yaru++/mimetypes/scalable/application-pgp-keys.svg              |   64 +-
+ Yaru++/mimetypes/scalable/application-pgp.svg                   |   46 +-
+ Yaru++/mimetypes/scalable/application-photoshop.svg             |   54 +-
+ Yaru++/mimetypes/scalable/application-rar.svg                   |  288 ++++-
+ Yaru++/mimetypes/scalable/application-sql.svg                   |   60 +-
+ Yaru++/mimetypes/scalable/application-vnd.flatpak.svg           |  318 +++++-
+ Yaru++/mimetypes/scalable/application-vnd.snap.svg              |   46 +-
+ Yaru++/mimetypes/scalable/application-x-7z-compressed.svg       |  297 ++++-
+ Yaru++/mimetypes/scalable/application-x-archive.svg             |   48 +-
+ Yaru++/mimetypes/scalable/application-x-bittorrent.svg          |   52 +-
+ Yaru++/mimetypes/scalable/application-x-desktop.svg             |   46 +-
+ Yaru++/mimetypes/scalable/application-x-executable.svg          |   56 +-
+ Yaru++/mimetypes/scalable/application-x-firmware.svg            |  588 ++++++++++
+ Yaru++/mimetypes/scalable/application-x-flash-video.svg         |   46 +-
+ Yaru++/mimetypes/scalable/application-x-gcstar.svg              |   46 +-
+ Yaru++/mimetypes/scalable/application-x-glabels.svg             |   73 +-
+ Yaru++/mimetypes/scalable/application-x-gzip.svg                |  262 ++++-
+ Yaru++/mimetypes/scalable/application-x-img.svg                 |  268 ++++-
+ Yaru++/mimetypes/scalable/application-x-java-archive.svg        |  323 +++++-
+ Yaru++/mimetypes/scalable/application-x-java.svg                |   46 +-
+ Yaru++/mimetypes/scalable/application-x-keepassxc.svg           |   46 +-
+ Yaru++/mimetypes/scalable/application-x-mobipocket-ebook.svg    |   50 +-
+ Yaru++/mimetypes/scalable/application-x-msi.svg                 |   46 +-
+ Yaru++/mimetypes/scalable/application-x-partial-download.svg    |  375 ++++++-
+ Yaru++/mimetypes/scalable/application-x-perl.svg                |   62 +-
+ Yaru++/mimetypes/scalable/application-x-php.svg                 |   46 +-
+ Yaru++/mimetypes/scalable/application-x-rss_xml.svg             |  154 +++
+ Yaru++/mimetypes/scalable/application-x-ruby.svg                |   46 +-
+ Yaru++/mimetypes/scalable/application-x-theme.svg               |   52 +-
+ Yaru++/mimetypes/scalable/application-x-trash.svg               |   52 +-
+ Yaru++/mimetypes/scalable/application-x-yaml.svg                |   72 +-
+ Yaru++/mimetypes/scalable/application-x-zip.svg                 |  274 ++++-
+ Yaru++/mimetypes/scalable/application-xmind.svg                 |  249 +++++
+ Yaru++/mimetypes/scalable/audio-x-flac.svg                      |   64 +-
+ Yaru++/mimetypes/scalable/audio-x-generic.svg                   |   54 +-
+ Yaru++/mimetypes/scalable/audio-x-midi.svg                      |  288 +++++
+ Yaru++/mimetypes/scalable/audio-x-mpeg.svg                      |   62 +-
+ Yaru++/mimetypes/scalable/audio-x-ms-wma.svg                    |   62 +-
+ Yaru++/mimetypes/scalable/audio-x-scpls.svg                     |   72 +-
+ Yaru++/mimetypes/scalable/audio-x-vorbis+ogg.svg                |   62 +-
+ Yaru++/mimetypes/scalable/audio-x-wav.svg                       |   62 +-
+ Yaru++/mimetypes/scalable/empty.svg                             |   44 +-
+ Yaru++/mimetypes/scalable/exec.svg                              |  286 ++++-
+ Yaru++/mimetypes/scalable/extension.svg                         |   46 +-
+ Yaru++/mimetypes/scalable/font-x-generic.svg                    |   70 +-
+ .../scalable/gnome-mime-application-x-audacity-project.svg      |   50 +-
+ .../mimetypes/scalable/gnome-mime-application-x-bittorrent.svg  |   52 +-
+ Yaru++/mimetypes/scalable/image-svg+xml.svg                     |   64 +-
+ Yaru++/mimetypes/scalable/image-x-generic.svg                   |   48 +-
+ Yaru++/mimetypes/scalable/image-x-xcf.svg                       |   74 +-
+ Yaru++/mimetypes/scalable/inode-symlink.svg                     |  248 ++++-
+ Yaru++/mimetypes/scalable/libreoffice-database.svg              |  158 +--
+ Yaru++/mimetypes/scalable/libreoffice-drawing.svg               |  244 ++--
+ Yaru++/mimetypes/scalable/libreoffice-formula.svg               |  242 ++--
+ Yaru++/mimetypes/scalable/libreoffice-oasis-database.svg        |  158 +--
+ Yaru++/mimetypes/scalable/libreoffice-oasis-master-document.svg |  275 +++--
+ .../scalable/libreoffice-oasis-spreadsheet-template.svg         | 1401 +++++++++++++++++++----
+ Yaru++/mimetypes/scalable/libreoffice-oasis-web.svg             |  195 ++--
+ Yaru++/mimetypes/scalable/libreoffice-presentation.svg          |  338 +++---
+ Yaru++/mimetypes/scalable/libreoffice-text.svg                  |  267 ++---
+ Yaru++/mimetypes/scalable/libreoffice-web.svg                   |  195 ++--
+ Yaru++/mimetypes/scalable/model-x.stl-binary.svg                |   46 +-
+ Yaru++/mimetypes/scalable/model.svg                             |   52 +-
+ Yaru++/mimetypes/scalable/office-presentation.svg               |   50 +-
+ Yaru++/mimetypes/scalable/office-spreadsheet.svg                |   64 +-
+ Yaru++/mimetypes/scalable/package-gdebi.svg                     |   80 +-
+ Yaru++/mimetypes/scalable/package.svg                           |   56 +-
+ Yaru++/mimetypes/scalable/shellscript.svg                       |  286 ++++-
+ Yaru++/mimetypes/scalable/text-css.svg                          |   48 +-
+ Yaru++/mimetypes/scalable/text-dockerfile.svg                   |  250 +++++
+ Yaru++/mimetypes/scalable/text-html.svg                         |   52 +-
+ Yaru++/mimetypes/scalable/text-less.svg                         |   46 +-
+ Yaru++/mimetypes/scalable/text-markdown.svg                     |   50 +-
+ Yaru++/mimetypes/scalable/text-richtext.svg                     |   56 +-
+ Yaru++/mimetypes/scalable/text-rust.svg                         |   46 +-
+ Yaru++/mimetypes/scalable/text-x-bibtex.svg                     |   76 +-
+ Yaru++/mimetypes/scalable/text-x-c++.svg                        |   46 +-
+ Yaru++/mimetypes/scalable/text-x-c.svg                          |   46 +-
+ Yaru++/mimetypes/scalable/text-x-changelog.svg                  |   60 +-
+ Yaru++/mimetypes/scalable/text-x-chdr.svg                       |   46 +-
+ Yaru++/mimetypes/scalable/text-x-cmake.svg                      |   46 +-
+ Yaru++/mimetypes/scalable/text-x-cobol.svg                      |   64 +-
+ Yaru++/mimetypes/scalable/text-x-copying.svg                    |   46 +-
+ Yaru++/mimetypes/scalable/text-x-credits.svg                    |   46 +-
+ Yaru++/mimetypes/scalable/text-x-csharp.svg                     |   46 +-
+ Yaru++/mimetypes/scalable/text-x-fortran.svg                    |   46 +-
+ Yaru++/mimetypes/scalable/text-x-gettext-translation.svg        |  279 +++++
+ Yaru++/mimetypes/scalable/text-x-go.svg                         |   50 +-
+ Yaru++/mimetypes/scalable/text-x-haskell.svg                    |   56 +-
+ Yaru++/mimetypes/scalable/text-x-install.svg                    |   46 +-
+ Yaru++/mimetypes/scalable/text-x-java-source.svg                |   46 +-
+ Yaru++/mimetypes/scalable/text-x-javascript.svg                 |   46 +-
+ Yaru++/mimetypes/scalable/text-x-kotlin.svg                     |  228 ++++
+ Yaru++/mimetypes/scalable/text-x-lua.svg                        |   54 +-
+ Yaru++/mimetypes/scalable/text-x-python.svg                     |   50 +-
+ Yaru++/mimetypes/scalable/text-x-r.svg                          |   46 +-
+ Yaru++/mimetypes/scalable/text-x-readme.svg                     |   52 +-
+ Yaru++/mimetypes/scalable/text-x-scss.svg                       |   46 +-
+ Yaru++/mimetypes/scalable/text-x-ssa.svg                        |   52 +-
+ Yaru++/mimetypes/scalable/text-x-tex.svg                        |   46 +-
+ Yaru++/mimetypes/scalable/text-x-theme.svg                      |   60 +-
+ Yaru++/mimetypes/scalable/text-x-typescript.svg                 |   46 +-
+ Yaru++/mimetypes/scalable/text-x-vala.svg                       |   46 +-
+ Yaru++/mimetypes/scalable/text-xml.svg                          |   52 +-
+ Yaru++/mimetypes/scalable/text.svg                              |   62 +-
+ Yaru++/mimetypes/scalable/unknown.svg                           |   46 +-
+ Yaru++/mimetypes/scalable/video-x-generic.svg                   |   48 +-
+ Yaru++/mimetypes/scalable/vnd.ms-publisher.svg                  |   46 +-
+ Yaru++/mimetypes/scalable/x-office-document.svg                 |   48 +-
+ Yaru++/mimetypes/scalable/x-package-repository.svg              |   60 +-
+ Yaru++/mimetypes/symbolic/Last.fm-symbolic.svg                  |    3 +
+ Yaru++/mimetypes/symbolic/application-certificate-symbolic.svg  |    8 +
+ Yaru++/mimetypes/symbolic/application-rss+xml-symbolic.svg      |    3 +
+ Yaru++/mimetypes/symbolic/application-x-addon-symbolic.svg      |   37 +-
+ Yaru++/mimetypes/symbolic/application-x-appliance-symbolic.svg  |   74 +-
+ Yaru++/mimetypes/symbolic/application-x-executable-symbolic.svg |   61 +
+ Yaru++/mimetypes/symbolic/application-x-firmware-symbolic.svg   |  142 +++
+ Yaru++/mimetypes/symbolic/application-x-trash-symbolic.svg      |    4 +-
+ Yaru++/mimetypes/symbolic/audio-x-generic-symbolic.svg          |    2 +-
+ Yaru++/mimetypes/symbolic/font-x-generic-symbolic.svg           |    5 +
+ Yaru++/mimetypes/symbolic/image-x-generic-symbolic.svg          |   10 +-
+ Yaru++/mimetypes/symbolic/package-x-generic-symbolic.svg        |  117 ++
+ Yaru++/mimetypes/symbolic/text-x-generic-symbolic.svg           |    2 +-
+ Yaru++/mimetypes/symbolic/video-x-generic-symbolic.svg          |    7 +-
+ Yaru++/mimetypes/symbolic/x-office-address-book-symbolic.svg    |  133 +++
+ Yaru++/mimetypes/symbolic/x-office-document-symbolic.svg        |   89 ++
+ Yaru++/mimetypes/symbolic/x-office-drawing-symbolic.svg         |   98 ++
+ Yaru++/mimetypes/symbolic/x-office-presentation-symbolic.svg    |   57 +
+ Yaru++/mimetypes/symbolic/x-office-spreadsheet-symbolic.svg     |  102 ++
+ Yaru++/places/scalable/network-server.svg                       | 1300 ++++++++++++++++++++--
+ Yaru++/status/16/airplane-mode-disabled.svg                     |   13 +-
+ Yaru++/status/16/airplane-mode.svg                              |    9 +-
+ Yaru++/status/16/alarm.svg                                      |   12 +-
+ Yaru++/status/16/appointment-missed.svg                         |    4 +-
+ Yaru++/status/16/appointment-soon.svg                           |    4 +-
+ Yaru++/status/16/audio-input-microphone-high-panel.svg          |   20 +-
+ Yaru++/status/16/audio-input-microphone-high.svg                |   10 +-
+ Yaru++/status/16/audio-input-microphone-low-zero-panel.svg      |    6 +-
+ Yaru++/status/16/audio-input-microphone-low.svg                 |   10 +-
+ Yaru++/status/16/audio-input-microphone-medium.svg              |   10 +-
+ Yaru++/status/16/audio-input-microphone-muted.svg               |    2 +-
+ Yaru++/status/16/audio-volume-high.svg                          |   10 +-
+ Yaru++/status/16/audio-volume-low.svg                           |   10 +-
+ Yaru++/status/16/audio-volume-medium.svg                        |   10 +-
+ Yaru++/status/16/audio-volume-overamplified.svg                 |   45 +-
+ Yaru++/status/16/avatar-default.svg                             |    4 +-
+ Yaru++/status/16/battery-caution-charging.svg                   |   10 +-
+ Yaru++/status/16/battery-caution.svg                            |    4 +-
+ Yaru++/status/16/battery-empty-charging.svg                     |   10 +-
+ Yaru++/status/16/battery-empty.svg                              |    2 +-
+ Yaru++/status/16/battery-full-charged.svg                       |   10 +-
+ Yaru++/status/16/battery-full-charging.svg                      |   10 +-
+ Yaru++/status/16/battery-full.svg                               |    8 +-
+ Yaru++/status/16/battery-good-charging.svg                      |   10 +-
+ Yaru++/status/16/battery-good.svg                               |    8 +-
+ Yaru++/status/16/battery-level-0-charging.svg                   |   40 +-
+ Yaru++/status/16/battery-level-0.svg                            |   36 +-
+ Yaru++/status/16/battery-level-10-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-10.svg                           |   38 +-
+ Yaru++/status/16/battery-level-100-charged.svg                  |   40 +-
+ Yaru++/status/16/battery-level-100-charging.svg                 |   40 +-
+ Yaru++/status/16/battery-level-100.svg                          |   38 +-
+ Yaru++/status/16/battery-level-20-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-20.svg                           |   38 +-
+ Yaru++/status/16/battery-level-30-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-30.svg                           |   38 +-
+ Yaru++/status/16/battery-level-40-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-40.svg                           |   38 +-
+ Yaru++/status/16/battery-level-50-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-50.svg                           |   38 +-
+ Yaru++/status/16/battery-level-60-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-60.svg                           |   38 +-
+ Yaru++/status/16/battery-level-70-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-70.svg                           |   38 +-
+ Yaru++/status/16/battery-level-80-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-80.svg                           |   38 +-
+ Yaru++/status/16/battery-level-90-charging.svg                  |   40 +-
+ Yaru++/status/16/battery-level-90.svg                           |   38 +-
+ Yaru++/status/16/battery-low-charging.svg                       |   10 +-
+ Yaru++/status/16/battery-low.svg                                |    4 +-
+ Yaru++/status/16/battery-missing.svg                            |    8 +-
+ Yaru++/status/16/bluetooth-active.svg                           |    2 +-
+ Yaru++/status/16/bluetooth-disabled.svg                         |    2 +-
+ Yaru++/status/16/bookmark-missing.svg                           |    9 +-
+ Yaru++/status/16/call-missed.svg                                |    2 +-
+ Yaru++/status/16/changes-allow.svg                              |    2 +-
+ Yaru++/status/16/changes-prevent.svg                            |    2 +-
+ Yaru++/status/16/channel-insecure.svg                           |    4 +-
+ Yaru++/status/16/channel-secure.svg                             |    2 +-
+ Yaru++/status/16/checkbox-checked.svg                           |   10 +-
+ Yaru++/status/16/checkbox-mixed.svg                             |   10 +-
+ Yaru++/status/16/checkbox.svg                                   |    6 +-
+ Yaru++/status/16/dialog-information.svg                         |   62 +-
+ Yaru++/status/16/dialog-password.svg                            |    2 +-
+ Yaru++/status/16/dialog-question.svg                            |    8 +-
+ Yaru++/status/16/dialog-warning.svg                             |    2 +-
+ Yaru++/status/16/display-brightness.svg                         |    4 +-
+ Yaru++/status/16/display.svg                                    |   18 +-
+ Yaru++/status/16/folder-drag-accept.svg                         |    2 +-
+ Yaru++/status/16/folder-open.svg                                |    2 +-
+ Yaru++/status/16/folder-visiting.svg                            |    2 +-
+ Yaru++/status/16/gnome-dev-wavelan-encrypted.svg                |    6 +-
+ Yaru++/status/16/gtk-dialog-info.svg                            |    1 -
+ Yaru++/status/16/gtk-dialog-warning.svg                         |    4 +-
+ Yaru++/status/16/gtk-image-missing.svg                          |    7 +-
+ Yaru++/status/16/image-loading.svg                              |   10 +-
+ Yaru++/status/16/image-missing.svg                              |  121 +-
+ Yaru++/status/16/important.svg                                  |    6 +-
+ Yaru++/status/16/info.svg                                       |    1 -
+ Yaru++/status/16/kazam-all-screens-symbolic.svg                 |    7 -
+ Yaru++/status/16/kazam-area-symbolic.svg                        |    7 -
+ Yaru++/status/16/kazam-fullscreen-symbolic.svg                  |   12 -
+ Yaru++/status/16/kazam-screencast-symbolic.svg                  |    3 -
+ Yaru++/status/16/kazam-screenshot-symbolic.svg                  |    3 -
+ Yaru++/status/16/kazam-window-symbolic.svg                      |    6 -
+ Yaru++/status/16/mail-attachment.svg                            |    2 +-
+ Yaru++/status/16/mail-important.svg                             |    4 +-
+ Yaru++/status/16/mail-read.svg                                  |    2 +-
+ Yaru++/status/16/mail-replied.svg                               |    8 +-
+ Yaru++/status/16/mail-unread.svg                                |    2 +-
+ Yaru++/status/16/media-playlist-consecutive-rtl.svg             |    2 +-
+ Yaru++/status/16/media-playlist-consecutive-symbolic-rtl.svg    |    6 +-
+ Yaru++/status/16/media-playlist-consecutive.svg                 |    2 +-
+ Yaru++/status/16/media-playlist-no-repeat-rtl.svg               |    2 +-
+ Yaru++/status/16/media-playlist-no-repeat.svg                   |    2 +-
+ Yaru++/status/16/media-playlist-no-shuffle.svg                  |    2 +-
+ Yaru++/status/16/media-playlist-repeat-one.svg                  |   10 +-
+ Yaru++/status/16/media-playlist-repeat-rtl.svg                  |    8 +-
+ Yaru++/status/16/media-playlist-repeat-song-rtl.svg             |    8 +-
+ Yaru++/status/16/media-playlist-repeat-song-symbolic-rtl.svg    |   18 +-
+ Yaru++/status/16/media-playlist-repeat-song.svg                 |   10 +-
+ Yaru++/status/16/media-playlist-repeat-symbolic-rtl.svg         |   18 +-
+ Yaru++/status/16/media-playlist-repeat.svg                      |    8 +-
+ Yaru++/status/16/media-playlist-shuffle-rtl.svg                 |    2 +-
+ Yaru++/status/16/media-playlist-shuffle-symbolic-rtl.svg        |   14 +-
+ Yaru++/status/16/media-playlist-shuffle.svg                     |    2 +-
+ Yaru++/status/16/media-repeat-single.svg                        |   20 +-
+ Yaru++/status/16/messagebox_info.svg                            |    1 -
+ Yaru++/status/16/messagebox_warning.svg                         |    6 +-
+ Yaru++/status/16/microphone-sensitivity-high.svg                |   10 +-
+ Yaru++/status/16/microphone-sensitivity-low.svg                 |   10 +-
+ Yaru++/status/16/microphone-sensitivity-medium.svg              |   10 +-
+ Yaru++/status/16/microphone-sensitivity-muted.svg               |    2 +-
+ Yaru++/status/16/network-acquiring.svg                          |   10 +-
+ Yaru++/status/16/network-cellular-3g.svg                        |    2 +-
+ Yaru++/status/16/network-cellular-4g.svg                        |    2 +-
+ Yaru++/status/16/network-cellular-acquiring.svg                 |    8 +-
+ Yaru++/status/16/network-cellular-connected.svg                 |    4 +-
+ Yaru++/status/16/network-cellular-disconnected.svg              |   10 +-
+ Yaru++/status/16/network-cellular-edge.svg                      |    2 +-
+ Yaru++/status/16/network-cellular-error.svg                     |   10 +-
+ Yaru++/status/16/network-cellular-gprs.svg                      |    2 +-
+ Yaru++/status/16/network-cellular-hspa.svg                      |    2 +-
+ Yaru++/status/16/network-cellular-no-route.svg                  |    8 +-
+ Yaru++/status/16/network-cellular-offline.svg                   |    2 +-
+ Yaru++/status/16/network-cellular-signal-excellent-secure.svg   |    2 +-
+ Yaru++/status/16/network-cellular-signal-excellent.svg          |    2 +-
+ Yaru++/status/16/network-cellular-signal-good-secure.svg        |    2 +-
+ Yaru++/status/16/network-cellular-signal-good.svg               |    8 +-
+ Yaru++/status/16/network-cellular-signal-none-secure.svg        |    2 +-
+ Yaru++/status/16/network-cellular-signal-none.svg               |    2 +-
+ Yaru++/status/16/network-cellular-signal-ok-secure.svg          |    2 +-
+ Yaru++/status/16/network-cellular-signal-ok.svg                 |    8 +-
+ Yaru++/status/16/network-cellular-signal-weak-secure.svg        |    2 +-
+ Yaru++/status/16/network-cellular-signal-weak.svg               |    8 +-
+ Yaru++/status/16/network-disconnected.svg                       |   12 +-
+ Yaru++/status/16/network-error.svg                              |    4 +-
+ Yaru++/status/16/network-offline.svg                            |    2 +-
+ Yaru++/status/16/network-vpn-acquiring.svg                      |    8 +-
+ Yaru++/status/16/network-vpn-disconnected.svg                   |   10 +-
+ Yaru++/status/16/network-vpn-error.svg                          |   10 +-
+ Yaru++/status/16/network-vpn.svg                                |    2 +-
+ Yaru++/status/16/network-wired-acquiring.svg                    |    8 +-
+ Yaru++/status/16/network-wired-disconnected.svg                 |   10 +-
+ Yaru++/status/16/network-wired-no-route.svg                     |    8 +-
+ Yaru++/status/16/network-wired-offline.svg                      |    2 +-
+ Yaru++/status/16/network-wired.svg                              |   14 +-
+ Yaru++/status/16/network-wireless-acquiring.svg                 |   11 +-
+ Yaru++/status/16/network-wireless-connected.svg                 |    7 +-
+ Yaru++/status/16/network-wireless-disconnected.svg              |   10 +-
+ Yaru++/status/16/network-wireless-encrypted.svg                 |    7 +-
+ Yaru++/status/16/network-wireless-error.svg                     |   10 +-
+ Yaru++/status/16/network-wireless-hotspot.svg                   |   13 +-
+ Yaru++/status/16/network-wireless-no-route.svg                  |   11 +-
+ Yaru++/status/16/network-wireless-offline.svg                   |    7 +-
+ Yaru++/status/16/network-wireless-signal-excellent-secure.svg   |    7 +-
+ Yaru++/status/16/network-wireless-signal-excellent.svg          |    7 +-
+ Yaru++/status/16/network-wireless-signal-good-secure.svg        |    7 +-
+ Yaru++/status/16/network-wireless-signal-good.svg               |   11 +-
+ Yaru++/status/16/network-wireless-signal-none-secure.svg        |    7 +-
+ Yaru++/status/16/network-wireless-signal-none.svg               |    7 +-
+ Yaru++/status/16/network-wireless-signal-ok-secure.svg          |    7 +-
+ Yaru++/status/16/network-wireless-signal-ok.svg                 |   11 +-
+ Yaru++/status/16/network-wireless-signal-weak-secure.svg        |    7 +-
+ Yaru++/status/16/network-wireless-signal-weak.svg               |   11 +-
+ Yaru++/status/16/nm-signal-0.svg                                |    4 +-
+ Yaru++/status/16/nm-signal-00-secure.svg                        |   14 +-
+ Yaru++/status/16/nm-signal-00.svg                               |   14 +-
+ Yaru++/status/16/nm-signal-100-secure.svg                       |   14 +-
+ Yaru++/status/16/nm-signal-100.svg                              |   14 +-
+ Yaru++/status/16/nm-signal-25-secure.svg                        |   14 +-
+ Yaru++/status/16/nm-signal-25.svg                               |   18 +-
+ Yaru++/status/16/nm-signal-50-secure.svg                        |   14 +-
+ Yaru++/status/16/nm-signal-50.svg                               |   18 +-
+ Yaru++/status/16/nm-signal-75-secure.svg                        |   14 +-
+ Yaru++/status/16/nm-signal-75.svg                               |   18 +-
+ Yaru++/status/16/non-starred.svg                                |    2 +-
+ Yaru++/status/16/notification-disabled.svg                      |   13 +-
+ Yaru++/status/16/notification-new.svg                           |   10 +-
+ Yaru++/status/16/notification.svg                               |    9 +-
+ Yaru++/status/16/printer-error.svg                              |    4 +-
+ Yaru++/status/16/printer-printing.svg                           |    2 +-
+ Yaru++/status/16/printer-warning.svg                            |    4 +-
+ Yaru++/status/16/process-completed.svg                          |    9 +-
+ Yaru++/status/16/process-error.svg                              |    9 +-
+ Yaru++/status/16/process-working.svg                            |    7 +-
+ Yaru++/status/16/radio-checked.svg                              |   10 +-
+ Yaru++/status/16/radio-mixed.svg                                |    6 +-
+ Yaru++/status/16/radio.svg                                      |    6 +-
+ Yaru++/status/16/repository.svg                                 |    6 +-
+ Yaru++/status/16/security-high.svg                              |    2 +-
+ Yaru++/status/16/security-low.svg                               |    2 +-
+ Yaru++/status/16/security-medium.svg                            |    2 +-
+ Yaru++/status/16/semi-starred-rtl.svg                           |    2 +-
+ Yaru++/status/16/semi-starred.svg                               |    2 +-
+ Yaru++/status/16/sms-send.svg                                   |   14 +-
+ Yaru++/status/16/sms-symbolic.svg                               |   10 +-
+ Yaru++/status/16/software-update-available.svg                  |    2 +-
+ Yaru++/status/16/software-update-urgent.svg                     |    2 +-
+ Yaru++/status/16/starred.svg                                    |    2 +-
+ Yaru++/status/16/status_lock.svg                                |   18 +-
+ Yaru++/status/16/stock_bookmark.svg                             |    4 +-
+ Yaru++/status/16/stock_dialog-info.svg                          |    1 -
+ Yaru++/status/16/stock_dialog-warning.svg                       |    6 +-
+ Yaru++/status/16/stock_lock.svg                                 |    6 +-
+ Yaru++/status/16/stock_repeat.svg                               |   18 +-
+ Yaru++/status/16/task-due.svg                                   |    4 +-
+ Yaru++/status/16/task-past-due.svg                              |    4 +-
+ Yaru++/status/16/thunderbolt-acquiring.svg                      |   12 +-
+ Yaru++/status/16/touchpad-disabled.svg                          |    8 +-
+ Yaru++/status/16/user-available.svg                             |   40 +-
+ Yaru++/status/16/user-away.svg                                  |   36 +-
+ Yaru++/status/16/user-busy.svg                                  |   36 +-
+ Yaru++/status/16/user-idle.svg                                  |   40 +-
+ Yaru++/status/16/user-invisible.svg                             |   36 +-
+ Yaru++/status/16/user-not-tracked.svg                           |    2 +-
+ Yaru++/status/16/user-offline.svg                               |   36 +-
+ Yaru++/status/16/user-status-pending.svg                        |   38 +-
+ Yaru++/status/16/user-trash-full.svg                            |    8 +-
+ Yaru++/status/16/view-private.svg                               |    2 +-
+ Yaru++/status/16/view-wrapped-rtl.svg                           |    8 +-
+ Yaru++/status/16/view-wrapped.svg                               |    8 +-
+ Yaru++/status/16/volume-warning.svg                             |   37 +
+ Yaru++/status/16/weather-clear-night.svg                        |    2 +-
+ Yaru++/status/16/weather-cloudy.svg                             |    2 +-
+ Yaru++/status/16/weather-few-clouds-night.svg                   |    2 +-
+ Yaru++/status/16/weather-few-clouds.svg                         |   37 +-
+ Yaru++/status/16/weather-fog.svg                                |    2 +-
+ Yaru++/status/16/weather-overcast.svg                           |    8 +-
+ Yaru++/status/16/weather-severe-alert.svg                       |    4 +-
+ Yaru++/status/16/weather-showers-scattered.svg                  |    5 +-
+ Yaru++/status/16/weather-showers.svg                            |    5 +-
+ Yaru++/status/16/weather-snow.svg                               |    8 +-
+ Yaru++/status/16/weather-storm.svg                              |    8 +-
+ Yaru++/status/16/weather-windy.svg                              |    2 +-
+ Yaru++/status/16/xfce4-mixer-record.svg                         |   20 +-
+ Yaru++/status/24/appointment-soon.svg                           |    4 -
+ Yaru++/status/24/audacious-panel.svg                            |    9 +-
+ Yaru++/status/24/banshee-panel.svg                              |    9 +-
+ Yaru++/status/24/caffeine-cup-empty.svg                         |   14 +-
+ Yaru++/status/24/caffeine-cup-full.svg                          |    6 +-
+ Yaru++/status/24/dialog-error.svg                               |   87 +-
+ Yaru++/status/24/dialog-information.svg                         |   60 +
+ Yaru++/status/24/dialog-warning.svg                             |  113 ++
+ Yaru++/status/24/dropboxstatus-blank.svg                        |    8 +-
+ Yaru++/status/24/dropboxstatus-busy.svg                         |   62 +-
+ Yaru++/status/24/dropboxstatus-busy2.svg                        |   62 +-
+ Yaru++/status/24/dropboxstatus-idle.svg                         |   63 +-
+ Yaru++/status/24/dropboxstatus-logo.svg                         |   62 +-
+ Yaru++/status/24/dropboxstatus-x.svg                            |   62 +-
+ Yaru++/status/24/everpad-mono.svg                               |   13 +-
+ Yaru++/status/24/fluxgui-light.svg                              |   15 +-
+ Yaru++/status/24/glippy-panel.svg                               |    6 +-
+ Yaru++/status/24/google-chrome-panel.svg                        |    6 +-
+ Yaru++/status/24/google-hangouts-panel.svg                      |    6 +-
+ Yaru++/status/24/grive-app-ind.svg                              |    6 +-
+ Yaru++/status/24/gtk-dialog-warning.svg                         |    1 +
+ Yaru++/status/24/image-loading.svg                              |  226 +++-
+ Yaru++/status/24/image-missing.svg                              |   22 -
+ Yaru++/status/24/indicator-virtual-box.svg                      |    6 +-
+ Yaru++/status/24/insync-action.svg                              |  139 ++-
+ Yaru++/status/24/insync-error.svg                               |  137 ++-
+ Yaru++/status/24/insync-feed.svg                                |  139 ++-
+ Yaru++/status/24/insync-normal.svg                              |   25 +-
+ Yaru++/status/24/insync-offline.svg                             |   25 +-
+ Yaru++/status/24/insync-paused.svg                              |  139 ++-
+ Yaru++/status/24/insync-share.svg                               |  168 ++-
+ Yaru++/status/24/insync-synced.svg                              |  134 ++-
+ Yaru++/status/24/insync-syncing.svg                             |  169 ++-
+ Yaru++/status/24/livewallpaper-indicator.svg                    |   12 +-
+ Yaru++/status/24/megalogging.svg                                |    9 +-
+ Yaru++/status/24/megapaused.svg                                 |   15 +-
+ Yaru++/status/24/megasynching.svg                               |   13 +-
+ Yaru++/status/24/megauptodate.svg                               |    9 +-
+ Yaru++/status/24/megawarning.svg                                |   13 +-
+ Yaru++/status/24/network-idle.svg                               |   10 +-
+ Yaru++/status/24/network-wired-acquiring.svg                    |   20 +-
+ Yaru++/status/24/network-wired-disconnected.svg                 |   10 +-
+ Yaru++/status/24/network-wired-no-route.svg                     |   14 +-
+ Yaru++/status/24/network-wired-offline.svg                      |   10 +-
+ Yaru++/status/24/network-wired.svg                              |   14 +-
+ Yaru++/status/24/notes.svg                                      |    6 +-
+ Yaru++/status/24/notification-disabled-symbolic.svg             |   18 +-
+ Yaru++/status/24/notification-symbolic.svg                      |   12 +-
+ Yaru++/status/24/onboard.svg                                    |    6 +-
+ Yaru++/status/24/prime-nvidia.svg                               |    9 +-
+ Yaru++/status/24/redshift-status-off.svg                        |    6 +-
+ Yaru++/status/24/redshift-status-on.svg                         |    6 +-
+ Yaru++/status/24/remmina-panel.svg                              |   71 +-
+ Yaru++/status/24/rhythmbox-panel.svg                            |    9 +-
+ Yaru++/status/24/security-medium.svg                            |    3 -
+ Yaru++/status/24/shutter-panel.svg                              |    6 +-
+ Yaru++/status/24/si-idle.svg                                    |   11 +-
+ Yaru++/status/24/simplescreenrecorder-error.svg                 |   17 +-
+ Yaru++/status/24/simplescreenrecorder-panel.svg                 |   15 +-
+ Yaru++/status/24/simplescreenrecorder-paused.svg                |   17 +-
+ Yaru++/status/24/simplescreenrecorder-recording.svg             |   19 +-
+ Yaru++/status/24/software-update-available.svg                  |   25 -
+ Yaru++/status/24/spotify.svg                                    |    6 +-
+ Yaru++/status/24/starred.svg                                    |    3 -
+ Yaru++/status/24/steam_tray_mono.svg                            |    6 +-
+ Yaru++/status/24/transmission-panel.svg                         |    3 -
+ Yaru++/status/24/transmission-tray-icon.svg                     |  151 ++-
+ Yaru++/status/24/variety-indicator.svg                          |    6 +-
+ Yaru++/status/24/viber-normal.svg                               |   11 +-
+ Yaru++/status/24/viber-notification.svg                         |   11 +-
+ Yaru++/status/24/vlc-panel.svg                                  |   11 +-
+ Yaru++/status/24/whatsapp-tray.svg                              |   61 +-
+ Yaru++/status/24/xnoise-panel.svg                               |    4 +-
+ Yaru++/status/32/dialog-error.svg                               |  100 +-
+ Yaru++/status/32/dialog-information.svg                         |   94 ++
+ Yaru++/status/32/dialog-warning.svg                             |  101 ++
+ Yaru++/status/32/error.svg                                      |    1 +
+ Yaru++/status/32/folder-open.svg                                |  158 ++-
+ Yaru++/status/32/gtk-dialog-error.svg                           |    1 +
+ Yaru++/status/32/gtk-dialog-warning.svg                         |    1 +
+ Yaru++/status/32/image-loading.svg                              |  216 +++-
+ Yaru++/status/32/image-missing.svg                              |  157 ++-
+ Yaru++/status/32/messagebox_critical.svg                        |    1 +
+ Yaru++/status/32/software-update-available.svg                  |  180 ++-
+ Yaru++/status/32/stock_dialog-error.svg                         |    1 +
+ Yaru++/status/32/user-trash-full.svg                            |  261 ++++-
+ Yaru++/status/48/dialog-error.svg                               |  407 +++++++
+ Yaru++/status/48/dialog-information.svg                         |  439 ++++++++
+ Yaru++/status/48/dialog-warning.svg                             |  421 +++++++
+ Yaru++/status/48/error.svg                                      |    1 +
+ Yaru++/status/48/folder-drag-accept.svg                         |    1 +
+ Yaru++/status/48/folder-open.svg                                |  142 +++
+ Yaru++/status/48/gtk-dialog-error.svg                           |    1 +
+ Yaru++/status/48/gtk-dialog-warning.svg                         |    1 +
+ Yaru++/status/{24 => 48}/gtk-image-missing.svg                  |    0
+ Yaru++/status/48/image-missing.svg                              |  126 +++
+ Yaru++/status/48/messagebox_critical.svg                        |    1 +
+ Yaru++/status/48/software-update-available.svg                  |  175 +++
+ Yaru++/status/48/stock_dialog-error.svg                         |    1 +
+ Yaru++/status/48/user-trash-full.svg                            |  238 ++++
+ Yaru++/status/scalable/appointment-soon.svg                     |   61 -
+ Yaru++/status/scalable/dialog-error.svg                         |   70 +-
+ Yaru++/status/scalable/dialog-information.svg                   |  386 ++++++-
+ Yaru++/status/scalable/dialog-warning.svg                       |  312 ++++++
+ Yaru++/status/scalable/error.svg                                |    1 +
+ Yaru++/status/scalable/folder-drag-accept.svg                   |   38 +-
+ Yaru++/status/scalable/folder-open.svg                          |   92 +-
+ Yaru++/status/scalable/gtk-dialog-error.svg                     |    1 +
+ Yaru++/status/scalable/gtk-dialog-info.svg                      |    1 -
+ Yaru++/status/scalable/gtk-dialog-warning.svg                   |    1 +
+ Yaru++/status/scalable/image-loading.svg                        |   56 +-
+ Yaru++/status/scalable/image-missing.svg                        |   40 +-
+ Yaru++/status/scalable/info.svg                                 |    1 -
+ Yaru++/status/scalable/messagebox_critical.svg                  |    1 +
+ Yaru++/status/scalable/messagebox_info.svg                      |    1 -
+ Yaru++/status/scalable/security-medium.svg                      |   19 -
+ Yaru++/status/scalable/software-update-available.svg            |   67 +-
+ Yaru++/status/scalable/starred.svg                              |   30 -
+ Yaru++/status/scalable/stock_dialog-error.svg                   |    1 +
+ Yaru++/status/scalable/stock_dialog-info.svg                    |    1 -
+ Yaru++/status/scalable/user-trash-full.svg                      |  199 +++-
+ Yaru++/status/symbolic/alarm-symbolic.svg                       |   12 +-
+ Yaru++/status/symbolic/appointment-missed-symbolic.svg          |    4 +-
+ Yaru++/status/symbolic/appointment-soon-symbolic.svg            |    4 +-
+ Yaru++/status/symbolic/audio-input-microphone-high-symbolic.svg |   10 +-
+ Yaru++/status/symbolic/audio-input-microphone-low-symbolic.svg  |   10 +-
+ .../status/symbolic/audio-input-microphone-medium-symbolic.svg  |   10 +-
+ .../status/symbolic/audio-input-microphone-muted-symbolic.svg   |    2 +-
+ Yaru++/status/symbolic/audio-volume-high-symbolic.svg           |   10 +-
+ Yaru++/status/symbolic/audio-volume-low-symbolic.svg            |   10 +-
+ Yaru++/status/symbolic/audio-volume-medium-symbolic.svg         |   10 +-
+ Yaru++/status/symbolic/audio-volume-overamplified-symbolic.svg  |   45 +-
+ Yaru++/status/symbolic/auth-sim-locked-symbolic.svg             |   63 ++
+ Yaru++/status/symbolic/auth-sim-missing-symbolic.svg            |   72 ++
+ Yaru++/status/symbolic/avatar-default-symbolic.svg              |    4 +-
+ Yaru++/status/symbolic/battery-caution-charging-symbolic.svg    |   10 +-
+ Yaru++/status/symbolic/battery-caution-symbolic.svg             |    4 +-
+ Yaru++/status/symbolic/battery-empty-charging-symbolic.svg      |   10 +-
+ Yaru++/status/symbolic/battery-empty-symbolic.svg               |    2 +-
+ Yaru++/status/symbolic/battery-full-charged-symbolic.svg        |   10 +-
+ Yaru++/status/symbolic/battery-full-charging-symbolic.svg       |   10 +-
+ Yaru++/status/symbolic/battery-full-symbolic.svg                |    8 +-
+ Yaru++/status/symbolic/battery-good-charging-symbolic.svg       |   10 +-
+ Yaru++/status/symbolic/battery-good-symbolic.svg                |    8 +-
+ Yaru++/status/symbolic/battery-level-0-charging-symbolic.svg    |   40 +-
+ Yaru++/status/symbolic/battery-level-0-symbolic.svg             |   36 +-
+ Yaru++/status/symbolic/battery-level-10-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-10-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-100-charged-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-100-charging-symbolic.svg  |   40 +-
+ Yaru++/status/symbolic/battery-level-100-symbolic.svg           |   38 +-
+ Yaru++/status/symbolic/battery-level-20-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-20-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-30-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-30-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-40-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-40-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-50-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-50-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-60-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-60-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-70-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-70-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-80-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-80-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-level-90-charging-symbolic.svg   |   40 +-
+ Yaru++/status/symbolic/battery-level-90-symbolic.svg            |   38 +-
+ Yaru++/status/symbolic/battery-low-charging-symbolic.svg        |   10 +-
+ Yaru++/status/symbolic/battery-low-symbolic.svg                 |    4 +-
+ Yaru++/status/symbolic/battery-missing-symbolic.svg             |    8 +-
+ Yaru++/status/symbolic/bluetooth-active-symbolic.svg            |    2 +-
+ Yaru++/status/symbolic/bluetooth-disabled-symbolic.svg          |    2 +-
+ .../symbolic/call-incoming-symbolic.svg}                        |   45 +-
+ Yaru++/status/symbolic/call-missed-symbolic.svg                 |    2 +-
+ Yaru++/status/symbolic/call-outgoing-symbolic.svg               |   73 ++
+ Yaru++/status/symbolic/camera-disabled-symbolic.svg             |   68 ++
+ Yaru++/status/symbolic/changes-allow-symbolic.svg               |    2 +-
+ Yaru++/status/symbolic/changes-prevent-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/channel-insecure-symbolic.svg            |    4 +-
+ Yaru++/status/symbolic/channel-secure-symbolic.svg              |    2 +-
+ Yaru++/status/symbolic/dialog-information-symbolic.svg          |    8 +-
+ Yaru++/status/symbolic/dialog-password-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/dialog-question-symbolic.svg             |    8 +-
+ Yaru++/status/symbolic/dialog-warning-symbolic.svg              |    2 +-
+ Yaru++/status/symbolic/display-brightness-symbolic.svg          |    4 +-
+ Yaru++/status/symbolic/folder-drag-accept-symbolic.svg          |    2 +-
+ Yaru++/status/symbolic/folder-open-symbolic.svg                 |    2 +-
+ Yaru++/status/symbolic/folder-visiting-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/gtk-dialog-warning-symbolic.svg          |    1 +
+ Yaru++/status/symbolic/image-missing-symbolic.svg               |   39 +-
+ Yaru++/status/symbolic/location-services-active-symbolic.svg    |    3 +
+ Yaru++/status/symbolic/location-services-disabled-symbolic.svg  |   64 ++
+ Yaru++/status/symbolic/mail-attachment-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/mail-read-symbolic.svg                   |    2 +-
+ Yaru++/status/symbolic/mail-replied-symbolic.svg                |    8 +-
+ Yaru++/status/symbolic/mail-unread-symbolic.svg                 |    2 +-
+ .../status/symbolic/media-playlist-consecutive-symbolic-rtl.svg |    2 +-
+ Yaru++/status/symbolic/media-playlist-consecutive-symbolic.svg  |    2 +-
+ .../status/symbolic/media-playlist-no-repeat-symbolic-rtl.svg   |    2 +-
+ Yaru++/status/symbolic/media-playlist-no-repeat-symbolic.svg    |    2 +-
+ Yaru++/status/symbolic/media-playlist-no-shuffle-symbolic.svg   |    2 +-
+ Yaru++/status/symbolic/media-playlist-repeat-one-symbolic.svg   |   10 +-
+ .../status/symbolic/media-playlist-repeat-song-symbolic-rtl.svg |    8 +-
+ Yaru++/status/symbolic/media-playlist-repeat-song-symbolic.svg  |   10 +-
+ Yaru++/status/symbolic/media-playlist-repeat-symbolic-rtl.svg   |    8 +-
+ Yaru++/status/symbolic/media-playlist-repeat-symbolic.svg       |    8 +-
+ Yaru++/status/symbolic/media-playlist-shuffle-symbolic-rtl.svg  |    2 +-
+ Yaru++/status/symbolic/media-playlist-shuffle-symbolic.svg      |    2 +-
+ .../symbolic/microphone-disabled-symbolic.svg}                  |   26 +-
+ Yaru++/status/symbolic/microphone-sensitivity-high-symbolic.svg |   10 +-
+ Yaru++/status/symbolic/microphone-sensitivity-low-symbolic.svg  |   10 +-
+ .../status/symbolic/microphone-sensitivity-medium-symbolic.svg  |   10 +-
+ .../status/symbolic/microphone-sensitivity-muted-symbolic.svg   |    2 +-
+ Yaru++/status/symbolic/network-cellular-3g-symbolic.svg         |    2 +-
+ Yaru++/status/symbolic/network-cellular-4g-symbolic.svg         |    2 +-
+ Yaru++/status/symbolic/network-cellular-acquiring-symbolic.svg  |    8 +-
+ Yaru++/status/symbolic/network-cellular-connected-symbolic.svg  |    4 +-
+ Yaru++/status/symbolic/network-cellular-edge-symbolic.svg       |    2 +-
+ Yaru++/status/symbolic/network-cellular-gprs-symbolic.svg       |    2 +-
+ Yaru++/status/symbolic/network-cellular-hspa-symbolic.svg       |    2 +-
+ Yaru++/status/symbolic/network-cellular-no-route-symbolic.svg   |    8 +-
+ Yaru++/status/symbolic/network-cellular-offline-symbolic.svg    |    2 +-
+ .../network-cellular-signal-excellent-secure-symbolic.svg       |    2 +-
+ .../symbolic/network-cellular-signal-excellent-symbolic.svg     |    2 +-
+ .../symbolic/network-cellular-signal-good-secure-symbolic.svg   |    2 +-
+ .../status/symbolic/network-cellular-signal-good-symbolic.svg   |    8 +-
+ .../symbolic/network-cellular-signal-none-secure-symbolic.svg   |    2 +-
+ .../status/symbolic/network-cellular-signal-none-symbolic.svg   |    2 +-
+ .../symbolic/network-cellular-signal-ok-secure-symbolic.svg     |    2 +-
+ Yaru++/status/symbolic/network-cellular-signal-ok-symbolic.svg  |    8 +-
+ .../symbolic/network-cellular-signal-weak-secure-symbolic.svg   |    2 +-
+ .../status/symbolic/network-cellular-signal-weak-symbolic.svg   |    8 +-
+ Yaru++/status/symbolic/network-error-symbolic.svg               |    4 +-
+ Yaru++/status/symbolic/network-offline-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/network-vpn-acquiring-symbolic.svg       |    8 +-
+ Yaru++/status/symbolic/network-vpn-symbolic.svg                 |    2 +-
+ Yaru++/status/symbolic/network-wired-acquiring-symbolic.svg     |    8 +-
+ Yaru++/status/symbolic/network-wired-disconnected-symbolic.svg  |   10 +-
+ Yaru++/status/symbolic/network-wired-no-route-symbolic.svg      |    8 +-
+ Yaru++/status/symbolic/network-wired-offline-symbolic.svg       |    2 +-
+ Yaru++/status/symbolic/network-wireless-acquiring-symbolic.svg  |   11 +-
+ Yaru++/status/symbolic/network-wireless-connected-symbolic.svg  |    7 +-
+ Yaru++/status/symbolic/network-wireless-disabled-symbolic.svg   |   64 ++
+ Yaru++/status/symbolic/network-wireless-encrypted-symbolic.svg  |    7 +-
+ Yaru++/status/symbolic/network-wireless-hotspot-symbolic.svg    |   13 +-
+ Yaru++/status/symbolic/network-wireless-no-route-symbolic.svg   |   11 +-
+ Yaru++/status/symbolic/network-wireless-offline-symbolic.svg    |    7 +-
+ .../network-wireless-signal-excellent-secure-symbolic.svg       |    7 +-
+ .../symbolic/network-wireless-signal-excellent-symbolic.svg     |    7 +-
+ .../symbolic/network-wireless-signal-good-secure-symbolic.svg   |    7 +-
+ .../status/symbolic/network-wireless-signal-good-symbolic.svg   |   11 +-
+ .../symbolic/network-wireless-signal-none-secure-symbolic.svg   |    7 +-
+ .../status/symbolic/network-wireless-signal-none-symbolic.svg   |    7 +-
+ .../symbolic/network-wireless-signal-ok-secure-symbolic.svg     |    7 +-
+ Yaru++/status/symbolic/network-wireless-signal-ok-symbolic.svg  |   11 +-
+ .../symbolic/network-wireless-signal-weak-secure-symbolic.svg   |    7 +-
+ .../status/symbolic/network-wireless-signal-weak-symbolic.svg   |   11 +-
+ Yaru++/status/symbolic/non-starred-symbolic.svg                 |    2 +-
+ Yaru++/status/symbolic/notifications-disabled-symbolic.svg      |   70 ++
+ .../symbolic/orientation-portrait-left-symbolic.svg}            |   43 +-
+ .../symbolic/orientation-portrait-right-symbolic.svg}           |   44 +-
+ Yaru++/status/symbolic/printer-error-symbolic.svg               |    4 +-
+ Yaru++/status/symbolic/printer-printing-symbolic.svg            |    2 +-
+ Yaru++/status/symbolic/printer-warning-symbolic.svg             |    4 +-
+ Yaru++/status/symbolic/process-working-symbolic.svg             |    7 +-
+ Yaru++/status/symbolic/screen-shared-symbolic.svg               |   68 ++
+ Yaru++/status/symbolic/security-high-symbolic.svg               |    2 +-
+ Yaru++/status/symbolic/security-low-symbolic.svg                |    2 +-
+ Yaru++/status/symbolic/security-medium-symbolic.svg             |    2 +-
+ Yaru++/status/symbolic/semi-starred-symbolic-rtl.svg            |    2 +-
+ Yaru++/status/symbolic/semi-starred-symbolic.svg                |    2 +-
+ Yaru++/status/symbolic/software-update-available-symbolic.svg   |    2 +-
+ Yaru++/status/symbolic/software-update-urgent-symbolic.svg      |    2 +-
+ Yaru++/status/symbolic/starred-symbolic.svg                     |    2 +-
+ Yaru++/status/symbolic/task-due-symbolic.svg                    |    4 +-
+ Yaru++/status/symbolic/task-past-due-symbolic.svg               |    4 +-
+ Yaru++/status/symbolic/thunderbolt-acquiring-symbolic.svg       |   12 +-
+ Yaru++/status/symbolic/touch-disabled-symbolic.svg              |   65 ++
+ Yaru++/status/symbolic/touchpad-disabled-symbolic.svg           |    8 +-
+ Yaru++/status/symbolic/user-available-symbolic.svg              |   40 +-
+ Yaru++/status/symbolic/user-away-symbolic.svg                   |   36 +-
+ Yaru++/status/symbolic/user-busy-symbolic.svg                   |   36 +-
+ Yaru++/status/symbolic/user-idle-symbolic.svg                   |   40 +-
+ Yaru++/status/symbolic/user-invisible-symbolic.svg              |   36 +-
+ Yaru++/status/symbolic/user-not-tracked-symbolic.svg            |    2 +-
+ Yaru++/status/symbolic/user-offline-symbolic.svg                |   36 +-
+ Yaru++/status/symbolic/user-status-pending-symbolic.svg         |   38 +-
+ Yaru++/status/symbolic/user-trash-full-symbolic.svg             |    8 +-
+ Yaru++/status/symbolic/view-private-symbolic.svg                |    2 +-
+ Yaru++/status/symbolic/view-wrapped-symbolic-rtl.svg            |    8 +-
+ Yaru++/status/symbolic/view-wrapped-symbolic.svg                |    8 +-
+ Yaru++/status/symbolic/volume-warning-symbolic.svg              |   37 +
+ Yaru++/status/symbolic/weather-clear-night-symbolic.svg         |    2 +-
+ Yaru++/status/symbolic/weather-cloudy-symbolic.svg              |    2 +-
+ Yaru++/status/symbolic/weather-few-clouds-night-symbolic.svg    |    2 +-
+ Yaru++/status/symbolic/weather-few-clouds-symbolic.svg          |   37 +-
+ Yaru++/status/symbolic/weather-fog-symbolic.svg                 |    2 +-
+ Yaru++/status/symbolic/weather-overcast-symbolic.svg            |    8 +-
+ Yaru++/status/symbolic/weather-severe-alert-symbolic.svg        |    4 +-
+ Yaru++/status/symbolic/weather-showers-scattered-symbolic.svg   |    5 +-
+ Yaru++/status/symbolic/weather-showers-symbolic.svg             |    5 +-
+ Yaru++/status/symbolic/weather-snow-symbolic.svg                |    8 +-
+ Yaru++/status/symbolic/weather-storm-symbolic.svg               |    8 +-
+ Yaru++/status/symbolic/weather-tornado-symbolic.svg             |   88 ++
+ Yaru++/status/symbolic/weather-windy-symbolic.svg               |    2 +-
+ 1837 files changed, 112346 insertions(+), 19404 deletions(-)
+ create mode 100644 FOLDER DARK/actions/48/document-open.svg
+ create mode 100644 FOLDER DARK/actions/scalable/document-open.svg
+ create mode 120000 FOLDER DARK/places/32/folder-documents.svg
+ create mode 120000 FOLDER DARK/places/32/folder-download.svg
+ create mode 120000 FOLDER DARK/places/32/folder-dropbox.svg
+ create mode 120000 FOLDER DARK/places/32/folder-music.svg
+ create mode 120000 FOLDER DARK/places/32/folder-pictures.svg
+ create mode 120000 FOLDER DARK/places/32/folder-publicshare.svg
+ create mode 120000 FOLDER DARK/places/32/folder-remote.svg
+ create mode 120000 FOLDER DARK/places/32/folder-templates.svg
+ create mode 120000 FOLDER DARK/places/32/folder-videos.svg
+ create mode 120000 FOLDER DARK/places/32/folder.svg
+ create mode 120000 FOLDER DARK/places/32/inode-directory.svg
+ create mode 120000 FOLDER DARK/places/32/insync-folder.svg
+ create mode 100755 FOLDER DARK/places/32/user-home.svg
+ create mode 100755 FOLDER DARK/places/48/folder-documents.svg
+ create mode 100755 FOLDER DARK/places/48/folder-download.svg
+ create mode 100755 FOLDER DARK/places/48/folder-dropbox.svg
+ create mode 100755 FOLDER DARK/places/48/folder-music.svg
+ create mode 100755 FOLDER DARK/places/48/folder-pictures.svg
+ create mode 100755 FOLDER DARK/places/48/folder-publicshare.svg
+ create mode 100755 FOLDER DARK/places/48/folder-remote.svg
+ create mode 100755 FOLDER DARK/places/48/folder-templates.svg
+ create mode 100755 FOLDER DARK/places/48/folder-videos.svg
+ create mode 100755 FOLDER DARK/places/48/folder.svg
+ create mode 120000 FOLDER DARK/places/48/inode-directory.svg
+ create mode 100755 FOLDER DARK/places/48/insync-folder.svg
+ create mode 100644 FOLDER DARK/places/48/user-bookmarks.svg
+ create mode 100755 FOLDER DARK/places/48/user-home.svg
+ rename Yaru++/devices/scalable/thunderbolt.svg => FOLDER DARK/places/scalable/folder-documents.svg (56%)
+ mode change 100644 => 100755
+ create mode 100755 FOLDER DARK/places/scalable/folder-download.svg
+ rename Yaru++/devices/scalable/network-wireless.svg => FOLDER DARK/places/scalable/folder-dropbox.svg (56%)
+ mode change 100644 => 100755
+ create mode 100755 FOLDER DARK/places/scalable/folder-music.svg
+ create mode 100755 FOLDER DARK/places/scalable/folder-pictures.svg
+ create mode 100755 FOLDER DARK/places/scalable/folder-publicshare.svg
+ create mode 100755 FOLDER DARK/places/scalable/folder-remote.svg
+ create mode 100755 FOLDER DARK/places/scalable/folder-templates.svg
+ create mode 100755 FOLDER DARK/places/scalable/folder-videos.svg
+ rename Yaru++/actions/scalable/multisystem-seliso.svg => FOLDER DARK/places/scalable/folder.svg (63%)
+ create mode 120000 FOLDER DARK/places/scalable/inode-directory.svg
+ create mode 100755 FOLDER DARK/places/scalable/insync-folder.svg
+ rename Yaru++/devices/32/thunderbolt.svg => FOLDER DARK/places/scalable/user-bookmarks.svg (53%)
+ create mode 100755 FOLDER DARK/places/scalable/user-home.svg
+ create mode 120000 FOLDER DARK/status/48/folder-drag-accept.svg
+ create mode 100644 FOLDER DARK/status/48/folder-open.svg
+ create mode 120000 FOLDER DARK/status/scalable/folder-drag-accept.svg
+ create mode 100644 FOLDER DARK/status/scalable/folder-open.svg
+ mode change 100644 => 120000 Yaru++/actions/16/address-book-new.svg
+ create mode 100644 Yaru++/actions/16/amazon-mp3-store-source.svg
+ create mode 120000 Yaru++/actions/16/archive-insert-directory.svg
+ mode change 100644 => 120000 Yaru++/actions/16/color-select.svg
+ mode change 120000 => 100755 Yaru++/actions/16/dialog-apply.svg
+ mode change 100755 => 120000 Yaru++/actions/16/entry-delete.svg
+ create mode 120000 Yaru++/actions/16/group-new.svg
+ mode change 100644 => 120000 Yaru++/actions/16/gtk-connect.svg
+ mode change 100644 => 120000 Yaru++/actions/16/gtk-disconnect.svg
+ mode change 100644 => 120000 Yaru++/actions/16/gtk-ok.svg
+ rename Yaru++/actions/16/{multisystem-blue.svg => help-about.svg} (67%)
+ mode change 100755 => 100644
+ create mode 100644 Yaru++/actions/16/image.svg
+ mode change 100644 => 100755 Yaru++/actions/16/mail-mark-important.svg
+ mode change 100644 => 100755 Yaru++/actions/16/mail-mark-junk.svg
+ mode change 100644 => 100755 Yaru++/actions/16/mail-mark-notjunk.svg
+ create mode 120000 Yaru++/actions/16/mail-read.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-display-properties.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-download.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-flip-horizontal.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-flip-vertical.svg
+ delete mode 100644 Yaru++/actions/16/multisystem-gparted.svg
+ delete mode 100644 Yaru++/actions/16/multisystem-gparted64.svg
+ delete mode 100644 Yaru++/actions/16/multisystem-grub48.svg
+ delete mode 100644 Yaru++/actions/16/multisystem-hidden.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-home.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-language.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-qemu.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-save.svg
+ delete mode 100755 Yaru++/actions/16/multisystem-update.svg
+ delete mode 100644 Yaru++/actions/16/multisystem-vbox.svg
+ mode change 100644 => 120000 Yaru++/actions/16/offline.svg
+ mode change 100644 => 120000 Yaru++/actions/16/online.svg
+ mode change 100644 => 120000 Yaru++/actions/16/package-installed-updated.svg
+ mode change 100644 => 120000 Yaru++/actions/16/playlist_display-sync.svg
+ mode change 100644 => 120000 Yaru++/actions/16/selection-checked.svg
+ create mode 100644 Yaru++/actions/16/sound.svg
+ delete mode 100644 Yaru++/actions/16/stock_task-assigned-to.svg
+ delete mode 100644 Yaru++/actions/16/stock_task-assigned.svg
+ create mode 120000 Yaru++/actions/16/stock_task.svg
+ mode change 100644 => 120000 Yaru++/actions/16/stock_xfburn-audio-cd.svg
+ delete mode 100644 Yaru++/actions/16/system-switch-user.svg
+ create mode 100644 Yaru++/actions/16/text-x-generic-template.svg
+ mode change 100755 => 100644 Yaru++/actions/16/url-copy.svg
+ mode change 100644 => 120000 Yaru++/actions/16/view-history.svg
+ create mode 120000 Yaru++/actions/22
+ create mode 100644 Yaru++/actions/48/document-export.svg
+ create mode 100644 Yaru++/actions/48/document-import.svg
+ create mode 100644 Yaru++/actions/48/document-new.svg
+ create mode 100644 Yaru++/actions/48/document-open.svg
+ create mode 100644 Yaru++/actions/48/document-print-preview.svg
+ create mode 100644 Yaru++/actions/48/document-print.svg
+ create mode 100644 Yaru++/actions/48/document-revert.svg
+ create mode 100644 Yaru++/actions/48/document-save.svg
+ create mode 100644 Yaru++/actions/48/gtk-properties.svg
+ create mode 100644 Yaru++/actions/48/help-about.svg
+ create mode 100644 Yaru++/actions/48/iso-image-burn.svg
+ create mode 100644 Yaru++/actions/48/media-optical-audio-new.svg
+ create mode 100644 Yaru++/actions/48/media-optical-copy.svg
+ create mode 100644 Yaru++/actions/48/media-optical-data-new.svg
+ create mode 100644 Yaru++/actions/48/media-optical-video-new.svg
+ create mode 100644 Yaru++/actions/48/meld-version-control.svg
+ create mode 100644 Yaru++/actions/scalable/document-export.svg
+ create mode 100644 Yaru++/actions/scalable/document-import.svg
+ create mode 100644 Yaru++/actions/scalable/document-revert.svg
+ create mode 100644 Yaru++/actions/scalable/gtk-properties.svg
+ create mode 100644 Yaru++/actions/scalable/help-about.svg
+ delete mode 100755 Yaru++/actions/scalable/multisystem-drop-green.svg
+ delete mode 100755 Yaru++/actions/scalable/multisystem-drop.svg
+ delete mode 100755 Yaru++/actions/scalable/multisystem-exit.svg
+ delete mode 100755 Yaru++/actions/scalable/multisystem-hide.svg
+ delete mode 100644 Yaru++/actions/scalable/multisystem-save2.svg
+ delete mode 100755 Yaru++/actions/scalable/multisystem-show.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/address-book-new-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/call-stop-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/color-select-symbolic.svg
+ mode change 100644 => 100755 Yaru++/actions/symbolic/edit-find-symbolic.svg
+ create mode 100644 Yaru++/actions/symbolic/favorite-new-symbolic.svg
+ delete mode 100644 Yaru++/actions/symbolic/file-search-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/find-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/format-indent-less-rtl-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/format-indent-less-symbolic-rtl.svg
+ create mode 120000 Yaru++/actions/symbolic/gnome-searchtool-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/go-jump-symbolic-rtl.svg
+ create mode 120000 Yaru++/actions/symbolic/gtk-find-symbolic.svg
+ rename Yaru++/actions/{16/multisystem-theme.svg => symbolic/help-about-symbolic.svg} (63%)
+ mode change 100755 => 100644
+ create mode 100644 Yaru++/actions/symbolic/help-faq-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/kfind-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/multisystem-hidden-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/search-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/sidebar-hide-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/sidebar-show-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/stock_search-symbolic.svg
+ mode change 100644 => 100755 Yaru++/actions/symbolic/system-search-symbolic.svg
+ create mode 100644 Yaru++/actions/symbolic/user-info-symbolic.svg
+ create mode 120000 Yaru++/actions/symbolic/view-conceal-symbolic.svg
+ create mode 100644 Yaru++/actions/symbolic/view-reveal-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/view-zoom-in-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/view-zoom-original-symbolic.svg
+ mode change 100644 => 120000 Yaru++/actions/symbolic/view-zoom-out-symbolic.svg
+ create mode 120000 Yaru++/apps/16/Thunar.svg
+ mode change 120000 => 100644 Yaru++/apps/16/accessories-character-map.svg
+ mode change 120000 => 100644 Yaru++/apps/16/accessories-text-editor.svg
+ mode change 120000 => 100644 Yaru++/apps/16/address-book-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/alacarte.svg
+ mode change 120000 => 100644 Yaru++/apps/16/aptdaemon-download.svg
+ mode change 120000 => 100644 Yaru++/apps/16/asunder.svg
+ mode change 120000 => 100644 Yaru++/apps/16/backups-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/bleachbit.svg
+ mode change 120000 => 100644 Yaru++/apps/16/calculator-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/calendar-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/camera-app.svg
+ create mode 100644 Yaru++/apps/16/ccsm.svg
+ mode change 120000 => 100644 Yaru++/apps/16/clock-app.svg
+ create mode 120000 Yaru++/apps/16/com.github.fabiocolacio.marker.svg
+ create mode 100644 Yaru++/apps/16/com.github.maoschanz.drawing.svg
+ create mode 100644 Yaru++/apps/16/compton.svg
+ mode change 120000 => 100644 Yaru++/apps/16/configurator-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/darktable.svg
+ mode change 120000 => 100644 Yaru++/apps/16/disk-usage-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/disk-utility-app.svg
+ mode change 120000 => 100755 Yaru++/apps/16/display.im6.svg
+ mode change 120000 => 100644 Yaru++/apps/16/documents-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/docviewer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/ebook-reader-app.svg
+ create mode 120000 Yaru++/apps/16/electron6.svg
+ mode change 120000 => 100644 Yaru++/apps/16/error-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/fcitx.svg
+ create mode 100644 Yaru++/apps/16/figma-linux.svg
+ mode change 120000 => 100644 Yaru++/apps/16/file-roller.svg
+ mode change 120000 => 100644 Yaru++/apps/16/filemanager-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/flacon.svg
+ mode change 120000 => 100644 Yaru++/apps/16/flashplayer.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gallery-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/games-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gimagereader.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gnome-aisleriot.svg
+ create mode 120000 Yaru++/apps/16/gnome-chess.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gnome-hearts.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gnome-mahjongg.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gnome-mime-application-x-deb.svg
+ mode change 120000 => 100644 Yaru++/apps/16/gnome-mines.svg
+ create mode 120000 Yaru++/apps/16/gnome-recipes.svg
+ mode change 100644 => 100755 Yaru++/apps/16/gnome.svg
+ mode change 100755 => 100644 Yaru++/apps/16/google-chrome.svg
+ mode change 100644 => 100755 Yaru++/apps/16/gsconnect.svg
+ delete mode 120000 Yaru++/apps/16/help-about.svg
+ mode change 120000 => 100644 Yaru++/apps/16/help-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/image-viewer-app.svg
+ create mode 120000 Yaru++/apps/16/java13-openjdk.svg
+ mode change 120000 => 100644 Yaru++/apps/16/javaws.svg
+ mode change 120000 => 100644 Yaru++/apps/16/jockey.svg
+ mode change 120000 => 100644 Yaru++/apps/16/krename.svg
+ create mode 100644 Yaru++/apps/16/lightdm-settings.svg
+ mode change 120000 => 100644 Yaru++/apps/16/log-viewer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/mail-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/mame.svg
+ mode change 120000 => 100644 Yaru++/apps/16/maps-app.svg
+ create mode 100644 Yaru++/apps/16/marker.svg
+ mode change 120000 => 100644 Yaru++/apps/16/mediaplayer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/messaging-app.svg
+ create mode 120000 Yaru++/apps/16/mintbackup.svg
+ create mode 100644 Yaru++/apps/16/mintwelcome.svg
+ mode change 120000 => 100644 Yaru++/apps/16/mono-runtime.svg
+ create mode 120000 Yaru++/apps/16/ms.svg
+ mode change 120000 => 100644 Yaru++/apps/16/music-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/nm-device-wireless.svg
+ mode change 120000 => 100644 Yaru++/apps/16/notes-app.svg
+ create mode 120000 Yaru++/apps/16/org.gnome.Chess.svg
+ mode change 120000 => 100644 Yaru++/apps/16/org.gnome.ChromeGnomeShell.svg
+ create mode 120000 Yaru++/apps/16/org.gnome.Recipes.svg
+ create mode 120000 Yaru++/apps/16/org.gnome.chess.svg
+ create mode 120000 Yaru++/apps/16/org.gnome.recipes.svg
+ mode change 120000 => 100755 Yaru++/apps/16/org.keepassxc.KeePassXC.svg
+ mode change 120000 => 100755 Yaru++/apps/16/org.musicbrainz.Picard.svg
+ mode change 120000 => 100644 Yaru++/apps/16/passwords-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/pcsx-icon.svg
+ mode change 120000 => 100644 Yaru++/apps/16/pdfshuffler.svg
+ create mode 120000 Yaru++/apps/16/phonelink.svg
+ mode change 120000 => 100644 Yaru++/apps/16/pinta.svg
+ create mode 120000 Yaru++/apps/16/pix.svg
+ mode change 120000 => 100644 Yaru++/apps/16/podcasts-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/power-statistics.svg
+ mode change 100755 => 100644 Yaru++/apps/16/preferences-desktop-remote-desktop.svg
+ create mode 100644 Yaru++/apps/16/python.svg
+ create mode 120000 Yaru++/apps/16/python2.7.svg
+ create mode 120000 Yaru++/apps/16/python3.6.svg
+ create mode 100644 Yaru++/apps/16/redshift.svg
+ create mode 100644 Yaru++/apps/16/ricette.svg
+ mode change 120000 => 100644 Yaru++/apps/16/root-terminal-app.svg
+ rename Yaru++/{actions/16/multisystem-resize.svg => apps/16/scacchi.svg} (59%)
+ mode change 100755 => 100644
+ mode change 120000 => 100644 Yaru++/apps/16/screenshot-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/session-properties.svg
+ mode change 120000 => 100644 Yaru++/apps/16/simplescreenrecorder.svg
+ mode change 120000 => 100644 Yaru++/apps/16/software-properties.svg
+ mode change 120000 => 100644 Yaru++/apps/16/software-store.svg
+ mode change 120000 => 100644 Yaru++/apps/16/software-updater.svg
+ mode change 120000 => 100644 Yaru++/apps/16/softwarecenter.svg
+ mode change 120000 => 100644 Yaru++/apps/16/sound-juicer.svg
+ mode change 120000 => 100644 Yaru++/apps/16/soundconverter.svg
+ mode change 120000 => 100644 Yaru++/apps/16/stacer.svg
+ mode change 120000 => 100644 Yaru++/apps/16/sudoku-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/system-monitor-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/system-settings.svg
+ mode change 120000 => 100644 Yaru++/apps/16/system-users.svg
+ mode change 120000 => 100644 Yaru++/apps/16/terminal-app.svg
+ mode change 100644 => 120000 Yaru++/apps/16/terminal.svg
+ mode change 120000 => 100644 Yaru++/apps/16/thunderbird.svg
+ create mode 100644 Yaru++/apps/16/timeshift.svg
+ mode change 120000 => 100644 Yaru++/apps/16/to-do-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/transmission.svg
+ mode change 120000 => 100644 Yaru++/apps/16/tweaks-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/ubiquity.svg
+ mode change 120000 => 100644 Yaru++/apps/16/usage-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/usb-creator-gtk.svg
+ mode change 100644 => 120000 Yaru++/apps/16/virtualbox.svg
+ mode change 120000 => 100644 Yaru++/apps/16/weather-app.svg
+ mode change 120000 => 100644 Yaru++/apps/16/webbrowser-app.svg
+ mode change 100644 => 120000 Yaru++/apps/16/wine.svg
+ mode change 120000 => 100644 Yaru++/apps/16/winetricks.svg
+ mode change 120000 => 100644 Yaru++/apps/16/xine.svg
+ create mode 120000 Yaru++/apps/scalable/Thunar.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/accessories-character-map.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/accessories-text-editor.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/address-book-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/amule.svg
+ create mode 100644 Yaru++/apps/scalable/applications-system-symbolic.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/aptdaemon-download.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/backups-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/bleachbit.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/calculator-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/calendar-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/camera-app.svg
+ create mode 100644 Yaru++/apps/scalable/ccsm.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/clock-app.svg
+ create mode 120000 Yaru++/apps/scalable/com.github.fabiocolacio.marker.svg
+ create mode 100644 Yaru++/apps/scalable/com.github.maoschanz.drawing.svg
+ create mode 100755 Yaru++/apps/scalable/compton.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/disk-usage-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/disk-utility-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/documents-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/docviewer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/ebook-reader-app.svg
+ create mode 100644 Yaru++/apps/scalable/electron6.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/error-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/fcitx.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/file-roller.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/filemanager-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/flashplayer.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/gallery-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/games-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/gnome-aisleriot.svg
+ create mode 120000 Yaru++/apps/scalable/gnome-chess.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/gnome-mahjongg.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/gnome-mime-application-x-deb.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/gnome-mines.svg
+ create mode 120000 Yaru++/apps/scalable/gnome-recipes.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/gnome-sound-recorder.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-facebook.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-flickr.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-foursquare.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-google.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-msn.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-owncloud.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-pocket.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-todoist.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-account-ubuntusso.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/goa-panel.svg
+ mode change 100755 => 100644 Yaru++/apps/scalable/google-chrome.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/gpick.svg
+ delete mode 120000 Yaru++/apps/scalable/help-about.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/help-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/ibus-setup.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/ibus.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/image-viewer-app.svg
+ create mode 120000 Yaru++/apps/scalable/java13-openjdk.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/javaws.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/krename.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/libreoffice-main.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/libreoffice-startcenter.svg
+ create mode 100644 Yaru++/apps/scalable/lightdm-settings.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/log-viewer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/mail-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/maps-app.svg
+ create mode 100644 Yaru++/apps/scalable/marker.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/mediaplayer-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/messaging-app.svg
+ create mode 120000 Yaru++/apps/scalable/mintbackup.svg
+ create mode 100644 Yaru++/apps/scalable/mintwelcome.svg
+ create mode 120000 Yaru++/apps/scalable/ms.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/multimedia-photo-manager.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/multisystem-icon.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/music-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/nm-device-wireless.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/notes-app.svg
+ create mode 120000 Yaru++/apps/scalable/org.gnome.Chess.svg
+ create mode 120000 Yaru++/apps/scalable/org.gnome.Recipes.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/org.gnome.SoundRecorder.svg
+ create mode 120000 Yaru++/apps/scalable/org.gnome.chess.svg
+ create mode 120000 Yaru++/apps/scalable/org.gnome.recipes.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/org.musicbrainz.Picard.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/packages-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/passwords-app.svg
+ create mode 120000 Yaru++/apps/scalable/phonelink.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/pinta.svg
+ create mode 120000 Yaru++/apps/scalable/pix.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/podcasts-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/power-statistics.svg
+ create mode 100644 Yaru++/apps/scalable/preferences-desktop-default-applications.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/preferences-desktop-display.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/preferences-desktop-keyboard.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/preferences-desktop-remote-desktop.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/preferences-system-notifications.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/preferences-system-sharing.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/preferences-system.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/preferences-ubuntu-panel.svg
+ create mode 100644 Yaru++/apps/scalable/python.svg
+ create mode 120000 Yaru++/apps/scalable/python2.7.svg
+ create mode 120000 Yaru++/apps/scalable/python3.6.svg
+ create mode 100644 Yaru++/apps/scalable/redshift.svg
+ mode change 100644 => 100755 Yaru++/apps/scalable/rhythmbox.svg
+ create mode 100644 Yaru++/apps/scalable/ricette.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/root-terminal-app.svg
+ create mode 100644 Yaru++/apps/scalable/scacchi.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/screenshot-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/session-properties.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/shotwell.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/software-store.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/software-updater.svg
+ mode change 100755 => 100644 Yaru++/apps/scalable/soundconverter.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/sudoku-app.svg
+ create mode 100644 Yaru++/apps/scalable/system-log-out.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/system-monitor-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/system-settings.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/system-users.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/terminal-app.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/terminal.svg
+ create mode 100644 Yaru++/apps/scalable/timeshift.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/to-do-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/transmission.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/tweaks-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/ubiquity.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/usage-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/usb-creator-gtk.svg
+ mode change 100644 => 120000 Yaru++/apps/scalable/virtualbox.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/weather-app.svg
+ mode change 120000 => 100755 Yaru++/apps/scalable/webbrowser-app.svg
+ mode change 120000 => 100644 Yaru++/apps/scalable/winff.svg
+ create mode 120000 Yaru++/apps/symbolic/Thunar-symbolic.svg
+ mode change 120000 => 100644 Yaru++/apps/symbolic/application-x-executable-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/ccsm-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/com.github.fabiocolacio.marker-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/com.github.maoschanz.drawing-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/compton-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/electron6-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-activities-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-body-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/emoji-flags-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-food-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-nature-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-objects-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/emoji-people-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-recent-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/emoji-symbols-symbolic.svg
+ create mode 100755 Yaru++/apps/symbolic/emoji-travel-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/gnome-chess-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/gnome-recipes-symbolic.svg
+ delete mode 120000 Yaru++/apps/symbolic/help-about-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/java13-openjdk-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/lightdm-settings-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/marker-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/mintbackup-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/mintwelcome-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/org.gnome.Chess-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/org.gnome.Recipes-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/org.gnome.chess-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/org.gnome.recipes-symbolic.svg
+ mode change 120000 => 100755 Yaru++/apps/symbolic/org.musicbrainz.Picard-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/pix-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/preferences-desktop-apps-symbolic.svg
+ mode change 120000 => 100644 Yaru++/apps/symbolic/preferences-desktop-display-symbolic.svg
+ mode change 100755 => 100644 Yaru++/apps/symbolic/preferences-desktop-remote-desktop-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/python-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/python2.7-symbolic.svg
+ create mode 120000 Yaru++/apps/symbolic/python3.6-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/redshift-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/ricette-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/scacchi-symbolic.svg
+ mode change 120000 => 100644 Yaru++/apps/symbolic/system-settings-symbolic.svg
+ create mode 100644 Yaru++/apps/symbolic/timeshift-symbolic.svg
+ create mode 120000 Yaru++/devices/16/drive-cdrom.svg
+ create mode 120000 Yaru++/devices/16/gnome-cd.svg
+ create mode 120000 Yaru++/devices/16/gnome-dev-cdrom.svg
+ create mode 120000 Yaru++/devices/16/gnome-dev-disc-cdrom.svg
+ create mode 120000 Yaru++/devices/16/gtk-cdrom.svg
+ create mode 120000 Yaru++/devices/16/media-cdrom.svg
+ create mode 120000 Yaru++/devices/16/media-optical-cd.svg
+ create mode 100644 Yaru++/devices/16/phone-old.svg
+ delete mode 100644 Yaru++/devices/32/bluetooth.svg
+ create mode 120000 Yaru++/devices/32/drive-cdrom.svg
+ create mode 120000 Yaru++/devices/32/gnome-cd.svg
+ create mode 120000 Yaru++/devices/32/gnome-dev-cdrom.svg
+ create mode 120000 Yaru++/devices/32/gnome-dev-disc-cdrom.svg
+ create mode 120000 Yaru++/devices/32/gtk-cdrom.svg
+ create mode 120000 Yaru++/devices/32/media-cdrom.svg
+ create mode 120000 Yaru++/devices/32/media-optical-cd.svg
+ create mode 100644 Yaru++/devices/32/phone.svg
+ create mode 120000 Yaru++/devices/48/drive-cdrom.svg
+ create mode 120000 Yaru++/devices/48/gnome-cd.svg
+ create mode 120000 Yaru++/devices/48/gnome-dev-cdrom.svg
+ create mode 120000 Yaru++/devices/48/gnome-dev-disc-cdrom.svg
+ create mode 120000 Yaru++/devices/48/gtk-cdrom.svg
+ create mode 120000 Yaru++/devices/48/media-cdrom.svg
+ create mode 120000 Yaru++/devices/48/media-optical-cd.svg
+ delete mode 100644 Yaru++/devices/scalable/bluetooth.svg
+ create mode 120000 Yaru++/devices/scalable/drive-cdrom.svg
+ create mode 120000 Yaru++/devices/scalable/gnome-cd.svg
+ create mode 120000 Yaru++/devices/scalable/gnome-dev-cdrom.svg
+ create mode 120000 Yaru++/devices/scalable/gnome-dev-disc-cdrom.svg
+ create mode 120000 Yaru++/devices/scalable/gtk-cdrom.svg
+ create mode 120000 Yaru++/devices/scalable/media-cdrom.svg
+ create mode 120000 Yaru++/devices/scalable/media-optical-cd.svg
+ create mode 100644 Yaru++/devices/symbolic/ac-adapter-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/auth-fingerprint-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/auth-sim-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/auth-smartcard-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/camera-web-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/colorimeter-colorhug-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/display-projector-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/drive-cdrom-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/drive-removable-media-usb-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/gnome-cd-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/gnome-dev-cdrom-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/gnome-dev-disc-cdrom-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/gtk-cdrom-symbolic.svg
+ mode change 100644 => 120000 Yaru++/devices/symbolic/input-tablet-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/media-cdrom-symbolic.svg
+ create mode 120000 Yaru++/devices/symbolic/media-optical-cd-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/modem-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/network-cellular-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/pda-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/phone-old-symbolic.svg
+ mode change 100644 => 120000 Yaru++/devices/symbolic/phone-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/uninterruptible-power-supply-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/video-joined-displays-symbolic.svg
+ create mode 100644 Yaru++/devices/symbolic/video-single-display-symbolic.svg
+ create mode 100755 Yaru++/emotes/16/drink-beer.svg
+ rename Yaru++/{devices/32/network-wireless.svg => emotes/16/drink-martini.svg} (56%)
+ mode change 100644 => 100755
+ create mode 100644 Yaru++/emotes/16/emote-love.svg
+ create mode 100644 Yaru++/emotes/16/face-angel.svg
+ create mode 100644 Yaru++/emotes/16/face-angry.svg
+ create mode 100755 Yaru++/emotes/16/face-clown.svg
+ create mode 100644 Yaru++/emotes/16/face-confused.svg
+ create mode 100644 Yaru++/emotes/16/face-cool.svg
+ create mode 100644 Yaru++/emotes/16/face-crying.svg
+ create mode 100644 Yaru++/emotes/16/face-devilish.svg
+ create mode 100644 Yaru++/emotes/16/face-embarrassed.svg
+ create mode 100644 Yaru++/emotes/16/face-glasses.svg
+ create mode 100644 Yaru++/emotes/16/face-hat.svg
+ create mode 100644 Yaru++/emotes/16/face-heart-broken.svg
+ create mode 100644 Yaru++/emotes/16/face-heart.svg
+ create mode 100755 Yaru++/emotes/16/face-in-love.svg
+ create mode 100644 Yaru++/emotes/16/face-kiss.svg
+ create mode 100644 Yaru++/emotes/16/face-laugh.svg
+ create mode 100644 Yaru++/emotes/16/face-laughing.svg
+ create mode 100644 Yaru++/emotes/16/face-monkey.svg
+ create mode 100755 Yaru++/emotes/16/face-ninja.svg
+ create mode 100755 Yaru++/emotes/16/face-pirate.svg
+ create mode 100644 Yaru++/emotes/16/face-plain.svg
+ create mode 100755 Yaru++/emotes/16/face-quiet.svg
+ create mode 100644 Yaru++/emotes/16/face-raspberry-squint.svg
+ create mode 100644 Yaru++/emotes/16/face-raspberry-wink.svg
+ create mode 100644 Yaru++/emotes/16/face-raspberry.svg
+ create mode 100644 Yaru++/emotes/16/face-sad.svg
+ create mode 100644 Yaru++/emotes/16/face-shutmouth.svg
+ create mode 100644 Yaru++/emotes/16/face-sick.svg
+ create mode 100755 Yaru++/emotes/16/face-sleeping.svg
+ create mode 100644 Yaru++/emotes/16/face-smile-big-squint.svg
+ create mode 100644 Yaru++/emotes/16/face-smile-big.svg
+ create mode 100644 Yaru++/emotes/16/face-smile-grin.svg
+ create mode 100644 Yaru++/emotes/16/face-smile.svg
+ create mode 100644 Yaru++/emotes/16/face-smirk.svg
+ create mode 100644 Yaru++/emotes/16/face-surprise.svg
+ create mode 100644 Yaru++/emotes/16/face-tired.svg
+ create mode 100644 Yaru++/emotes/16/face-uncertain.svg
+ create mode 100644 Yaru++/emotes/16/face-wink.svg
+ create mode 100644 Yaru++/emotes/16/face-worried.svg
+ create mode 100644 Yaru++/emotes/16/face-yawn.svg
+ create mode 100755 Yaru++/emotes/16/food-cake.svg
+ create mode 120000 Yaru++/emotes/22
+ create mode 100644 Yaru++/emotes/symbolic/emote-love-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-angel-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-angry-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-confused-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-cool-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-crying-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-devilish-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-embarrassed-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-glasses-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-hat-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-heart-broken-symbolic.svg
+ create mode 120000 Yaru++/emotes/symbolic/face-heart-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-kiss-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-laugh-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-monkey-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-plain-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-raspberry-squint-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-raspberry-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-raspberry-wink-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-sad-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-shutmouth-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-sick-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-smile-big-squint-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-smile-big-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-smile-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-smirk-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-surprise-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-tired-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-uncertain-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-wink-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-worried-symbolic.svg
+ create mode 100644 Yaru++/emotes/symbolic/face-yawn-symbolic.svg
+ create mode 120000 Yaru++/mimetypes/16/1CD8_rundll32.0.svg
+ create mode 100644 Yaru++/mimetypes/16/1E64_notepad.0.svg
+ create mode 100644 Yaru++/mimetypes/16/2402_msiexec.0.svg
+ create mode 120000 Yaru++/mimetypes/16/2EF4_wordpad.0.svg
+ create mode 100644 Yaru++/mimetypes/16/4137_winhlp32.0.svg
+ create mode 120000 Yaru++/mimetypes/16/7596_iexplore.0.svg
+ create mode 120000 Yaru++/mimetypes/16/7765_winebrowser.0.svg
+ create mode 120000 Yaru++/mimetypes/16/97C1_wordpad.0.svg
+ create mode 120000 Yaru++/mimetypes/16/A35F_hh.0.svg
+ create mode 100644 Yaru++/mimetypes/16/amazon-mp3-store-source.svg
+ create mode 100755 Yaru++/mimetypes/16/application-certificate.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/application-rar.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/application-x-7z-compressed.svg
+ create mode 100644 Yaru++/mimetypes/16/application-x-executable.svg
+ create mode 120000 Yaru++/mimetypes/16/application-x-firmware.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/application-x-gzip.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/application-x-java-archive.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/application-x-keepassxc.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/application-x-php.svg
+ create mode 100755 Yaru++/mimetypes/16/application-x-rss_xml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/application-x-yaml.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/application-x-zip.svg
+ create mode 100644 Yaru++/mimetypes/16/application-xmind.svg
+ create mode 120000 Yaru++/mimetypes/16/audio-x-midi.svg
+ mode change 100644 => 120000 Yaru++/mimetypes/16/document.svg
+ create mode 100755 Yaru++/mimetypes/16/gnome-mime-application-x-audacity-project.svg
+ mode change 100644 => 120000 Yaru++/mimetypes/16/gnome-mime-application-x-bittorrent.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/image-svg+xml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/inode-symlink.svg
+ mode change 100644 => 120000 Yaru++/mimetypes/16/libreoffice-oasis-database.svg
+ mode change 100644 => 120000 Yaru++/mimetypes/16/libreoffice-oasis-web.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/package-gdebi.svg
+ delete mode 100644 Yaru++/mimetypes/16/source-smart-playlist.svg
+ create mode 100644 Yaru++/mimetypes/16/text-dockerfile.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/text-richtext.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/text-x-bibtex.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/text-x-cobol.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/text-x-csharp.svg
+ delete mode 100644 Yaru++/mimetypes/16/text-x-generic-template.svg
+ create mode 100644 Yaru++/mimetypes/16/text-x-gettext-translation.svg
+ create mode 100644 Yaru++/mimetypes/16/text-x-kotlin.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/text-x-script.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/text-xml.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/text.svg
+ mode change 120000 => 100644 Yaru++/mimetypes/16/x-office-document.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/16/x-package-repository.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-apk.svg
+ create mode 100755 Yaru++/mimetypes/scalable/application-certificate.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-eps.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-epub+zip.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-illustrator.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-json.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-msaccess.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-msexcel.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-mspowerpoint.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-msword.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-octet-stream.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-pdf.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-pgp-keys.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-pgp.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-photoshop.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-rar.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-sql.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-vnd.flatpak.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-vnd.snap.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-7z-compressed.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-archive.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-bittorrent.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-desktop.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-executable.svg
+ create mode 100755 Yaru++/mimetypes/scalable/application-x-firmware.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-flash-video.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-gcstar.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-glabels.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-gzip.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-img.svg
+ mode change 120000 => 100755 Yaru++/mimetypes/scalable/application-x-java-archive.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-java.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-keepassxc.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-mobipocket-ebook.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-msi.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-partial-download.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-perl.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-php.svg
+ create mode 100755 Yaru++/mimetypes/scalable/application-x-rss_xml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-ruby.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-theme.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-trash.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-yaml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/application-x-zip.svg
+ create mode 100755 Yaru++/mimetypes/scalable/application-xmind.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-flac.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-generic.svg
+ create mode 100755 Yaru++/mimetypes/scalable/audio-x-midi.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-mpeg.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-ms-wma.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-scpls.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-vorbis+ogg.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/audio-x-wav.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/empty.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/exec.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/extension.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/font-x-generic.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/gnome-mime-application-x-audacity-project.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/gnome-mime-application-x-bittorrent.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/image-svg+xml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/image-x-generic.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/image-x-xcf.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/inode-symlink.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-database.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-drawing.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-formula.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-oasis-database.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-oasis-master-document.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-oasis-spreadsheet-template.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-oasis-web.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-presentation.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-text.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/libreoffice-web.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/model-x.stl-binary.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/model.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/office-presentation.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/office-spreadsheet.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/package-gdebi.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/package.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/shellscript.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-css.svg
+ create mode 100755 Yaru++/mimetypes/scalable/text-dockerfile.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-html.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-less.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-markdown.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-richtext.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-rust.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-bibtex.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-c++.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-c.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-changelog.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-chdr.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-cmake.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-cobol.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-copying.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-credits.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-csharp.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-fortran.svg
+ create mode 100755 Yaru++/mimetypes/scalable/text-x-gettext-translation.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-go.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-haskell.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-install.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-java-source.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-javascript.svg
+ create mode 100755 Yaru++/mimetypes/scalable/text-x-kotlin.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-lua.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-python.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-r.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-readme.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-scss.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-ssa.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-tex.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-theme.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-typescript.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-x-vala.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text-xml.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/text.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/unknown.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/video-x-generic.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/vnd.ms-publisher.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/x-office-document.svg
+ mode change 100644 => 100755 Yaru++/mimetypes/scalable/x-package-repository.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/Last.fm-symbolic.svg
+ create mode 100755 Yaru++/mimetypes/symbolic/application-certificate-symbolic.svg
+ create mode 100755 Yaru++/mimetypes/symbolic/application-rss+xml-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/application-x-executable-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/application-x-firmware-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/font-x-generic-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/package-x-generic-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/x-office-address-book-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/x-office-document-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/x-office-drawing-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/x-office-presentation-symbolic.svg
+ create mode 100644 Yaru++/mimetypes/symbolic/x-office-spreadsheet-symbolic.svg
+ delete mode 120000 Yaru++/status/16/gtk-dialog-info.svg
+ mode change 100644 => 120000 Yaru++/status/16/gtk-dialog-warning.svg
+ mode change 100644 => 120000 Yaru++/status/16/gtk-image-missing.svg
+ delete mode 120000 Yaru++/status/16/info.svg
+ delete mode 100644 Yaru++/status/16/kazam-all-screens-symbolic.svg
+ delete mode 100644 Yaru++/status/16/kazam-area-symbolic.svg
+ delete mode 100644 Yaru++/status/16/kazam-fullscreen-symbolic.svg
+ delete mode 100644 Yaru++/status/16/kazam-screencast-symbolic.svg
+ delete mode 100644 Yaru++/status/16/kazam-screenshot-symbolic.svg
+ delete mode 100644 Yaru++/status/16/kazam-window-symbolic.svg
+ delete mode 120000 Yaru++/status/16/messagebox_info.svg
+ delete mode 120000 Yaru++/status/16/stock_dialog-info.svg
+ create mode 100644 Yaru++/status/16/volume-warning.svg
+ delete mode 100644 Yaru++/status/24/appointment-soon.svg
+ create mode 100644 Yaru++/status/24/dialog-information.svg
+ create mode 100644 Yaru++/status/24/dialog-warning.svg
+ create mode 120000 Yaru++/status/24/gtk-dialog-warning.svg
+ delete mode 100644 Yaru++/status/24/image-missing.svg
+ delete mode 100644 Yaru++/status/24/security-medium.svg
+ delete mode 100644 Yaru++/status/24/software-update-available.svg
+ delete mode 100644 Yaru++/status/24/starred.svg
+ delete mode 100644 Yaru++/status/24/transmission-panel.svg
+ create mode 100644 Yaru++/status/32/dialog-information.svg
+ create mode 100644 Yaru++/status/32/dialog-warning.svg
+ create mode 120000 Yaru++/status/32/error.svg
+ create mode 120000 Yaru++/status/32/gtk-dialog-error.svg
+ create mode 120000 Yaru++/status/32/gtk-dialog-warning.svg
+ create mode 120000 Yaru++/status/32/messagebox_critical.svg
+ create mode 120000 Yaru++/status/32/stock_dialog-error.svg
+ create mode 100644 Yaru++/status/48/dialog-error.svg
+ create mode 100644 Yaru++/status/48/dialog-information.svg
+ create mode 100644 Yaru++/status/48/dialog-warning.svg
+ create mode 120000 Yaru++/status/48/error.svg
+ create mode 120000 Yaru++/status/48/folder-drag-accept.svg
+ create mode 100644 Yaru++/status/48/folder-open.svg
+ create mode 120000 Yaru++/status/48/gtk-dialog-error.svg
+ create mode 120000 Yaru++/status/48/gtk-dialog-warning.svg
+ rename Yaru++/status/{24 => 48}/gtk-image-missing.svg (100%)
+ create mode 100644 Yaru++/status/48/image-missing.svg
+ create mode 120000 Yaru++/status/48/messagebox_critical.svg
+ create mode 100644 Yaru++/status/48/software-update-available.svg
+ create mode 120000 Yaru++/status/48/stock_dialog-error.svg
+ create mode 100644 Yaru++/status/48/user-trash-full.svg
+ delete mode 100644 Yaru++/status/scalable/appointment-soon.svg
+ create mode 100644 Yaru++/status/scalable/dialog-warning.svg
+ create mode 120000 Yaru++/status/scalable/error.svg
+ mode change 100644 => 120000 Yaru++/status/scalable/folder-drag-accept.svg
+ create mode 120000 Yaru++/status/scalable/gtk-dialog-error.svg
+ delete mode 120000 Yaru++/status/scalable/gtk-dialog-info.svg
+ create mode 120000 Yaru++/status/scalable/gtk-dialog-warning.svg
+ delete mode 120000 Yaru++/status/scalable/info.svg
+ create mode 120000 Yaru++/status/scalable/messagebox_critical.svg
+ delete mode 120000 Yaru++/status/scalable/messagebox_info.svg
+ delete mode 100755 Yaru++/status/scalable/security-medium.svg
+ delete mode 100644 Yaru++/status/scalable/starred.svg
+ create mode 120000 Yaru++/status/scalable/stock_dialog-error.svg
+ delete mode 120000 Yaru++/status/scalable/stock_dialog-info.svg
+ create mode 100644 Yaru++/status/symbolic/auth-sim-locked-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/auth-sim-missing-symbolic.svg
+ rename Yaru++/{actions/16/multisystem-reboot.svg => status/symbolic/call-incoming-symbolic.svg} (52%)
+ mode change 100755 => 100644
+ create mode 100644 Yaru++/status/symbolic/call-outgoing-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/camera-disabled-symbolic.svg
+ create mode 120000 Yaru++/status/symbolic/gtk-dialog-warning-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/location-services-active-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/location-services-disabled-symbolic.svg
+ rename Yaru++/{actions/16/multisystem-cdrom.svg => status/symbolic/microphone-disabled-symbolic.svg} (59%)
+ mode change 100755 => 100644
+ create mode 100644 Yaru++/status/symbolic/network-wireless-disabled-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/notifications-disabled-symbolic.svg
+ rename Yaru++/{actions/16/multisystem-green.svg => status/symbolic/orientation-portrait-left-symbolic.svg} (61%)
+ mode change 100755 => 100644
+ rename Yaru++/{actions/16/multisystem-red.svg => status/symbolic/orientation-portrait-right-symbolic.svg} (61%)
+ create mode 100644 Yaru++/status/symbolic/screen-shared-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/touch-disabled-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/volume-warning-symbolic.svg
+ create mode 100644 Yaru++/status/symbolic/weather-tornado-symbolic.svg

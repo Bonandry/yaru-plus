@@ -14,16 +14,18 @@
   <circle cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
   <circle cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
   <circle cx="128.752" cy="123.248" opacity=".1" r="114"/>
-  <g enable-background="new" transform="matrix(1.2727273 0 0 1.2727272 197.58597782765 -73.76452192532)">
+  <g enable-background="new" transform="matrix(1.2727273 0 0 1.2727272 197.585978 -73.764522)">
     <g transform="matrix(0 -1 -1 0 0 0)">
       <circle cx="-154.796" cy="54.084" fill="#f2f2f2" r="88"/>
       <circle cx="-155.796" cy="54.084" fill="#fff" r="80"/>
       <circle cx="-154.796" cy="54.084" fill="#46444a" r="80"/>
     </g>
     <path d="m-54.08454 74.794849a80.000135 80.000135 0 0 0 -79.9993 80.000691 80.000135 80.000135 0 0 0 79.9993 80.00069 80.000135 80.000135 0 0 0 80.0007-80.00069 80.000135 80.000135 0 0 0 -80.0007-80.000691zm0 28.622581a51.37813 51.37813 0 0 1 51.3781106 51.37811 51.37813 51.37813 0 0 1 -51.3781106 51.37811 51.37813 51.37813 0 0 1 -51.37811-51.37811 51.37813 51.37813 0 0 1 51.37811-51.37811z" fill="url(#radialGradient4404)" opacity=".1"/>
-    <circle cx="-154.796" cy="54.084" fill="#a7a7f1" r="64" transform="matrix(0 -1 -1 0 0 0)"/>
-    <circle cx="-154.796" cy="54.084" fill="#8f76e4" r="60" transform="matrix(0 -1 -1 0 0 0)"/>
-    <circle cx="-154.796" cy="54.084" fill="#8c59d9" r="40" transform="matrix(0 -1 -1 0 0 0)"/>
+    <g transform="matrix(0 -1 -1 0 0 0)">
+      <circle cx="-154.796" cy="54.084" fill="#a7a7f1" r="64"/>
+      <circle cx="-154.796" cy="54.084" fill="#8f76e4" r="60"/>
+      <circle cx="-154.796" cy="54.084" fill="#8c59d9" r="40"/>
+    </g>
     <circle cx="-145.776" cy="75.002" fill="#7839b7" r="20" transform="matrix(-.1391731 -.99026807 -.99026807 .1391731 0 0)"/>
     <circle cx="-66.065" cy="138.953" fill="#fff" opacity=".3" r="6" transform="matrix(.99026807 -.1391731 .1391731 .99026807 0 0)"/>
     <circle cx="-84.136" cy="152.571" fill="#fff" opacity=".3" r="2" transform="matrix(.99026807 -.1391731 .1391731 .99026807 0 0)"/>

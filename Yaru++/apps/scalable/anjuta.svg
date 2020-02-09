@@ -5,10 +5,6 @@
   <filter id="filter11210" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05">
     <feGaussianBlur stdDeviation="4.48"/>
   </filter>
-  <linearGradient gradientTransform="matrix(4.2945267 0 0 4.2296962 4.407912 29.807892)" gradientUnits="userSpaceOnUse" x1="19.815" x2="28.057" y1="27.354" y2="27.354">
-    <stop offset="0" stop-color="#fff" stop-opacity=".141176"/>
-    <stop offset="1" stop-color="#fff" stop-opacity=".957143"/>
-  </linearGradient>
   <circle cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
   <circle cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
   <circle cx="128.752" cy="123.248" opacity=".1" r="114"/>
