@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="24"
+   height="24"
    version="1.1"
    id="svg8"
    sodipodi:docname="dialog-information.svg"
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,22 +40,51 @@
      inkscape:window-height="802"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="28.409091"
+     inkscape:cx="11.5"
+     inkscape:cy="11.599999"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6" />
+     inkscape:current-layer="layer1" />
   <g
-     fill="#808080"
-     id="g6">
-    <path
-       d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 8 1 A 7 7 0 0 1 15 8 A 7 7 0 0 1 8 15 A 7 7 0 0 1 1 8 A 7 7 0 0 1 8 1 z M 8 3.5 C 7.7961957 3.5 7.6213485 3.5684443 7.4746094 3.7070312 C 7.3360224 3.837466 7.265625 4.0178329 7.265625 4.2460938 C 7.265625 4.4743546 7.3360224 4.658288 7.4746094 4.796875 C 7.6213485 4.9273097 7.7961957 4.9921875 8 4.9921875 C 8.2038043 4.9921875 8.3750849 4.9273097 8.5136719 4.796875 C 8.660411 4.658288 8.734375 4.4743546 8.734375 4.2460938 C 8.734375 4.0178329 8.660411 3.837466 8.5136719 3.7070312 C 8.3750849 3.5684443 8.2038043 3.5 8 3.5 z M 7.4375 6.140625 L 7.4375 12.5 L 8.5742188 12.5 L 8.5742188 6.140625 L 7.4375 6.140625 z "
-       id="path2" />
+     id="g6"
+     style="fill:#808080"
+     transform="translate(0,8)">
     <g
        aria-label="i"
        style="font-style:normal;font-weight:normal;font-size:12.22826099px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.5;enable-background:new"
        id="text6287-7" />
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,-30.57627,-1097.3671)"
+       id="layer1"
+       inkscape:label="Livello 1">
+      <g
+         inkscape:label="Livello 1"
+         id="layer1-3"
+         transform="matrix(0.73333333,0,0,0.73333333,1.3460187,77.692703)">
+        <rect
+           ry="3.96875"
+           rx="3.96875"
+           y="-17.494595"
+           x="-295.3924"
+           height="7.9375"
+           width="7.9375"
+           id="rect4412"
+           style="display:inline;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.27370688;stroke-opacity:0.25098039;enable-background:new"
+           transform="matrix(0,-1,-1,0,0,0)" />
+      </g>
+      <text
+         id="text6287-7-3"
+         y="293.14966"
+         x="10.66707"
+         style="font-style:normal;font-weight:normal;font-size:4.74524403px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19402777;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke-width:0.03972417"
+           y="293.14966"
+           x="10.66707"
+           id="tspan6285-5"
+           sodipodi:role="line">i</tspan></text>
+    </g>
   </g>
 </svg>

@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +40,9 @@
      inkscape:window-height="1016"
      id="namedview154"
      showgrid="false"
-     inkscape:zoom="2.1480637"
-     inkscape:cx="-133.18881"
-     inkscape:cy="139.25438"
+     inkscape:zoom="3.7455352"
+     inkscape:cx="129.79951"
+     inkscape:cy="52.244341"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1428,6 +1429,15 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ssccssscsssscc" />
         <path
+           style="display:inline;opacity:0.2;fill:url(#linearGradient7073-3);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+           d="m 422.52826,210.50877 h 176 v 8 4 c 0,4.432 -3.568,8 -8,8 h -160 c -4.432,0 -8,-3.568 -8,-8 v -4 z"
+           id="rect7065"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccssssssc"
+           inkscape:export-filename="/home/stuart/yaru/icons/Suru/256x256/legacy/document-print.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
            style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1041-3);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
            d="m 448.52826,60.508739 c -4.432,0 -8,3.568 -8,8 v 46.000021 h 140 V 68.508739 c 0,-4.432 -3.568,-8 -8,-8 z m -8,150.000031 v 62 c 0,4.432 3.568,8 8,8 h 124 c 4.432,0 8,-3.568 8,-8 v -62 z"
            id="rect1017-5"
@@ -1458,15 +1468,6 @@
            id="path940"
            d="m 562.52826,228.59175 h -104 v -2 h 104 z"
            style="display:inline;opacity:0.6;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.88166678;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           inkscape:export-filename="/home/stuart/yaru/icons/Suru/256x256/legacy/document-print.png"
-           inkscape:export-xdpi="96"
-           inkscape:export-ydpi="96" />
-        <path
-           style="display:inline;opacity:0.2;fill:url(#linearGradient7073-3);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-           d="m 422.52826,210.50877 h 176 v 8 4 c 0,4.432 -3.568,8 -8,8 h -160 c -4.432,0 -8,-3.568 -8,-8 v -4 z"
-           id="rect7065"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccssssssc"
            inkscape:export-filename="/home/stuart/yaru/icons/Suru/256x256/legacy/document-print.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
