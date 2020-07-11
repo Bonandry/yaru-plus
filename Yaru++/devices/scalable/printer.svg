@@ -51,11 +51,13 @@
     <rect id="rect1897-7" fill="url(#linearGradient1945-3)" height="8" rx="4" width="8" x="558.52826" y="170.50862"/>
     <path id="rect1130" d="m390.52826 185.50862h239.99899v1h-239.99899z" fill="#fff" opacity=".2"/>
     <path id="rect1017" d="m448.52826 58.508739c-6 0-10 4-10 10v46.000021h144v-46.000021c0-6-4-10-10-10zm-10 152.000031v62c0 6 4 10 10 10h124c6 0 10-4 10-10v-62z" opacity=".2"/>
+    <path id="rect7065" d="m422.52826 210.50877h176v8 4c0 4.432-3.568 8-8 8h-160c-4.432 0-8-3.568-8-8v-4z" fill="url(#linearGradient7073-3)" opacity=".2"/>
     <path id="rect1017-5" d="m448.52826 60.508739c-4.432 0-8 3.568-8 8v46.000021h140v-46.000021c0-4.432-3.568-8-8-8zm-8 150.000031v62c0 4.432 3.568 8 8 8h124c4.432 0 8-3.568 8-8v-62z" fill="url(#linearGradient1041-3)"/>
     <path id="rect2092" d="m438.52826 210.50862h144v2h-144z" opacity=".2"/>
-    <path id="path938" d="m562.52826 244.60582h-104v-2h104z" fill="#999" opacity=".6"/>
-    <path id="path940" d="m562.52826 228.59175h-104v-2h104z" fill="#999" opacity=".6"/>
-    <path id="rect7065" d="m422.52826 210.50877h176v8 4c0 4.432-3.568 8-8 8h-160c-4.432 0-8-3.568-8-8v-4z" fill="url(#linearGradient7073-3)" opacity=".2"/>
-    <path id="path950" d="m562.52826 260.61987h-104v-2h104z" fill="#999" opacity=".6"/>
+    <g fill="#999">
+      <path id="path938" d="m562.52826 244.60582h-104v-2h104z" opacity=".6"/>
+      <path id="path940" d="m562.52826 228.59175h-104v-2h104z" opacity=".6"/>
+      <path id="path950" d="m562.52826 260.61987h-104v-2h104z" opacity=".6"/>
+    </g>
   </g>
 </svg>
