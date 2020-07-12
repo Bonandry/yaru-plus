@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
    height="16"
+   width="16"
    version="1.1"
-   id="svg824"
+   id="svg8"
    sodipodi:docname="zoom-fit-drawing.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata830">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,47 +25,56 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs828" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#808080"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1140"
-     inkscape:window-height="890"
-     id="namedview826"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview10"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="14.88315"
+     inkscape:cx="-4.9830508"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg824" />
-  <path
-     d="M 5.994,2 C 4.736,2.015 3.815,1.97 3.062,2.385 A 1.88,1.88 0 0 0 2.225,3.383 C 2.06,3.82 2,4.343 2,5 V 7 H 3 V 5 C 3,4.408 3.063,3.994 3.16,3.734 3.258,3.474 3.361,3.363 3.545,3.262 3.91,3.06 4.74,3.015 6,3 H 7 V 2 H 5.998 Z M 8.9999997,2 V 3 H 10 c 1.258,0.015 2.087,0.06 2.453,0.262 0.183,0.1 0.29,0.212 0.387,0.472 C 12.937,3.994 13,4.408 13,5 v 2 h 1 V 5 C 14,4.342 13.94,3.821 13.775,3.383 A 1.88,1.88 0 0 0 12.937,2.385 C 12.185,1.969 11.264,2.015 10.006,2 H 10.002 Z M 2,9 v 2 c 0,0.658 0.06,1.179 0.225,1.617 0.164,0.439 0.461,0.79 0.837,0.998 0.753,0.416 1.674,0.37 2.932,0.385 H 7 V 13 H 6 C 4.741,12.985 3.91,12.94 3.545,12.738 3.361,12.638 3.258,12.526 3.16,12.266 3.063,12.006 3,11.592 3,11 V 9 Z m 11,0 v 2 c 0,0.592 -0.063,1.006 -0.16,1.266 -0.098,0.26 -0.202,0.371 -0.385,0.472 C 12.089,12.94 11.258,12.985 10,13 H 8.9999997 v 1 H 10.006 c 1.258,-0.015 2.179,0.03 2.932,-0.385 a 1.88,1.88 0 0 0 0.837,-0.998 C 13.94,12.179 14,11.657 14,11 V 9 Z"
-     font-weight="400"
-     overflow="visible"
-     id="path816"
-     inkscape:connector-curvature="0"
-     style="color:#000000;font-weight:400;font-family:sans-serif;overflow:visible;fill:#808080;stroke-width:1" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
   <g
-     id="g822">
+     fill="#1a7fd4"
+     stroke-width=".875"
+     transform="matrix(1.9555555 0 0 2 -7.77777713182 -8)"
+     id="g6">
     <path
-       style="fill:#808080"
-       class="ColorScheme-Text"
-       d="m 11.5,8 v 3.5 H 7.9999999 V 8 Z"
-       id="path818"
+       style="stroke-width:0.70000005"
+       d="m 6.6363635,5 v 0.8 h 3.6818185 v 3.6 h 0.818182 V 5 Z M 4.9999998,6.6 V 11 H 9.5 V 6.6 Z m 0.8181819,0.8 h 2.8636364 v 2.8 H 5.8181817 Z"
+       id="path2"
        inkscape:connector-curvature="0" />
     <path
-       class="ColorScheme-Text"
-       d="M 7.9999999,4.5 V 8 h -3.5 V 4.5 Z"
-       style="fill:#808080"
-       id="path820"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.70000005"
+       d="M 6.6363635,5.6 V 5.8 H 10.318182 V 5.6 Z M 5.8181817,7.2 V 7.4 H 8.6818181 V 7.2 Z m 4.5000003,2 v 0.2 h 0.818182 V 9.2 Z M 4.9999998,10.8 V 11 H 9.5 v -0.2 z"
+       id="path837"
        inkscape:connector-curvature="0" />
   </g>
+  <g
+     id="g825"
+     transform="matrix(1.5644444,0,0,1.6,-4.6222216,-4.8)"
+     style="fill:#1a7fd4;stroke-width:0.875">
+    <path
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.73044634"
+       d="M 4.5,0.5 V 1 h 11 V 0.5 Z m -4,4 V 5 h 11 V 4.5 Z m 2,9 V 14 h 7 v -0.5 z"
+       transform="matrix(0.51136365,0,0,0.5,3.9772725,4)"
+       id="path821"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(1.9555555,0,0,2,-7.7777771,-7.5)"
+     id="g831"
+     style="fill:#1a7fd4;stroke-width:0.875" />
 </svg>

@@ -1,3 +1,131 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <path fill="#808080" d="M3 3v10h4V3zm6 0v10h4V3z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2829"
+   width="16"
+   height="16"
+   version="1.0"
+   sodipodi:docname="media-playback-pause.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2831">
+    <linearGradient
+       id="linearGradient3615">
+      <stop
+         id="stop3617"
+         style="stop-color:#eeeeec"
+         offset="0" />
+      <stop
+         id="stop3619"
+         style="stop-color:#babdb6"
+         offset=".6958" />
+      <stop
+         id="stop3621"
+         style="stop-color:#a1a59b"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2782">
+      <stop
+         id="stop2784"
+         style="stop-color:#fff"
+         offset="0" />
+      <stop
+         id="stop2786"
+         style="stop-color:#fff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3627"
+       x1="-11.448"
+       x2="-11.448"
+       y1="10.344"
+       y2="45.849"
+       gradientTransform="matrix(.36755 0 0 .36638 8.2056 -1.7938)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3615" />
+    <linearGradient
+       id="linearGradient3629"
+       x1="10.44"
+       x2="10.44"
+       y1="9.9657"
+       y2="52.94"
+       gradientTransform="matrix(.29583 0 0 .33661 8.2499 -1.1702)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2782" />
+    <linearGradient
+       id="linearGradient3635"
+       x1="-11.448"
+       x2="-11.448"
+       y1="10.344"
+       y2="45.849"
+       gradientTransform="matrix(.36755 0 0 .36638 16.206 -1.7938)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3615" />
+    <linearGradient
+       id="linearGradient3637"
+       x1="10.44"
+       x2="10.44"
+       y1="9.9657"
+       y2="52.94"
+       gradientTransform="matrix(.29583 0 0 .33661 16.25 -1.1702)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2782" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill-rule:evenodd;fill:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0007;stroke:none;fill-opacity:1"
+       d="M 1.5 1.5 L 1.5 14.5 L 6.5 14.5 L 6.5 1.5 L 1.5 1.5 z M 9.5 1.5 L 9.5 14.5 L 14.5 14.5 L 14.5 1.5 L 9.5 1.5 z "
+       id="path3623" />
+    <path
+       style="fill-rule:evenodd;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0007;stroke:none;fill-opacity:1;opacity:0.3"
+       d="M 1.5 1.5 L 1.5 2 L 6.5 2 L 6.5 1.5 L 1.5 1.5 z M 9.5 1.5 L 9.5 2 L 14.5 2 L 14.5 1.5 L 9.5 1.5 z "
+       id="path859" />
+    <path
+       id="path864"
+       d="m 1.5,14 v 0.5 h 5 V 14 Z m 8,0 v 0.5 h 5 V 14 Z"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0007;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

@@ -1,8 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#808080; }
-  </style>
- </defs>
- <path fill="#808080" class="ColorScheme-Text" d="M 5 6 L 5 7 L 5 11.5 L 4 11.5 L 4 12.5 L 5 12.5 L 5 18 L 6 18 L 9 18 L 10 18 L 10 12.5 L 14 12.5 L 14 14 L 14 15 L 15 15 L 18 15 L 19 15 L 19 14 L 19 12.5 L 20 12.5 L 20 11.5 L 19 11.5 L 19 9 L 18 9 L 15 9 L 14 9 L 14 11.5 L 10 11.5 L 10 6 L 9 6 L 5 6 z M 6 7 L 9 7 L 9 17 L 6 17 L 6 7 z M 15 10 L 18 10 L 18 14 L 15 14 L 15 10 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="align-vertical-center.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="0.45762712"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     transform="matrix(0 -1 -1 0 24 24)"
+     id="g10">
+    <path
+       d="m11.5 4v2h1v-2zm0 5v6h1v-6zm0 9v2h1v-2z"
+       fill="#e95420"
+       id="path2" />
+    <g
+       fill="#c43ac4"
+       transform="matrix(0 1 -1 0 1.728814 -12.105085)"
+       id="g8">
+      <path
+         d="m 17.105085,-13.271186 v 6 h 4 1 v -1 -4 -1 h -1 -3.2 z"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.894427" />
+      <path
+         d="m 26.105085,-16.271186 v 12 h 4 1 v -12 h -1 -3.2 z"
+         id="path6"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1.26491106" />
+      <path
+         style="stroke-width:0.894427;fill:#000000;fill-opacity:1;opacity:0.2"
+         d="M 4 12 L 4 12.5 L 5 12.5 L 5 12 L 4 12 z M 10 12 L 10 12.5 L 14 12.5 L 14 12 L 10 12 z M 19 12 L 19 12.5 L 20 12.5 L 20 12 L 19 12 z M 14 14.5 L 14 15 L 15 15 L 19 15 L 19 14.5 L 15 14.5 L 14 14.5 z M 5 17.5 L 5 18 L 6 18 L 10 18 L 10 17.5 L 6 17.5 L 5 17.5 z "
+         transform="matrix(-1,0,0,1,36.105085,-22.271186)"
+         id="path830" />
+      <path
+         style="stroke-width:0.894427;fill:#ffffff;fill-opacity:1;opacity:0.3"
+         d="M 5 6 L 5 6.5 L 6 6.5 L 9.1992188 6.5 L 10 6.5 L 10 6 L 9.1992188 6 L 6 6 L 5 6 z M 14 9 L 14 9.5 L 15 9.5 L 18.199219 9.5 L 19 9.5 L 19 9 L 18.199219 9 L 15 9 L 14 9 z M 4 11.5 L 4 12 L 5 12 L 5 11.5 L 4 11.5 z M 10 11.5 L 10 12 L 14 12 L 14 11.5 L 10 11.5 z M 19 11.5 L 19 12 L 20 12 L 20 11.5 L 19 11.5 z "
+         transform="matrix(-1,0,0,1,36.105085,-22.271186)"
+         id="path837" />
+    </g>
+  </g>
 </svg>
