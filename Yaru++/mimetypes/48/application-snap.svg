@@ -1,5 +1,5 @@
 <svg id="svg30" height="48" viewBox="0 0 12.699375 12.699376" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="linearGradient925" gradientUnits="userSpaceOnUse" x1="6.35044108" x2="6.35044108" y1=".13228552" y2="12.30252024">
+  <linearGradient id="linearGradient925" gradientUnits="userSpaceOnUse" x1="6.350441" x2="6.350441" y1=".132286" y2="12.30252">
     <stop id="stop923-3" offset="0" stop-color="#fff"/>
     <stop id="stop933-6" offset=".125" stop-color="#fff" stop-opacity=".098039"/>
     <stop id="stop931-7" offset=".92500001" stop-color="#fff" stop-opacity=".098039"/>
@@ -10,8 +10,10 @@
   <g stroke-width=".105828">
     <path id="path944" d="m3.1416406 3.4086167 3.4991488 3.4991515v-2.2375849z" fill="#8bcbab"/>
     <path id="path942" d="m7.1704459 4.6858934 2.4271232 1.0910431-.5343077-1.0910431z" fill="#fa6441"/>
-    <path id="path940" d="m6.8557528 4.7658836v2.0334717l1.4593725-1.3700828z" fill="#8bcbab"/>
-    <path id="path962" d="m5.8128696 6.4068414-1.61698 3.0515489 2.3455827-2.3456859z" fill="#8bcbab"/>
+    <g fill="#8bcbab">
+      <path id="path940" d="m6.8557528 4.7658836v2.0334717l1.4593725-1.3700828z"/>
+      <path id="path962" d="m5.8128696 6.4068414-1.61698 3.0515489 2.3455827-2.3456859z"/>
+    </g>
   </g>
   <path id="path1006" d="m1.5878056 6.2174037v3.2415036c-.01146 2.3393377.239778 2.5790437 2.574394 2.5790437h4.3757442c2.3346162 0 2.5743932-.23968 2.5743932-2.5790437v-3.2415036z" fill="#fff" opacity=".08"/>
   <path id="path1013" d="m6.3500716.39685664v11.64109436h2.1878722c2.3346162 0 2.5743932-.23968 2.5743932-2.5790437v-3.2415036-3.2415031c0-2.33936516-.239777-2.57904396-2.5743932-2.57904396z" fill="#fff" opacity=".08"/>
