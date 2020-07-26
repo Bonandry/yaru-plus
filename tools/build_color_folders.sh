@@ -38,7 +38,7 @@ else
 	exit 128
 fi
 
-DEFAULT_COLOR="orange"
+DEFAULT_COLOR="yaru"
 SIZES_REGEX="(16|scalable)"
 MONOCHROME_SIZES_REGEX="(16)"
 COLOR_SIZES_REGEX="(scalable)"
@@ -50,27 +50,30 @@ COLORS=(
 	# [0] - primary color – start
 	# [1] - primary color – end
 	# [2] - blurry shadow
-	# [3] - secondary color
-	# [4] - color of symbol
+	# [3] - secondary color - start
+	# [4] - secondary color - end
+	# [5] - color of symbol
+	# [6] - user - color 1
+	# [7] - user - color 2
 	#
-	# | name         | [0]   | [1]   | [2]   | [3]   | [4]   |
-	# |--------------|-------|-------|-------|-------|-------|
-	[orange]="        #f6b069 #f3994a #903906 #ec7223 #fad9b9"
-	[adwaita]="				#c9b8a7 #a89888 #685f55 #908478 #d4d1c9"
-	[aubergine]="     #a0649a #ad7aa9 #4f1748 #85377d #ddc8db"
-	[blue]="     			#37a6e6 #6dc7f1 #135c9a #1a7fd4 #c6e9f7"
-	[bordeaux]="     	#c2655b #d3918a #7f372f #ad4b41 #edd3d0"
-	[canonical]="     #925475 #ad7f98 #4c1a35 #853e64 #ddcad4"
-	[cyan]="     			#31c6b7 #5bdbc1 #1f6166 #2daaaa #bae8d5"
-	[darkblue]="     	#6d95b0 #97b4c7 #3d5c71 #537e9b #d5e1e8"
-	[green]="     		#76c22b #a6d74f #1f6617 #46a926 #dce6b8"
-	[manjaro]="    		#16a085 #12816b #083A31 #0C5A4A #a6dbd1"
-	[mint]="       		#7aaf65 #517D40 #3D5E31 #579140 #d0e3c9"
-	[purple]="     		#8f76e4 #a7a7f1 #642f99 #8c59d0 #dcdef5"
-	[red]="     			#f22c42 #f76363 #7f1126 #da1636 #fac3ba"
-	[vermillion]="    #e44739 #eb7b71 #991f15 #d12b1d #f7cac6"
-	[yaru]="          #444444 #545454 #242424 #f6454c #bebebe"
-	[yellow]="     		#ffda64 #fee581 #664f02 #fdc92b #403101"
+	# | name         | [0]      | [1]     | [2]     | [3]     | [4]     | [5]     | [6]     | [7]     
+	# |--------------|----------|---------|---------|---------|---------|---------|---------|---------
+	[yaru]="          #7A7A7A #666666 #242424 #E75727 #6C234C #BEBEBE #fb7c38 #9b33ae"
+	[adwaita]="				#C9B8A7 #A89888 #685F55 #908478 #574F47 #D4D1C9 #A89888 #574F47"
+	[aubergine]="     #A0649A #AD7AA9 #4F1748 #85377D #BF1449 #DDC8DB #AD7AA9 #BF1449"
+	[blue]="     			#37A6E6 #6DC7F1 #135C9A #1A7FD4 #3194A4 #C6E9F7 #6DC7F1 #3194A4"
+	[bordeaux]="     	#C2655B #D3918A #7F372F #AD4B41 #A13037 #EDD3D0 #D3918A #A13037"
+	[canonical]="     #925475 #AD7F98 #4C1A35 #853E64 #E77727 #DDCAD4 #AD7F98 #E77727"
+	[cyan]="     			#31C6B7 #5BDBC1 #1F6166 #2DAAAA #239BAA #BAE8D5 #5BDBC1 #239BAA"
+	[darkblue]="     	#6D95B0 #97B4C7 #3D5C71 #537E9B #54979C #D5E1E8 #97B4C7 #54979C"
+	[green]="     		#76C22B #A6D74F #1F6617 #46A926 #89AA27 #DCE6B8 #A6D74F #89AA27"
+	[manjaro]="    		#16A085 #12816B #083A31 #0C5A4A #2F3F49 #A6DBD1 #12816B #2F3F49"
+	[mint]="       		#7AAF65 #517D40 #3D5E31 #579140 #76C22B #D0E3C9 #517D40 #76C22B"
+	[orange]="        #F6B069 #F3994A #903906 #EC7223 #ECB622 #FAD9B9 #F3994A #ECB622"
+	[purple]="     		#8F76E4 #A7A7F1 #642F99 #8C59D0 #800080 #DCDEF5 #A7A7F1 #800080"
+	[red]="     			#F22C42 #F76363 #7F1126 #DA1636 #5C0A17 #FAC3BA #F76363 #5C0A17"
+	[vermillion]="    #E44739 #EB7B71 #991F15 #D12B1D #AB2417 #F7CAC6 #EB7B71 #AB2417"
+	[yellow]="     		#FFDA64 #FEE581 #664F02 #FDC92B #8B9702 #403101 #FEE581 #8B9702"
 )
 
 headline() 
