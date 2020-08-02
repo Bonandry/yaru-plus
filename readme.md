@@ -74,7 +74,7 @@
 * <b>Yaru++:</b> The normal icons theme, based on <a href="https://github.com/ubuntu/yaru">Yaru</a> icons by Canonical developers. It does not have dependencies on other icons themes.
 * <b>Yaru++ Color</b> Based on original Yaru, 16px icons are colourful and symlink to 24px and 32px. 16px and 48px icons are sharpened. It requires dependency on Yaru++.
 * <b>Yaru++ Dark:</b> The dark version of Yaru++ for dark GUI or window manager. It requires dependency on Yaru++.
-* <b>Yaru++ Minimal:</b> The minimal icons theme containing only third-party icons and excluding the files that already exist in the Canonical's<a href="https://github.com/ubuntu/yaru">Yaru</a> original icons theme. It requires dependency on original Yaru.
+* <b>Yaru++ Minimal:</b> The minimal icons theme containing only third-party icons and excluding the files that already exist in the Canonical's <a href="https://github.com/ubuntu/yaru">Yaru</a> original icons theme. It requires dependency on original Yaru.
 * <b>Yaru++ Smooth:</b> The 32px and 48px icons are symlinked to colourful scalable icons instead of sharpened icons that are hated by the perfectionists. It requires dependency on Yaru++.
 * <b>kYaru++:</b> Compatible with Kvantum and Qt5ct. It requires dependency on Yaru++.
 
@@ -364,8 +364,8 @@ Please visit the [wiki about how to request an icon at Suru++ Ubuntu](https://gi
 
 # Credits and Licences
 
-* CC BY-SA/GPL3 © 2018-2019 [Yaru Icons](https://github.com/ubuntu/yaru) by Ubuntu developers.
-* CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
-* LGPL3/CC-BY-SA © <a href="https://github.com/GNOME/adwaita-icon-theme">Adwaita Icons</a> by 2019 GNOME Project
+* CC BY-SA/GPL3 © 2018-2020 [Yaru Icons](https://github.com/ubuntu/yaru) by Ubuntu developers.
+* CC BY-SA/GPL3 © 2018-2020 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
+* LGPL3/CC-BY-SA © <a href="https://github.com/GNOME/adwaita-icon-theme">Adwaita Icons</a> by 2019-2020 GNOME Project
 * GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
-* GPL3 © 2019 Yaru++ by Andrea Bonanni and Gustavo Costa.
+* GPL3 © 2019-2020 Yaru++ by Andrea Bonanni and Gustavo Costa.
