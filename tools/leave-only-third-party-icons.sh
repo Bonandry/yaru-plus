@@ -1,33 +1,36 @@
-#!/bin/bash
-echo "Please, run this script in the /scripts folder!"
+#!/bin/sh
+
+cd ../
+home="$(pwd)"
+
 sizes=(16x16 24x24 32x32 48x48 scalable)
 directories=(actions apps categories devices emblems mimetypes places status)
-cd ../
-home="$(pwd)"   # into /scripts folder
 
+echo "PHASE 1 – Locate the directories of original Yaru"
 
 function main() 
 {
     getDirectories
 
-    for directory in "${directories[@]}"
+    for size in "${sizes[@]}"
     do
         # check if a directory doesn't exist:
-        if [ ! -d "$directory" ]; then
-          mkdir $directory
+        if [ ! -d "$size" ]; then
+          mkdir $size
         fi
-        for size in "${sizes[@]}"
+        for directory in "${directories[@]}"
         do
-            fileList $directory $size
+            fileList $size $directory
        done
    done
-
+   cd $home
 }
 
 function getDirectories() 
 {                             # get all directories in the elementary icon folder
     local current=''
     cd /usr/share/icons/Yaru
+
     for directory in */
     do
         current="$(echo $directory)"                    # directory name include /
@@ -37,8 +40,9 @@ function getDirectories()
             directories+=($directory_name)
         fi
     done
-    cd $home
 }
+
+echo "PHASE 2 – Generate output files without extension"
 
 function fileList() 
 {
@@ -49,36 +53,17 @@ function fileList()
     then
         for entry in "${search_file[@]}"
         do
-            if [ "${entry##*/}" != "" ]                          # block blank strings
-            then
-                removeIcon ${entry##*/} $directory $size         #${entry##*/} => it's necessary to not include the icon path
-                generateSymlink ${entry##*/} $directory $size
-            fi
+          for i in *; do echo "${i%.png}"; done > $size-$directory.txt
         done
     fi
 }
 
-function removeIcon() 
-{
-    local icon=$1
-    local directory=$2
-    local size=$3
-    rm -rf $directory/$size/$icon
-}
+echo "PHASE 3 – Remove the files that already exist in Canonical's original Yaru"
 
-function generateSymlink() 
+function removeList()
 {
-    local icon=$1
-    local directory=$2
-    local size=$3
-
-    cd $directory/
-    if [ ! -d "$size" ]; then
-      mkdir $size
-    fi
-    cd $size/
-    ln -sf /usr/share/icons/Yaru/$size/$directory/$icon $icon
-    cd $home
+  # rm $(cat $size-$directory.txt | xargs).svg
+  rm $(awk '{ print $0".svg" }' $size-$directory.txt)
 }
 
 main
