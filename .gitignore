@@ -9,10 +9,11 @@
 *.directory
 **/.directory
 \.icon-theme\.cache
-readme.html
 
 Yaru++-Minimal/**/*
 !Yaru++-Minimal/actions/
 !Yaru++-Minimal/actions/**
 !Yaru++-Minimal/apps/
 !Yaru++-Minimal/apps/**
+!Yaru++-Minimal/categories/
+!Yaru++-Minimal/categories/**
