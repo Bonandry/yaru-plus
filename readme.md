@@ -74,7 +74,7 @@
 * <b>Yaru++:</b> The normal icons theme, based on <a href="https://github.com/ubuntu/yaru">Yaru</a> icons by Canonical developers. It does not have dependencies on other icons themes.
 * <b>Yaru++ Color</b> Based on original Yaru, 16px icons are colourful and symlink to 24px and 32px. 16px and 48px icons are sharpened. It requires dependency on Yaru++.
 * <b>Yaru++ Dark:</b> The dark version of Yaru++ for dark GUI or window manager. It requires dependency on Yaru++.
-* <b>Yaru++ Minimal:</b> The minimal icons theme containing only third-party icons and excluding the files that already exist in the Canonical's <a href="https://github.com/ubuntu/yaru">Yaru</a> original icons theme. It requires dependency on original Yaru.
+* <b>Yaru++ Minimal:</b> The minimal icons theme containing only third-party icons and excluding the files that already exist in the Canonical's <a href="https://github.com/ubuntu/yaru">Yaru</a> original icons theme. It requires dependency on original Yaru. <b>DO NOT use Snap, prefer PPA.</b>
 * <b>Yaru++ Smooth:</b> The 32px and 48px icons are symlinked to colourful scalable icons instead of sharpened icons that are hated by the perfectionists. It requires dependency on Yaru++.
 * <b>kYaru++:</b> Compatible with Kvantum and Qt5ct. It requires dependency on Yaru++.
 
@@ -150,7 +150,10 @@ wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh
 
 #### Only Yaru++ Minimal
 
-Observe that Canonical's original Yaru icons needs to be installed firstly
+For Ubuntu users:
+  - <b>Old versions:</b> You must install manually original Yaru icons's latest version onto `/usr/share/icons/`;
+  - <b>18.04, 19.04 and 19.10:</b> Yaru icons are already installed, but outdated. You must upgrade the icons theme. Prefer the PPA. <b>DO NOT</b> use Snap!
+  - <b>20.04 and above:</b> No installed. It is already Yaru icons' latest version, and it is well located in `/usr/share/icons/`.
 
 ```zsh
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' sh
@@ -190,7 +193,10 @@ wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh
 
 #### Only Yaru++ Minimal
 
-Observe that Canonical's original Yaru icons needs to be installed firstly
+For Ubuntu users:
+  - <b>Old versions:</b> You must install manually original Yaru icons's latest version onto `/usr/share/icons/`;
+  - <b>18.04, 19.04 and 19.10:</b> Yaru icons are already installed, but outdated. You must upgrade the icons theme. Prefer the PPA. <b>DO NOT</b> use Snap!
+  - <b>20.04 and above:</b> No installed. It is already Yaru icons' latest version, and it is well located in `/usr/share/icons/`.
 
 ```zsh
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' env DESTDIR="$HOME/.icons" sh
@@ -230,7 +236,10 @@ wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh
 
 #### Only Yaru++ Minimal
 
-Observe that Canonical's original Yaru icons needs to be installed firstly
+For Ubuntu users:
+  - <b>Old versions:</b> You must install manually original Yaru icons's latest version onto `/usr/share/icons/`;
+  - <b>18.04, 19.04 and 19.10:</b> Yaru icons are already installed, but outdated. You must upgrade the icons theme. Prefer the PPA. <b>DO NOT</b> use Snap!
+  - <b>20.04 and above:</b> No installed. It is already Yaru icons' latest version, and it is well located in `/usr/share/icons/`.
 
 ```zsh
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' env DESTDIR="$HOME/.local/share/icons" sh

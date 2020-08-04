@@ -16,4 +16,4 @@ jobs:
     - name: Install neofetch and xmlstarlet
       run: sudo apt-get install neofetch xmlstarlet
     - name: Analysing and testing
-      run: neofetch && make -k test-all
+      run: neofetch && ls /usr/share/icons && make -k test-all
