@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
-    - name: Install neofetch and xmlstarlet
+    - name: Install neofetch, xmlstarlet and Yaru icons theme
       run: sudo apt-get install neofetch xmlstarlet yaru-theme-icon
     - name: Analysing and testing
       run: neofetch && ls /usr/share/icons && make -k test-all
