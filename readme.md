@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="images/logotype.svg" alt="Logotype">
+    <img src="immagini/logotipo-4.0.svg" alt="Logotype">
 </p>
 
 <p align="center">
-    <img src="images/icons.svg" alt="Icons">
+    <img src="immagini/icons.svg" alt="Icons">
 </p>
 
 <h4 align="center">A third-party Yaru++ icons for more than 20 distributions </h4>
@@ -65,9 +65,9 @@
 
 # Screenshot
 
-![List of Icons](images/list-of-icons.svg)
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+![List of Icons](immagini/list-of-icons.svg)
+![Screenshot 1](immagini/screenshot5.png)
+![Screenshot 2](immagini/screenshot6.png)
 
 # Difference between alternative icons themes
 
