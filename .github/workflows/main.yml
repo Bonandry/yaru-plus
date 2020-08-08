@@ -1,0 +1,21 @@
+name: Travis
+
+on:
+  pull_request:
+  push:
+    branches:
+      - gusbemacbe
+
+jobs:
+  run_tests:
+
+    runs-on: ubuntu-20.04
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Install neofetch, xmlstarlet and Yaru icons theme
+      run: sudo apt-get install neofetch xmlstarlet yaru-theme-icon
+    - name: Revealing the system info, list if Yaru icons are present, and analysing and testing
+      run: neofetch && ls /usr/share/icons/Yaru && make -k test-all
+    - name: Checking the symlinks health
+      run: ls -l Yaru++-Minimal/apps/16/help-about.png

@@ -1,1 +1,25 @@
+<<<<<<< HEAD
 <svg enable-background="new" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="80.752003" x2="176.752003" y1="11.248008" y2="235.248008"><stop offset="0" stop-color="#e1e1e1"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient><filter id="b" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01"><feGaussianBlur stdDeviation="1.12"/></filter><filter id="c" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05"><feGaussianBlur stdDeviation="4.48"/></filter><circle cx="128.752" cy="127.248" filter="url(#c)" opacity=".1" r="112"/><circle cx="128.752" cy="125.248" filter="url(#b)" opacity=".1" r="112"/><circle cx="128.752" cy="123.248" opacity=".1" r="114"/><circle cx="128.752" cy="123.248" fill="url(#a)" r="112"/><path d="m16.865234 121a112 112 0 0 0 -.113281 2.24805 112 112 0 0 0 111.999997 112 112 112 0 0 0 112-112 112 112 0 0 0 -.08007-2.24805z" fill="#fcfcfc" opacity=".3"/><g transform="translate(0 -9.999999)"><path d="m175.62462 99.824554 3.29712 13.861036h-24.3661c-.00081-.00069-.003-.002-.003-.003l7.79603 16.63746h16.57321l-3.29711 13.86102 16.484-22.17843z" fill="#f22c42" fill-rule="evenodd" stroke-width="7.836725"/><path d="m121.91865 61.748001-45.177393 116.166659h-9.489261v6.83334h34.166664v-6.83334h-11.010738l10.630358-27.33333h48.59409l10.63036 27.33333h-11.01073v6.83334h41v-6.83334h-9.48927l-45.17741-116.166659zm3.41667 26.359056 21.64113 55.640943h-43.28224z" fill="#5d5d5d"/></g></svg>
+=======
+<svg id="svg65" enable-background="new" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient11065" gradientUnits="userSpaceOnUse" x1="80.752003" x2="176.752003" y1="11.248008" y2="235.248008">
+    <stop id="stop4241-6" offset="0" stop-color="#e1e1e1"/>
+    <stop id="stop4243-7" offset="1" stop-color="#f7f7f7"/>
+  </linearGradient>
+  <filter id="filter11191" color-interpolation-filters="sRGB" height="1.024" width="1.024" x="-.01" y="-.01">
+    <feGaussianBlur id="feGaussianBlur11193" stdDeviation="1.12"/>
+  </filter>
+  <filter id="filter11210" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.05" y="-.05">
+    <feGaussianBlur id="feGaussianBlur11212" stdDeviation="4.48"/>
+  </filter>
+  <circle id="circle41" cx="128.752" cy="127.248" filter="url(#filter11210)" opacity=".1" r="112"/>
+  <circle id="circle43" cx="128.752" cy="125.248" filter="url(#filter11191)" opacity=".1" r="112"/>
+  <circle id="circle45" cx="128.752" cy="123.248" opacity=".1" r="114"/>
+  <circle id="circle47" cx="128.752" cy="123.248" fill="url(#linearGradient11065)" r="112"/>
+  <path id="circle871" d="m16.865234 121a112 112 0 0 0 -.113281 2.24805 112 112 0 0 0 111.999997 112 112 112 0 0 0 112-112 112 112 0 0 0 -.08007-2.24805z" fill="#fcfcfc" opacity=".3"/>
+  <g id="g875" transform="translate(0 -9.999999)">
+    <path id="path919" d="m175.62462 99.824554 3.29712 13.861036h-24.3661c-.00081-.00069-.003-.002-.003-.003l7.79603 16.63746h16.57321l-3.29711 13.86102 16.484-22.17843z" fill="#f22c42" fill-rule="evenodd" stroke-width="7.836725"/>
+    <path id="rect3090" d="m121.91865 61.748001-45.177393 116.166659h-9.489261v6.83334h34.166664v-6.83334h-11.010738l10.630358-27.33333h48.59409l10.63036 27.33333h-11.01073v6.83334h41v-6.83334h-9.48927l-45.17741-116.166659zm3.41667 26.359056 21.64113 55.640943h-43.28224z" fill="#5d5d5d"/>
+  </g>
+</svg>
+>>>>>>> gusbemacbe

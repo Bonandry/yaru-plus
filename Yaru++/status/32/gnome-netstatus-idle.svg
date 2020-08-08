@@ -1,1 +1,22 @@
-network-idle.svg
+<svg id="svg43" height="32" viewBox="0 0 8.4666664 8.4666659" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="a-3-1" color-interpolation-filters="sRGB" height="2.62" width="2.62" x="-.81" y="-.81">
+    <feGaussianBlur id="feGaussianBlur2-6-2" stdDeviation="2.7"/>
+  </filter>
+  <linearGradient id="c" gradientTransform="matrix(.16111112 0 0 .16111088 .261784 248.8237)" gradientUnits="userSpaceOnUse" x1="13.735326" x2="38.099998" y1="249.69423" y2="292.76666">
+    <stop id="stop14" offset="0" stop-color="#8c59d9"/>
+    <stop id="stop16" offset="1" stop-color="#a7a7f1"/>
+  </linearGradient>
+  <g id="g41" transform="translate(0 -288.53336)">
+    <ellipse id="ellipse19" cx="-4.26875" cy="-292.93127" opacity=".1" rx="3.968749" ry="3.968742" transform="scale(-1)"/>
+    <ellipse id="ellipse21" cx="4.26875" cy="292.66669" fill="url(#c)" rx="3.836458" ry="3.836451"/>
+    <g id="g861" fill="#fff" transform="matrix(.15000745 0 0 .15000745 -.801406 287.73559)">
+      <path id="path843" d="m49.751953 75.425781c-1.108 0-2 .892-2 2v30.455079c0 1.108.892 2 2 2h23.623047a1.0912852 1.0912852 0 0 0 -.002.0703v11.99024h-19.275344a1.8197261 1.8197261 0 0 0 0 3.63867h72.560544v12.72656a1.092775 1.092775 0 0 0 .0449.30859h-23.66406c-1.108 0-2 .892-2 2v30.45508c0 1.108.892 2 2 2h49.42578c1.108 0 2-.892 2-2v-30.45508c0-1.108-.892-2-2-2h-23.66601a1.092775 1.092775 0 0 0 .0449-.30859v-12.72656h72.56055a1.8197261 1.8197261 0 0 0 0-3.63867h-19.27539v-11.99024a1.0912852 1.0912852 0 0 0 -.002-.0703h23.625c1.108 0 2-.892 2-2v-30.455079c0-1.108-.892-2-2-2h-49.42578c-1.108 0-2 .892-2 2v30.455079c0 1.108.892 2 2 2h23.62695a1.0912852 1.0912852 0 0 0 -.002.0703v11.99024h-104.392446v-11.99024a1.0912852 1.0912852 0 0 0 -.002-.0703h23.621093c1.107993 0 1.999993-.892 1.999993-2v-30.455079c0-1.108-.892-2-1.999993-2z" opacity=".4" transform="matrix(.26457031328 0 0 .26457031328 -.0000004456 .00000021364)"/>
+      <circle id="circle849" cx="19.715395" cy="32.685867" r="1.058281"/>
+      <circle id="circle851" cx="10.48" cy="10.48" filter="url(#a-3-1)" r="4" transform="matrix(.26457031 0 0 .26457031 16.942701 29.913166)"/>
+      <circle id="circle853" cx="47.895271" cy="32.685867" r="1.058281"/>
+      <circle id="circle855" cx="10.48" cy="10.48" filter="url(#a-3-1)" r="4" transform="matrix(.26457031 0 0 .26457031 45.122577 29.913166)"/>
+      <circle id="circle857" cx="33.805332" cy="32.685867" r="1.058281"/>
+      <circle id="circle859" cx="10.48" cy="10.48" filter="url(#a-3-1)" r="4" transform="matrix(.26457031 0 0 .26457031 31.032639 29.913166)"/>
+    </g>
+  </g>
+</svg>
