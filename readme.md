@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-    <img src="images/icone.svg" alt="Icons">
-=======
     <img src="immagini/icone.svg" alt="Icons">
->>>>>>> gusbemacbe
 </p>
 
 <h4 align="center">A third-party Yaru++ icons for more than 20 distributions </h4>
