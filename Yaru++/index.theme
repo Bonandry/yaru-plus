@@ -2,13 +2,16 @@
 Name=Yaru++
 
 Comment=An elegant and modern third party icons theme based on Canonical’s Yaru
-Comment[it]=Un elegante e moderno tema di icone di terze parti, basato sul Yaru di Canonical
+Comment[it]=Un tema elegante e moderno di icone di terze parti, basato sul Yaru di Canonical
+Comment[pt]=Um tema elegante e moderno de ícones terceirzados, baseado no Yaru da Canonical
+Comment[pt_BR]=Um tema chique e moderno de ícones terceirzados, baseado no Yaru da Canonical
+Comment[pt_PT]=Um tema elegante e moderno de ícones terceirzados, baseado no Yaru da Canonical
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Yaru,Suru++,Suru
+Inherits=Yaru,Humanity,breeze,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
@@ -23,7 +26,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/32,apps/48,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/48,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/48,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emotes/22,emmoltes/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/48,places/scalable,places/symbolic,status/16,status/24,status/32,status/48,status/scalable,status/symbolic,scalable-max-32/status
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emotes/22,emotes/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
 
 [actions/16]
 Context=Actions
@@ -46,11 +49,6 @@ Context=Actions
 MinSize=8
 MaxSize=47
 Type=Scalable
-
-[actions/48]
-Context=Actions
-Size=48
-Type=Fixed
 
 [actions/scalable]
 Context=Actions
@@ -81,23 +79,13 @@ MaxSize=31
 Type=Scalable
 
 [apps/16]
-Context=Applications
+Context=Actions
 Size=16
 Type=Fixed
 
 [apps/24]
-Context=Applications
+Context=Actions
 Size=24
-Type=Fixed
-
-[apps/32]
-Context=Applications
-Size=32
-Type=Fixed
-
-[apps/48]
-Context=Applications
-Size=48
 Type=Fixed
 
 [apps/scalable]
@@ -125,11 +113,6 @@ Size=24
 Type=Fixed
 
 [categories/32]
-Context=Categories
-Size=48
-Type=Fixed
-
-[categories/48]
 Context=Categories
 Size=32
 Type=Fixed
@@ -161,11 +144,6 @@ Type=Fixed
 [devices/32]
 Context=Devices
 Size=32
-Type=Fixed
-
-[devices/48]
-Context=Devices
-Size=48
 Type=Fixed
 
 [devices/scalable]
@@ -223,11 +201,6 @@ Type=Fixed
 Size=32
 Type=Fixed
 
-[mimetypes/48]
-Context=Mimetypes
-Size=48
-Type=Fixed
-
 [mimetypes/scalable]
 Context=Mimetypes
 Size=512
@@ -255,11 +228,6 @@ Type=Fixed
 [places/32]
 Context=Places
 Size=32
-Type=Fixed
-
-[places/48]
-Context=Places
-Size=48
 Type=Fixed
 
 [places/scalable]
@@ -291,16 +259,11 @@ MaxSize=31
 Type=Scalable
 
 [status/32]
-Size=48
+Size=32
 Context=Status
 MinSize=8
 MaxSize=48
 Type=Scalable
-
-[status/48]
-Context=Status
-Size=48
-Type=Fixed
 
 [status/scalable]
 Context=Status

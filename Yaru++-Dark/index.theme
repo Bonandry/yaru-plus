@@ -1,13 +1,11 @@
 [Icon Theme]
 Name=Yaru++ Dark 
-Name[fr]=Yaru++ Sombre
 Name[it]=Yaru++ Scuro
 Name[pt]=Yaru++ Escuro
 Name[pt_BR]=Yaru++ Escuro
 Name[pt_PT]=Yaru++ Escuro
 
 Comment=A dark elegant and modern third party icons theme based on Canonical’s Yaru
-Comment[fr]=Un thème d’icônes élégant, moderne et sombre, basé sur l’Yaru de la Canonical
 Comment[it]=Un tema escuro elegante e moderno di icone di terze parti, basato sul Yaru di Canonical
 Comment[pt]=Um tema escuro elegante e moderno de ícones terceirzados, baseado no Yaru da Canonical
 Comment[pt_BR]=Um tema escuro chique e moderno de ícones terceirzados, baseado no Yaru da Canonical
@@ -32,7 +30,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/32,apps/48,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/48,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/48,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emmoltes/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/48,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emmoltes/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
 
 [actions/16]
 Context=Actions
@@ -94,16 +92,6 @@ Context=Actions
 Size=24
 Type=Fixed
 
-[apps/32]
-Context=Actions
-Size=32
-Type=Fixed
-
-[apps/48]
-Context=Actions
-Size=48
-Type=Fixed
-
 [apps/scalable]
 Context=Applications
 Size=512
@@ -133,11 +121,6 @@ Context=Categories
 Size=32
 Type=Fixed
 
-[categories/48]
-Context=Categories
-Size=48
-Type=Fixed
-
 [categories/scalable]
 Context=Categories
 Size=512
@@ -165,11 +148,6 @@ Type=Fixed
 [devices/32]
 Context=Devices
 Size=32
-Type=Fixed
-
-[devices/48]
-Context=Devices
-Size=48
 Type=Fixed
 
 [devices/scalable]
@@ -222,10 +200,6 @@ Type=Fixed
 Size=32
 Type=Fixed
 
-[mimetypes/48]
-Size=48
-Type=Fixed
-
 [mimetypes/scalable]
 Context=Mimetypes
 Size=512
@@ -253,11 +227,6 @@ Type=Fixed
 [places/32]
 Context=Places
 Size=32
-Type=Fixed
-
-[places/48]
-Context=Places
-Size=48
 Type=Fixed
 
 [places/scalable]
@@ -315,3 +284,4 @@ Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
+

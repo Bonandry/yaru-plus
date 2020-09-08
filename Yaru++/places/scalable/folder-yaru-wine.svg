@@ -1,0 +1,30 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="folder-yaru-wine">
+        <path id="secondario" d="M55.7169 20.7725C20.3466 20.7725 16.7208 22.7717 16.7208 58.0712V108.777H240.732V77.6971C240.732 42.3977 237.106 36.7732 201.736 36.7732H114.726L98.7249 20.7725H55.7169Z" fill="url(#paint0_linear)"/>
+        <path id="ombra" opacity="0.5" d="M55.7163 68.7747C20.346 68.7747 16.7208 72.3999 16.7208 107.699V189.858C16.7208 225.157 20.346 228.783 55.7163 228.783H201.736C237.107 228.783 240.732 225.157 240.732 189.858V91.6986C240.732 56.3991 237.107 52.7739 201.736 52.7739H120.476L104.467 68.7747H55.7163Z" fill="#242424"/>
+        <path id="primario" d="M55.7163 68.7747C20.346 68.7747 16.7208 72.3999 16.7208 107.699V189.858C16.7208 225.157 20.346 228.783 55.7163 228.783H201.736C237.107 228.783 240.732 225.157 240.732 189.858V91.6986C240.732 56.3991 237.107 52.7739 201.736 52.7739H120.476L104.467 68.7747H55.7163Z" fill="url(#paint1_linear)"/>
+        <path id="contorno superiore del secondario" opacity="0.4" d="M55.7169 20.7725C20.3466 20.7725 16.7208 22.7717 16.7208 58.0712V60.0713C16.7208 24.7718 20.3466 22.7725 55.7169 22.7725H98.7249L114.726 38.7733H201.736C237.106 38.7733 240.732 44.3978 240.732 79.6972V77.6971C240.732 42.3976 237.106 36.7732 201.736 36.7732H114.726L98.7249 20.7725H55.7169Z" fill="url(#paint2_radial)"/>
+        <path id="contorno superiore del primario" opacity="0.4" d="M120.476 52.7739L104.467 68.7747H55.7169C20.3466 68.7747 16.7208 72.3991 16.7208 107.699V109.699C16.7208 74.3991 20.3466 70.7748 55.7169 70.7748H104.467L120.476 54.774H201.736C237.106 54.774 240.732 58.3984 240.732 93.6978V91.6977C240.732 56.3983 237.106 52.7739 201.736 52.7739H120.476Z" fill="url(#paint3_radial)"/>
+        <path id="effetto piega" opacity="0.1" d="M240.732 162.779L176.729 226.782H201.736C237.106 226.782 240.732 223.158 240.732 187.859V162.779Z" fill="white"/>
+        <path id="contorno inferiore del primario" opacity="0.2" d="M16.7208 187.858V189.859C16.7208 225.158 20.3466 228.782 55.7169 228.782H201.736C237.106 228.782 240.732 225.158 240.732 189.859V187.858C240.732 223.158 237.106 226.782 201.736 226.782H55.7169C20.3466 226.782 16.7208 223.158 16.7208 187.858V187.858Z" fill="#491706"/>
+        <path id="windows" d="M81.4175 107.41L120.241 102.139L120.258 139.472L81.4175 139.697V107.41ZM120.223 143.774L120.252 181.14L81.4175 175.821V143.523L120.223 143.774ZM124.929 101.45L176.406 93.96V138.998L124.929 139.406V101.45ZM176.418 144.125L176.405 188.96L124.929 181.717L124.857 144.042L176.418 144.125Z" fill="#BEBEBE"/>
+    </g>
+    <defs>
+        <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128.726 28.7728) scale(112.006 29.4624)">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="white" stop-opacity="0.203922"/>
+        </radialGradient>
+        <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(124.726 64.7746) scale(112.006 28.4623)">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="white" stop-opacity="0.203922"/>
+        </radialGradient>
+        <linearGradient id="paint0_linear" x1="241" y1="50.0002" x2="17" y2="129" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E75727"/>
+            <stop offset="0.874098" stop-color="#6C234C"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="17" y1="53.0002" x2="241" y2="229" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#666666"/>
+            <stop offset="1" stop-color="#7A7A7A"/>
+        </linearGradient>
+    </defs>
+</svg>

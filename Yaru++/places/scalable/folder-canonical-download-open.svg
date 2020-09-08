@@ -1,0 +1,37 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="folder-yaru-download-open">
+        <g id="Group">
+            <path id="Vector" opacity="0.4" d="M54.7168 23.7723C19.3466 23.7723 15.7208 25.7716 15.7208 61.0711V192.859C15.7208 228.158 19.3466 231.783 54.7168 231.783H200.736C236.106 231.783 239.732 228.158 239.732 192.859V80.697C239.732 45.3975 236.106 39.7731 200.736 39.7731H113.726L97.7248 23.7723H54.7168Z" fill="url(#paint0_linear)"/>
+            <path id="secondario" d="M54.7168 23.7723C19.3466 23.7723 15.7208 25.7716 15.7208 61.0711V151.779H239.732V80.697C239.732 45.3975 236.106 39.7731 200.736 39.7731H113.726L97.7248 23.7723H54.7168Z" fill="url(#paint1_linear)"/>
+            <path id="primario" d="M54.7162 103.776C19.3459 103.776 15.7208 107.401 15.7208 142.701V192.858C15.7208 228.157 19.3459 231.783 54.7162 231.783H200.736C236.107 231.783 239.732 228.157 239.732 192.858V126.7C239.732 91.4006 236.096 88.6458 200.736 87.7755H119.476L103.467 103.776H54.7162Z" fill="url(#paint2_linear)"/>
+            <path id="Vector_2" opacity="0.4" d="M54.7168 23.7723C19.3466 23.7723 15.7208 25.7716 15.7208 61.0711V63.0711C15.7208 27.7717 19.3466 25.7724 54.7168 25.7724H97.7248L113.726 41.7732H200.736C236.106 41.7732 239.732 47.3976 239.732 82.6971V80.697C239.732 45.3975 236.106 39.7731 200.736 39.7731H113.726L97.7248 23.7723H54.7168Z" fill="url(#paint3_radial)"/>
+            <path id="Vector_3" opacity="0.1" d="M239.732 165.779L175.729 229.782H200.736C236.106 229.782 239.732 226.158 239.732 190.859V165.779Z" fill="white"/>
+            <path id="Vector_4" opacity="0.4" d="M119.476 87.7755L103.467 103.776H54.7168C19.3466 103.776 15.7208 107.401 15.7208 142.7V144.7C15.7208 109.401 19.3466 105.776 54.7168 105.776H103.467L119.476 89.7756H200.736C236.106 89.7756 239.732 93.3999 239.732 128.699V126.699C239.732 91.3998 236.106 87.7755 200.736 87.7755H119.476Z" fill="url(#paint4_radial)"/>
+        </g>
+        <path id="scaricamento" d="M117.2 125.712V161.705L106.4 161.712C106.4 161.712 114.8 181.285 128.001 200.271C141.201 181.285 149.6 161.712 149.6 161.712L138.8 161.705V125.712H117.2ZM120.8 129.312H135.2V165.303L143.877 165.31C141.534 170.401 136.577 180.443 128.001 193.579C119.425 180.443 114.466 170.401 112.123 165.31L120.8 165.303V129.312ZM102.801 212.112V215.712H153.199V212.112H102.801Z" fill="#DDCAD4"/>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x1="239.732" y1="223.782" x2="23.7212" y2="23.7723" gradientUnits="userSpaceOnUse">
+            <stop/>
+            <stop offset="0.16" stop-opacity="0.433"/>
+            <stop offset="0.194" stop-opacity="0.099"/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="240" y1="66.2855" x2="2.1231" y2="123.963" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#853E64"/>
+            <stop offset="0.874098" stop-color="#E77727"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="15.9999" y1="87.9606" x2="204.473" y2="268.955" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#AD7F98"/>
+            <stop offset="1" stop-color="#925475"/>
+        </linearGradient>
+        <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(127.726 31.7727) scale(112.006 29.4624)">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="white" stop-opacity="0.203922"/>
+        </radialGradient>
+        <radialGradient id="paint4_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(123.726 99.7762) scale(112.006 28.4623)">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="white" stop-opacity="0.203922"/>
+        </radialGradient>
+    </defs>
+</svg>
