@@ -1,3 +1,6 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <path d="m8 0c4.418 0 8 3.582 8 8s-3.582 8-8 8-8-3.582-8-8 3.582-8 8-8zm0 1.777c-3.436 0-6.223 2.787-6.223 6.223s2.787 6.223 6.223 6.223 6.223-2.787 6.223-6.223-2.787-6.223-6.223-6.223zm.549 3.556 1.762 1.369 1.794 1.298-1.792 1.298-1.764 1.369.022-1.778h-4.994l.988-1.778h4.005z" fill="#808080"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g fill="gray">
+        <path d="M0 1v14h11v-5h-1v4H1V2h9v5h1V1z"/>
+        <path d="M15.084 8H7.082V6c-.76.348-1.534.736-2.322 1.166-.781.43-1.535.876-2.26 1.334.725.45 1.479.89 2.26 1.32.788.43 1.563.823 2.324 1.18V9h8z" style="line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;marker:none" color="#000" font-weight="400" font-family="sans-serif" overflow="visible"/>
+    </g>
 </svg>

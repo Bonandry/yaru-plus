@@ -1,9 +1,69 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#808080">
-    <path d="m3 2v17h1v-16h13.475352l-.03049 2h-11.444862v17h8v-1h-7l.2013089-15h12.7986911v4h1v-5h-2.587098l-.0027-3h-13.1035614z"/>
-    <g transform="translate(-19.254237 9.01695)">
-      <path d="m35.288136 8.8834746v5.6250004h7.5v-5.6250004zm6.875 5.0000004v-4.3750004 4.3750004h-6.25z"/>
-      <path d="m39.038136 4.5084746a3.125 3.125 0 0 0 -3.125 3.125v1.25h.625v-1.25c0-1.38875 1.11125-2.5 2.5-2.5s2.5 1.11125 2.5 2.5v1.25h.625v-1.25a3.125 3.125 0 0 0 -3.125-3.125z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="edit-clone.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1461"
+     inkscape:window-height="823"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10" />
+  <g
+     fill="#808080"
+     id="g10">
+    <path
+       d="m3 2v17h1v-16h13.475352l-.03049 2h-11.444862v17h8v-1h-7l.2013089-15h12.7986911v4h1v-5h-2.587098l-.0027-3h-13.1035614z"
+       id="path2" />
+    <g
+       transform="translate(-19.254237 9.01695)"
+       id="g8"
+       style="fill:#03c100;fill-opacity:1">
+      <path
+         d="m35.288136 8.8834746v5.6250004h7.5v-5.6250004zm6.875 5.0000004v-4.3750004 4.3750004h-6.25z"
+         id="path4"
+         style="fill:#03c100;fill-opacity:1" />
+      <path
+         d="m39.038136 4.5084746a3.125 3.125 0 0 0 -3.125 3.125v1.25h.625v-1.25c0-1.38875 1.11125-2.5 2.5-2.5s2.5 1.11125 2.5 2.5v1.25h.625v-1.25a3.125 3.125 0 0 0 -3.125-3.125z"
+         id="path6"
+         style="fill:#03c100;fill-opacity:1" />
     </g>
   </g>
 </svg>
