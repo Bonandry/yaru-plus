@@ -202,6 +202,18 @@ For Ubuntu users:
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' env DESTDIR="$HOME/.icons" sh
 ```
 
+After, there is a simple way to hack the original Yaru icons theme to use only third party icons. Simply change the following line in `/usr/share/icons/Yaru/index.theme` file:
+
+```
+Inherits=Humanity,hicolor 
+```
+
+becomes 
+
+```
+Inherits=Yaru++-Minimal,Humanity,hicolor
+```
+
 ### HOME directory for KDE
 
 #### Only Yaru++
@@ -245,6 +257,18 @@ For Ubuntu users:
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' env DESTDIR="$HOME/.local/share/icons" sh
 ```
 
+After, there is a simple way to hack the original Yaru icons theme to use only third party icons. Simply change the following line in `/usr/share/icons/Yaru/index.theme` file:
+
+```
+Inherits=Humanity,hicolor 
+```
+
+becomes 
+
+```
+Inherits=Yaru++-Minimal,Humanity,hicolor
+```
+
 ### \*BSD systems
 
 #### Only Yaru++
@@ -283,6 +307,18 @@ Observe that Canonical's original Yaru icons needs to be installed firstly
 
 ```zsh
 wget -qO- https://raw.githubusercontent.com/Bonandry/yaru-plus/master/install.sh | THEMES='Yaru++-Minimal' env DESTDIR="/usr/local/share/icons" sh
+```
+
+After, there is a simple way to hack the original Yaru icons theme to use only third party icons. Simply change the following line in `/usr/share/icons/Yaru/index.theme` file:
+
+```
+Inherits=Humanity,hicolor 
+```
+
+becomes 
+
+```
+Inherits=Yaru++-Minimal,Humanity,hicolor
 ```
 
 ### Uninstall
