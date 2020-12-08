@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="immagini/logotipo-4.0.svg" alt="Logotype">
+    <img src="immagini/cupcake_arachidi_von_hunty.png" height="256px" alt="Logotype">
 </p>
 
 <p align="center">
