@@ -4,7 +4,10 @@ on:
   pull_request:
   push:
     branches:
+      - beta
       - gusbemacbe
+      - master
+      - nightly
 
 jobs:
   run_tests:

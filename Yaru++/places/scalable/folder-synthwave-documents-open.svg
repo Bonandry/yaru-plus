@@ -1,0 +1,33 @@
+<svg fill="none" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="paint0_linear" gradientUnits="userSpaceOnUse" x1="239.732" x2="23.7212" y1="223.782" y2="23.7723">
+    <stop offset="0"/>
+    <stop offset=".16" stop-opacity=".433"/>
+    <stop offset=".194" stop-opacity=".099"/>
+    <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="paint1_linear" gradientUnits="userSpaceOnUse" x1="240" x2="2.12313" y1="66.2855" y2="123.963">
+    <stop offset="0" stop-color="#f0ea4d"/>
+    <stop offset=".874098" stop-color="#fc429d"/>
+  </linearGradient>
+  <linearGradient id="paint2_linear" gradientUnits="userSpaceOnUse" x1="15.9999" x2="204.473" y1="87.9606" y2="268.955">
+    <stop offset="0" stop-color="#2a2139"/>
+    <stop offset="1" stop-color="#413260"/>
+  </linearGradient>
+  <linearGradient id="lg1">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".203922"/>
+  </linearGradient>
+  <radialGradient id="paint3_radial" cx="0" cy="0" gradientTransform="matrix(112.006 0 0 29.4624 127.726 31.7727)" gradientUnits="userSpaceOnUse" r="1" xlink:href="#lg1"/>
+  <radialGradient id="paint4_radial" cx="0" cy="0" gradientTransform="matrix(112.006 0 0 28.4623 123.726 99.7762)" gradientUnits="userSpaceOnUse" r="1" xlink:href="#lg1"/>
+  <linearGradient id="paint5_linear" gradientUnits="userSpaceOnUse" x1="127.726" x2="127.726" y1="125.712" y2="215.712">
+    <stop offset="0" stop-color="#0fe4f5"/>
+    <stop offset="1" stop-color="#eb36ae"/>
+  </linearGradient>
+  <path d="m54.7168 23.7723c-35.3702 0-38.996 1.9993-38.996 37.2988v131.7879c0 35.299 3.6258 38.924 38.996 38.924h146.0192c35.37 0 38.996-3.625 38.996-38.924v-112.162c0-35.2995-3.626-40.9239-38.996-40.9239h-87.01l-16.0012-16.0008z" fill="url(#paint0_linear)" opacity=".4"/>
+  <path d="m54.7168 23.7723c-35.3702 0-38.996 1.9993-38.996 37.2988v90.7079h224.0112v-71.082c0-35.2995-3.626-40.9239-38.996-40.9239h-87.01l-16.0012-16.0008z" fill="url(#paint1_linear)"/>
+  <path d="m54.7162 103.776c-35.3703 0-38.9954 3.625-38.9954 38.925v50.157c0 35.299 3.6251 38.925 38.9954 38.925h146.0198c35.371 0 38.996-3.626 38.996-38.925v-66.158c0-35.2994-3.636-38.0542-38.996-38.9245h-81.26l-16.009 16.0005z" fill="url(#paint2_linear)"/>
+  <path d="m54.7168 23.7723c-35.3702 0-38.996 1.9993-38.996 37.2988v2c0-35.2994 3.6258-37.2987 38.996-37.2987h43.008l16.0012 16.0008h87.01c35.37 0 38.996 5.6244 38.996 40.9239v-2.0001c0-35.2995-3.626-40.9239-38.996-40.9239h-87.01l-16.0012-16.0008z" fill="url(#paint3_radial)" opacity=".4"/>
+  <path d="m239.732 165.779-64.003 64.003h25.007c35.37 0 38.996-3.624 38.996-38.923z" fill="#fff" opacity=".1"/>
+  <path d="m119.476 87.7755-16.009 16.0005h-48.7502c-35.3702 0-38.996 3.625-38.996 38.924v2c0-35.299 3.6258-38.924 38.996-38.924h48.7502l16.009-16.0004h81.26c35.37 0 38.996 3.6243 38.996 38.9234v-2c0-35.2992-3.626-38.9235-38.996-38.9235z" fill="url(#paint4_radial)" opacity=".4"/>
+  <path clip-rule="evenodd" d="m102.639 215.699c.513.003 1.042.007 1.586.013h.015 46.98.007c.536-.006 1.056-.01 1.561-.014 4.139-.029 7.286-.052 9.911-1.499 1.473-.813 2.634-2.182 3.279-3.898.644-1.716.879-3.755.879-6.328v-58.696-2.935l-16.631-16.63h-2.935-43.058-.008c-.536.006-1.056.01-1.561.014-4.1383.029-7.2856.052-9.9105 1.499-1.4727.812-2.6343 2.182-3.2787 3.898-.6445 1.716-.8789 3.755-.8789 6.328v66.522c0 2.573.2345 4.611.8789 6.328.6443 1.716 1.8059 3.093 3.2787 3.905 2.6197 1.446 5.7592 1.466 9.8855 1.493zm48.566-3.9h-46.956-.001c-4.9243-.058-8.1744-.234-9.6064-1.024-.7177-.396-1.1237-.833-1.5056-1.85-.3817-1.017-.6267-2.634-.6267-4.952v-66.522c0-2.318.2448-3.936.6267-4.952.3817-1.017.7879-1.454 1.5056-1.85 1.4321-.79 4.6817-.965 9.6064-1.024h.024 43.02v15.652h7.826 7.826v58.696c0 2.318-.244 3.936-.626 4.952-.382 1.017-.788 1.454-1.506 1.85-1.432.789-4.682.964-9.607 1.024zm-46.957-50.87v3.913h46.957v-3.913zm0 11.739v3.913h46.957v-3.913zm0 15.652v-3.913h46.957v3.913zm0 7.826v3.914h23.478v-3.914z" fill="url(#paint5_linear)" fill-rule="evenodd"/>
+</svg>
